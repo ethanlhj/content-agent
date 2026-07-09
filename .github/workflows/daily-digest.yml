@@ -1,0 +1,70 @@
+name: Daily content digest
+
+on:
+  schedule:
+    # 13:30 UTC = 9:30 AM Toronto (EDT). Winter (EST) this fires 8:30 AM — adjust to 14:30 if you care.
+    - cron: "30 13 * * *"
+  workflow_dispatch: {} # manual "Run workflow" button
+
+permissions:
+  contents: write # lets the workflow commit refreshed data back
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install ffmpeg
+        run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+
+      - name: Cache whisper.cpp build + model
+        id: whisper-cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            whisper.cpp/build/bin/whisper-cli
+            whisper.cpp/models/ggml-base.en.bin
+          key: whisper-cpp-base-en-v1
+
+      - name: Build whisper.cpp + download model
+        if: steps.whisper-cache.outputs.cache-hit != 'true'
+        run: |
+          git clone --depth 1 https://github.com/ggml-org/whisper.cpp.git
+          cd whisper.cpp
+          cmake -B build -DCMAKE_BUILD_TYPE=Release
+          cmake --build build -j --target whisper-cli
+          bash ./models/download-ggml-model.sh base.en
+
+      - name: Write .env from secrets
+        run: |
+          cat > .env <<EOF
+          APIFY_TOKEN=${{ secrets.APIFY_TOKEN }}
+          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_TOKEN=${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID }}
+          EOF
+
+      - name: Run full cycle
+        env:
+          WHISPER_CLI: ${{ github.workspace }}/whisper.cpp/build/bin/whisper-cli
+          WHISPER_MODEL: ${{ github.workspace }}/whisper.cpp/models/ggml-base.en.bin
+        run: node scripts/run-all.js
+
+      - name: Commit refreshed data back
+        run: |
+          rm -f .env
+          git config user.name "content-agent-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add dashboard/data.json dashboard/data.js dashboard/scripts_data.js output/ scripts/reel-to-script/last_*.json scripts/reel-to-script/last_*.txt || true
+          git diff --cached --quiet || git commit -m "data: daily pull $(date -u +%F)"
+          git push

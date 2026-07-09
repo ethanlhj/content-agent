@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>@ethan_invests — Content Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* ===== Design tokens (ui-ux-pro-max: Data-Dense Dashboard / modern clean) ===== */
+  :root{
+    --color-primary:#1E40AF;
+    --color-primary-soft:#EFF4FF;
+    --color-secondary:#3B82F6;
+    --color-accent:#D97706;
+    --color-accent-soft:#FEF3E2;
+    --color-background:#F8FAFC;
+    --color-surface:#FFFFFF;
+    --color-text:#0F172A;
+    --color-text-2:#475569;
+    --color-heading:#1E3A8A;
+    --color-border:#E2E8F0;
+    --color-border-strong:#DBEAFE;
+    --color-up:#059669;
+    --color-up-soft:#E7F5EE;
+    --color-down:#DC2626;
+    --color-ring:#1E40AF;
+
+    /* legacy aliases (used by scripts-panel.js injected CSS) */
+    --bg:var(--color-background);
+    --ink:var(--color-text);
+    --ink-soft:var(--color-text-2);
+    --line:var(--color-border);
+    --accent:var(--color-primary);
+    --accent-soft:var(--color-primary-soft);
+    --card:var(--color-surface);
+
+    --shadow-1:0 1px 2px rgba(15,23,42,.05);
+    --shadow-2:0 1px 2px rgba(15,23,42,.05), 0 8px 24px rgba(15,23,42,.08);
+    --radius:14px;
+    --mono:"IBM Plex Mono","Cascadia Code",Consolas,monospace;
+    --sans:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+    --dur:200ms;
+    --ease:cubic-bezier(.2,.7,.3,1);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--color-background);color:var(--color-text);font-family:var(--sans);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  :focus-visible{outline:2px solid var(--color-ring);outline-offset:2px;border-radius:6px}
+  @media (prefers-reduced-motion: reduce){
+    *,*::before,*::after{animation:none!important;transition:none!important}
+  }
+
+  /* ===== ticker tape (signature) ===== */
+  .tape{border-bottom:1px solid var(--color-border);overflow:hidden;white-space:nowrap;background:var(--color-surface)}
+  .tape-track{display:inline-block;padding:10px 0;animation:tape 40s linear infinite}
+  .tape:hover .tape-track{animation-play-state:paused}
+  .tick{font-family:var(--mono);font-size:12px;margin:0 24px;color:var(--color-text-2);font-variant-numeric:tabular-nums}
+  .tick b{color:var(--color-text);font-weight:600}
+  .tick .up{color:var(--color-up);font-weight:600}
+  @keyframes tape{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+  /* ===== header ===== */
+  header{max-width:1160px;margin:0 auto;padding:40px 28px 8px;display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px}
+  .brand{font-size:26px;font-weight:800;letter-spacing:-.03em;color:var(--color-heading)}
+  .brand .at{color:var(--color-secondary)}
+  .stamp{font-family:var(--mono);font-size:12px;color:var(--color-text-2);font-variant-numeric:tabular-nums}
+
+  /* ===== stat strip ===== */
+  .stats{max-width:1160px;margin:20px auto 0;padding:0 28px;display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+  .stat{background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius);box-shadow:var(--shadow-1);padding:20px 22px;transition:box-shadow var(--dur) var(--ease),border-color var(--dur) var(--ease),transform var(--dur) var(--ease)}
+  .stat.link{cursor:pointer}
+  .stat.link:hover{transform:translateY(-2px);box-shadow:var(--shadow-2);border-color:var(--color-border-strong)}
+  .stat .lbl{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--color-text-2)}
+  .stat .val{font-family:var(--mono);font-size:30px;font-weight:600;margin-top:8px;font-variant-numeric:tabular-nums;color:var(--color-text)}
+  .stat .sub{font-size:13px;color:var(--color-text-2);margin-top:6px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .stat .sub .up{color:var(--color-up);font-weight:600}
+
+  /* ===== section titles ===== */
+  .desk-title{max-width:1160px;margin:40px auto 0;padding:0 28px;display:flex;align-items:center;gap:12px}
+  .desk-title h2{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--color-heading)}
+  .desk-title .rule{flex:1;height:1px;background:var(--color-border)}
+
+  /* ===== agent grid ===== */
+  .agents{max-width:1160px;margin:16px auto;padding:0 28px 8px;display:grid;grid-template-columns:repeat(5,1fr);gap:16px}
+  .agent{background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius);box-shadow:var(--shadow-1);padding:18px;cursor:pointer;transition:box-shadow var(--dur) var(--ease),border-color var(--dur) var(--ease),transform var(--dur) var(--ease)}
+  .agent:hover{transform:translateY(-3px);box-shadow:var(--shadow-2);border-color:var(--color-secondary)}
+  .agent:active{transform:translateY(-1px)}
+  .agent .top{display:flex;justify-content:space-between;align-items:center}
+  .agent h3{font-size:16px;font-weight:700;letter-spacing:-.01em;color:var(--color-heading)}
+  .dot{width:8px;height:8px;border-radius:50%;background:var(--color-up);animation:pulse 1.8s ease-in-out infinite}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(5,150,105,.35)}50%{box-shadow:0 0 0 6px rgba(5,150,105,0)}}
+  .agent .role{font-size:12.5px;color:var(--color-text-2);margin-top:4px;min-height:2.4em;line-height:1.5}
+  .agent .metrics{margin-top:14px;border-top:1px solid var(--color-border);padding-top:12px;display:flex;flex-direction:column;gap:7px}
+  .m{display:flex;justify-content:space-between;font-size:12.5px;gap:8px}
+  .m .k{color:var(--color-text-2)}
+  .m .v{font-family:var(--mono);font-weight:600;font-variant-numeric:tabular-nums;color:var(--color-text)}
+  .agent .open{margin-top:14px;font-size:11.5px;font-weight:700;color:var(--color-primary);letter-spacing:.06em;text-transform:uppercase}
+  .agent:hover .open{text-decoration:underline;text-underline-offset:3px}
+
+  /* ===== drill-down panel ===== */
+  .panel-wrap{max-width:1160px;margin:0 auto 64px;padding:0 28px}
+  .panel{background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius);box-shadow:var(--shadow-2);padding:28px;display:none}
+  .panel.on{display:block;animation:rise .25s var(--ease)}
+  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .panel h2{font-size:20px;font-weight:700;letter-spacing:-.02em;color:var(--color-heading)}
+  .panel .close{float:right;font-family:var(--mono);font-size:11px;color:var(--color-text-2);cursor:pointer;border:1px solid var(--color-border);border-radius:8px;padding:6px 12px;background:none;transition:border-color var(--dur) var(--ease),color var(--dur) var(--ease)}
+  .panel .close:hover{border-color:var(--color-primary);color:var(--color-primary)}
+  .panel .body{margin-top:18px;display:flex;flex-direction:column;gap:12px}
+  .row{border:1px solid var(--color-border);border-radius:12px;padding:14px 16px;background:var(--color-surface)}
+  .row .h{font-size:14px;font-weight:700;color:var(--color-text)}
+  .row .h .tag{font-family:var(--mono);font-size:10px;color:var(--color-primary);background:var(--color-primary-soft);border-radius:6px;padding:2px 8px;margin-left:8px;vertical-align:1px}
+  .row .d{font-size:13px;color:var(--color-text-2);margin-top:5px;line-height:1.6}
+  .row .d a{color:var(--color-primary);text-decoration:underline;text-underline-offset:2px}
+  .row pre{font-family:var(--mono);font-size:12.5px;background:var(--color-background);border:1px solid var(--color-border);border-radius:10px;padding:12px 14px;margin-top:10px;white-space:pre-wrap;line-height:1.6}
+
+  /* ===== responsive ===== */
+  @media(max-width:1024px){.agents{grid-template-columns:repeat(3,1fr)}}
+  @media(max-width:900px){.stats{grid-template-columns:repeat(2,1fr)}.agents{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:560px){.stats{grid-template-columns:1fr}.agents{grid-template-columns:1fr}.brand{font-size:22px}}
+</style>
+</head>
+<body>
+  <div class="tape" aria-hidden="true"><div class="tape-track" id="tape"></div></div>
+
+  <header>
+    <div class="brand"><span class="at">@</span>ethan_invests · content desk</div>
+    <div class="stamp" id="stamp">last pull —</div>
+  </header>
+
+  <section class="stats" id="stats" aria-label="Account stats"></section>
+
+  <div class="desk-title"><h2>Agent floor · 5 desks live</h2><div class="rule"></div></div>
+  <section class="agents" id="agents" aria-label="Agents"></section>
+
+  <div class="desk-title"><h2 id="scripts-count">Script desk</h2><div class="rule"></div></div>
+  <section class="scripts" id="scripts" aria-label="Scripts ready to film"></section>
+
+  <div class="panel-wrap"><div class="panel" id="panel"></div></div>
+
+  <script src="data.js"></script>
+  <script src="agents.js"></script>
+  <script src="app.js"></script>
+  <script src="scripts_data.js"></script>
+  <script src="scripts-panel.js"></script>
+</body>
+</html>

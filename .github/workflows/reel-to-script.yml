@@ -1,22 +1,20 @@
-name: Daily content digest
+name: Reel to script (on demand)
 
 on:
-  schedule:
-    # 13:30 UTC = 9:30 AM Toronto (EDT). Winter (EST) this fires 8:30 AM — adjust to 14:30 if you care.
-    - cron: "30 13 * * *"
-  workflow_dispatch: {} # manual "Run workflow" button
+  workflow_dispatch:
+    inputs:
+      reel_url:
+        description: "Instagram reel URL"
+        required: true
+        type: string
 
 permissions:
-  contents: write # lets the workflow commit refreshed data back
-
-concurrency:
-  group: daily-digest
-  cancel-in-progress: false
+  contents: write
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -50,17 +48,28 @@ jobs:
           ENV_FILE: ${{ secrets.ENV }}
         run: printf '%s\n' "$ENV_FILE" > .env
 
-      - name: Run full cycle
+      - name: Fetch, transcribe, script
         env:
           WHISPER_CLI: ${{ github.workspace }}/whisper.cpp/build/bin/whisper-cli
           WHISPER_MODEL: ${{ github.workspace }}/whisper.cpp/models/ggml-base.en.bin
-        run: node scripts/run-all.js
+        run: |
+          node scripts/reel-to-script/fetch.js "${{ inputs.reel_url }}"
+          node scripts/reel-to-script/transcribe.js
+          node scripts/reel-to-script/rewrite.js
+          node scripts/reel-to-script/output.js
+          node scripts/reel-to-script/view.js
 
-      - name: Commit refreshed data back
+      - name: Show transcript in run summary
+        run: |
+          echo "## Transcript" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          cat scripts/reel-to-script/last_transcript.txt >> $GITHUB_STEP_SUMMARY || true
+
+      - name: Commit results
         run: |
           rm -f .env
           git config user.name "content-agent-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add dashboard/data.json dashboard/data.js dashboard/scripts_data.js output/ scripts/reel-to-script/last_*.json scripts/reel-to-script/last_*.txt || true
-          git diff --cached --quiet || git commit -m "data: daily pull $(date -u +%F)"
+          git add output/ dashboard/scripts_data.js scripts/reel-to-script/last_*.json scripts/reel-to-script/last_*.txt || true
+          git diff --cached --quiet || git commit -m "script: on-demand reel $(date -u +%F)"
           git push

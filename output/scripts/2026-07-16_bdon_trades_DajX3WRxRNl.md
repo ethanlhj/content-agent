@@ -1,0 +1,26 @@
+# Script: This $4 AI infrastructure stock is on my watchlist right now...
+
+**Date:** 2026-07-16
+**Source:** [@bdon_trades](https://www.instagram.com/reel/DajX3WRxRNl/)
+**Why the original worked:** The source reel built credibility fast with three past calls and concrete numbers, then used a clear risk-reward frame to justify watching without recommending a chase.
+
+---
+
+## HOOK
+This $4 AI infrastructure stock is on my watchlist right now.
+
+## BODY
+1. The company is KEEL [VERIFY], formerly Bit Farms, which rebranded and pivoted to North American AI and HPC infrastructure. They have a 2.2 gigawatt power pipeline, $500 million in liquidity, and just added a president with serious data center experience.
+
+2. The stock ran from $2 to $7 already, so I want to see it pull back and base around $3 before I build a position. The real risk is the company still loses money, so execution has to be perfect. Think early CoreWeave [VERIFY] or IRN [VERIFY] energy, same uncertainty, same potential upside.
+
+## CTA
+Not financial advice, do your own research. Follow for more breakdowns and comment KEEL [VERIFY] if you want me to track this one publicly.
+
+---
+
+## Full read-through
+This $4 AI infrastructure stock is on my watchlist right now. The company is KEEL [VERIFY], formerly Bit Farms, which pivoted to North American AI and HPC infrastructure. They have a 2.2 gigawatt power pipeline, $500 million in liquidity, and a new president with real data center experience. It already ran from $2 to $7, so I want a pullback to around $3 before I size in. The company still loses money, so execution has to be perfect. Not financial advice. Follow and comment KEEL [VERIFY] if you want me to track this publicly.
+
+---
+*Check any [VERIFY] flags against the source before filming.*

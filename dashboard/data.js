@@ -1,12 +1,12 @@
 window.DATA = {
-  "pulledAt": "2026-07-26T14:49:29.234Z",
+  "pulledAt": "2026-07-27T15:59:21.606Z",
   "me": {
     "handle": "ethan_invests",
-    "followers": 1912,
+    "followers": 1914,
     "following": 10,
     "totalPosts": 16,
-    "totalViews": 1834276,
-    "totalLikes": 194552,
+    "totalViews": 1834309,
+    "totalLikes": 194625,
     "totalComments": 1186,
     "posts": [
       {
@@ -15,7 +15,7 @@ window.DATA = {
         "type": "Video",
         "caption": "big pltr pls don’t come after me 🙏😭 #palantir #stock #funny #stocks #stockmarket",
         "timestamp": "2026-03-05T14:37:58.000Z",
-        "likes": 111957,
+        "likes": 112003,
         "comments": 383,
         "views": 995055,
         "score": 995055,
@@ -27,7 +27,7 @@ window.DATA = {
         "type": "Video",
         "caption": "iran was stocks to watchlist !! #finance #stock #stocks #wealth #growth",
         "timestamp": "2026-03-02T06:14:04.000Z",
-        "likes": 35209,
+        "likes": 35207,
         "comments": 165,
         "views": 351061,
         "score": 351061,
@@ -39,7 +39,7 @@ window.DATA = {
         "type": "Video",
         "caption": "might be another covid pandemic #explore #stocks #stock #investing #finance",
         "timestamp": "2026-05-09T06:06:19.000Z",
-        "likes": 20741,
+        "likes": 20740,
         "comments": 304,
         "views": 264654,
         "score": 264654,
@@ -51,7 +51,7 @@ window.DATA = {
         "type": "Video",
         "caption": "big jim pls don’t strike me down i love living fyi 😭🙏 #stocks #wealth #stock #lockheed #lockheedmartin",
         "timestamp": "2026-03-06T06:58:18.000Z",
-        "likes": 22085,
+        "likes": 22114,
         "comments": 81,
         "views": 140168,
         "score": 140168,
@@ -99,10 +99,10 @@ window.DATA = {
         "type": "Video",
         "caption": "july stocks on watchlist that i’m adding heavy positions onto my portfolio #stocks #finance #stock #stockmarket #explore",
         "timestamp": "2026-07-22T05:00:45.000Z",
-        "likes": 39,
+        "likes": 40,
         "comments": 8,
-        "views": 3644,
-        "score": 3644,
+        "views": 3677,
+        "score": 3677,
         "owner": "ethan_invests"
       },
       {
@@ -206,7 +206,7 @@ window.DATA = {
   "competitors": [
     {
       "handle": "mo.invests",
-      "followers": 53284,
+      "followers": 53281,
       "posts": [
         {
           "id": "3941484664308768789",
@@ -214,22 +214,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Generational wealth round 2 loading.\n\n#investing #investingforbeginners #stockmarket #finance #money",
           "timestamp": "2026-07-15T02:17:23.000Z",
-          "likes": 586,
+          "likes": 588,
           "comments": 24,
-          "views": 39132,
-          "score": 39132,
-          "owner": "mo.invests"
-        },
-        {
-          "id": "3940756812976918540",
-          "url": "https://www.instagram.com/p/DawYXE_sJAM/",
-          "type": "Video",
-          "caption": "Cheap AI is everywhere. Proprietary data isn’t.\n\nGoogle and Meta can cut token prices forever, squeezing OpenAI and Anthropic. Apple just su",
-          "timestamp": "2026-07-14T02:09:16.000Z",
-          "likes": 609,
-          "comments": 94,
-          "views": 36537,
-          "score": 36537,
+          "views": 39252,
+          "score": 39252,
           "owner": "mo.invests"
         },
         {
@@ -238,10 +226,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Number 10 changed my life.\n-\n-\n#investing #stockmarket #financialfreedom #money #finance",
           "timestamp": "2026-07-13T20:08:50.000Z",
-          "likes": 785,
+          "likes": 786,
           "comments": 35,
-          "views": 27822,
-          "score": 27822,
+          "views": 27932,
+          "score": 27932,
           "owner": "mo.invests"
         },
         {
@@ -250,10 +238,10 @@ window.DATA = {
           "type": "Video",
           "caption": "3 stocks I bought this week.\n\n#investing #investingforbeginners #stockmarket #financialfreedom #money",
           "timestamp": "2026-07-22T01:50:10.000Z",
-          "likes": 546,
-          "comments": 64,
-          "views": 27017,
-          "score": 27017,
+          "likes": 551,
+          "comments": 67,
+          "views": 27391,
+          "score": 27391,
           "owner": "mo.invests"
         },
         {
@@ -262,10 +250,10 @@ window.DATA = {
           "type": "Video",
           "caption": "5 stocks you don’t want to miss.\n\n#investing #investingforbeginners #financialfreedom #stockmarket #money",
           "timestamp": "2026-07-23T01:35:50.000Z",
-          "likes": 419,
-          "comments": 67,
-          "views": 20717,
-          "score": 20717,
+          "likes": 426,
+          "comments": 71,
+          "views": 21045,
+          "score": 21045,
           "owner": "mo.invests"
         },
         {
@@ -274,10 +262,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Stocks don’t go straight up. Neither do portfolios.\n\nIf you want the upside, you have to be willing to accept the volatility that comes with",
           "timestamp": "2026-07-21T01:18:13.000Z",
-          "likes": 404,
-          "comments": 30,
-          "views": 18413,
-          "score": 18413,
+          "likes": 409,
+          "comments": 31,
+          "views": 18591,
+          "score": 18591,
           "owner": "mo.invests"
         },
         {
@@ -286,10 +274,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Number 10 is the most important\n\n#investing #stockmarket #financialfreedom #money #finance",
           "timestamp": "2026-07-14T16:42:14.000Z",
-          "likes": 458,
+          "likes": 461,
           "comments": 30,
-          "views": 17506,
-          "score": 17506,
+          "views": 17622,
+          "score": 17622,
           "owner": "mo.invests"
         },
         {
@@ -298,10 +286,10 @@ window.DATA = {
           "type": "Video",
           "caption": "The older I get, the less I care about looking successful and the more I care about building a life I’ll be proud of years from now. I’ve re",
           "timestamp": "2026-07-24T00:16:07.000Z",
-          "likes": 358,
+          "likes": 369,
           "comments": 38,
-          "views": 14988,
-          "score": 14988,
+          "views": 15485,
+          "score": 15485,
           "owner": "mo.invests"
         },
         {
@@ -310,10 +298,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Number 10 will save you thousands\n\n#investing #financialfreedom #stockmarket #money #finance",
           "timestamp": "2026-07-21T22:25:32.000Z",
-          "likes": 313,
+          "likes": 320,
           "comments": 16,
-          "views": 13897,
-          "score": 13897,
+          "views": 14207,
+          "score": 14207,
           "owner": "mo.invests"
         },
         {
@@ -322,7 +310,7 @@ window.DATA = {
           "type": "Video",
           "caption": "What’s your highest conviction stock?\n-\n-\n#investing #financialfreedom #investingforbeginners #stockmarket #money",
           "timestamp": "2026-07-01T01:18:08.000Z",
-          "likes": 725,
+          "likes": 727,
           "comments": 200,
           "views": 12462,
           "score": 12462,
@@ -336,8 +324,8 @@ window.DATA = {
           "timestamp": "2026-07-09T01:59:39.000Z",
           "likes": 351,
           "comments": 20,
-          "views": 12305,
-          "score": 12305,
+          "views": 12318,
+          "score": 12318,
           "owner": "mo.invests"
         },
         {
@@ -348,8 +336,8 @@ window.DATA = {
           "timestamp": "2026-07-10T23:08:24.000Z",
           "likes": 330,
           "comments": 17,
-          "views": 10793,
-          "score": 10793,
+          "views": 10807,
+          "score": 10807,
           "owner": "mo.invests"
         },
         {
@@ -365,15 +353,27 @@ window.DATA = {
           "owner": "mo.invests"
         },
         {
+          "id": "3950109265156674086",
+          "url": "https://www.instagram.com/p/DbRm3K1pJIm/",
+          "type": "Video",
+          "caption": "Number 10 should be illegal \n-\n-\n#investing #investingforbeginners #financialfreedom #stockmarket #money",
+          "timestamp": "2026-07-26T23:52:11.000Z",
+          "likes": 177,
+          "comments": 13,
+          "views": 8687,
+          "score": 8687,
+          "owner": "mo.invests"
+        },
+        {
           "id": "3948710390988783325",
           "url": "https://www.instagram.com/p/DbMoy3vx77d/",
           "type": "Video",
           "caption": "all glory to God.\n\n#investing #financialfreedom #mindset #stockmarket #money",
           "timestamp": "2026-07-25T01:42:24.000Z",
-          "likes": 163,
+          "likes": 171,
           "comments": 6,
-          "views": 7815,
-          "score": 7815,
+          "views": 8547,
+          "score": 8547,
           "owner": "mo.invests"
         },
         {
@@ -401,18 +401,6 @@ window.DATA = {
           "owner": "mo.invests"
         },
         {
-          "id": "3930944049464581738",
-          "url": "https://www.instagram.com/p/DaNhMk0RZ5q/",
-          "type": "Video",
-          "caption": "Get money Monday\n-\n-\n#investing #stockmarket #mindset #money #financialfreedom",
-          "timestamp": "2026-06-30T13:15:21.000Z",
-          "likes": 414,
-          "comments": 14,
-          "views": 4752,
-          "score": 4752,
-          "owner": "mo.invests"
-        },
-        {
           "id": "3892873255598007755",
           "url": "https://www.instagram.com/p/DYGQ5nDiaXL/",
           "type": "Sidecar",
@@ -437,12 +425,24 @@ window.DATA = {
           "owner": "mo.invests"
         },
         {
+          "id": "3940756812976918540",
+          "url": "https://www.instagram.com/p/DawYXE_sJAM/",
+          "type": "Video",
+          "caption": "Cheap AI is everywhere. Proprietary data isn’t.\n\nGoogle and Meta can cut token prices forever, squeezing OpenAI and Anthropic. Apple just su",
+          "timestamp": "2026-07-14T02:09:16.000Z",
+          "likes": 610,
+          "comments": 94,
+          "views": null,
+          "score": 610,
+          "owner": "mo.invests"
+        },
+        {
           "id": "3937002684882081100",
           "url": "https://www.instagram.com/p/DajCxUwJ9VM/",
           "type": "Video",
           "caption": "own the shortage\n\none ticker for the 3 companies making ~95% of the world’s memory.\n\nmicron’s CEO says they can only meet about half of thei",
           "timestamp": "2026-07-08T21:59:24.000Z",
-          "likes": 390,
+          "likes": 391,
           "comments": 35,
           "views": 51,
           "score": 51,
@@ -452,7 +452,7 @@ window.DATA = {
     },
     {
       "handle": "kevvonz",
-      "followers": 160567,
+      "followers": 161253,
       "posts": [
         {
           "id": "3947924143000586881",
@@ -460,10 +460,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Google stock is plummetting. Is it time to buy?\n\n#google #stock",
           "timestamp": "2026-07-23T23:31:07.000Z",
-          "likes": 2121,
-          "comments": 236,
-          "views": 193010,
-          "score": 193010,
+          "likes": 2191,
+          "comments": 265,
+          "views": 198721,
+          "score": 198721,
           "owner": "kevvonz"
         },
         {
@@ -472,10 +472,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Another big red day in the markets. What are you scooping up?",
           "timestamp": "2026-07-16T18:46:20.000Z",
-          "likes": 1784,
+          "likes": 1787,
           "comments": 73,
-          "views": 175158,
-          "score": 175158,
+          "views": 175923,
+          "score": 175923,
           "owner": "kevvonz"
         },
         {
@@ -484,10 +484,22 @@ window.DATA = {
           "type": "Video",
           "caption": "Stop being emotional about your portfolio going down. Let it reset so it make higher highs. \n\n#stocks #portfolio #stockmarket",
           "timestamp": "2026-07-17T18:24:15.000Z",
-          "likes": 840,
-          "comments": 43,
-          "views": 55940,
-          "score": 55940,
+          "likes": 848,
+          "comments": 44,
+          "views": 56888,
+          "score": 56888,
+          "owner": "kevvonz"
+        },
+        {
+          "id": "3950231082208146137",
+          "url": "https://www.instagram.com/p/DbSCj1zuTLZ/",
+          "type": "Video",
+          "caption": "5 generational stock buys that I am buying. Do you agree? What are you buying right now?\n\n#stocks #stockstobuy #10xstocks #kevonz #stockmark",
+          "timestamp": "2026-07-27T04:05:56.000Z",
+          "likes": 802,
+          "comments": 92,
+          "views": 53887,
+          "score": 53887,
           "owner": "kevvonz"
         },
         {
@@ -508,10 +520,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Korean stock market is fueling their degeneracy and I dont think it will end well. Are you buying into the hype?",
           "timestamp": "2026-07-14T23:25:48.000Z",
-          "likes": 534,
+          "likes": 538,
           "comments": 114,
-          "views": 41687,
-          "score": 41687,
+          "views": 42173,
+          "score": 42173,
           "owner": "kevvonz"
         },
         {
@@ -532,10 +544,10 @@ window.DATA = {
           "type": "Video",
           "caption": "The method to beating the market is to just tail exceptional people. However past performance is not always indicative of future results, tr",
           "timestamp": "2026-07-21T17:58:02.000Z",
-          "likes": 264,
-          "comments": 34,
-          "views": 30875,
-          "score": 30875,
+          "likes": 272,
+          "comments": 39,
+          "views": 32056,
+          "score": 32056,
           "owner": "kevvonz"
         },
         {
@@ -544,22 +556,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Putting $$$ where my conviction and research lies. Lots of bullish momentum on X and the sentiment for the stock is compounding upwards. Thi",
           "timestamp": "2026-01-26T18:30:16.000Z",
-          "likes": 653,
+          "likes": 652,
           "comments": 455,
           "views": 18775,
           "score": 18775,
-          "owner": "kevvonz"
-        },
-        {
-          "id": "3781928592428164542",
-          "url": "https://www.instagram.com/p/DR8HARtkuW-/",
-          "type": "Video",
-          "caption": "How I would investing my first 10k\n\n#investingforbeginners #howtoinvest #financialliteracy #financialeducation #stockmarket",
-          "timestamp": "2025-12-06T22:44:21.000Z",
-          "likes": 465,
-          "comments": 40,
-          "views": 10572,
-          "score": 10572,
           "owner": "kevvonz"
         },
         {
@@ -640,10 +640,10 @@ window.DATA = {
           "type": "Sidecar",
           "caption": "Bookmark these for later 📈\n\nThese are just some of my favourite stocks, if you want to see my entire portfolio just comment “stocks”!\n\n—\n#s",
           "timestamp": "2025-10-19T16:11:56.000Z",
-          "likes": 3562,
-          "comments": 1478,
+          "likes": 3567,
+          "comments": 1480,
           "views": null,
-          "score": 3562,
+          "score": 3567,
           "owner": "kevvonz"
         },
         {
@@ -652,10 +652,10 @@ window.DATA = {
           "type": "Sidecar",
           "caption": "Bookmark these for later 📈 \n\nThese are just some of my favourite stocks right now, if you want to see everything im buying comment “discord",
           "timestamp": "2026-07-08T20:34:12.000Z",
-          "likes": 3093,
-          "comments": 418,
+          "likes": 3148,
+          "comments": 422,
           "views": null,
-          "score": 3093,
+          "score": 3148,
           "owner": "kevvonz"
         },
         {
@@ -664,10 +664,10 @@ window.DATA = {
           "type": "Sidecar",
           "caption": "Bookmark these for later 📈\n\nAlso *NOT FINANCIAL ADVICE* im just sharing some of my favourite picks. \n\nTo see the full list, just comment “s",
           "timestamp": "2026-01-18T17:07:57.000Z",
-          "likes": 2674,
+          "likes": 2675,
           "comments": 418,
           "views": null,
-          "score": 2674,
+          "score": 2675,
           "owner": "kevvonz"
         },
         {
@@ -676,10 +676,10 @@ window.DATA = {
           "type": "Sidecar",
           "caption": "This summer I started posting investing content on the internet. Couple months later and im on the front page of @wsj 🥹\n\nJust like my stock",
           "timestamp": "2025-11-15T17:34:02.000Z",
-          "likes": 1098,
+          "likes": 1100,
           "comments": 42,
           "views": null,
-          "score": 1098,
+          "score": 1100,
           "owner": "kevvonz"
         },
         {
@@ -698,7 +698,7 @@ window.DATA = {
     },
     {
       "handle": "charan.invests",
-      "followers": 242438,
+      "followers": 242371,
       "posts": [
         {
           "id": "3879073683231070480",
@@ -706,7 +706,7 @@ window.DATA = {
           "type": "Video",
           "caption": "To get all the prompts, comment the word “Discord” and I’ll send you the link. \n\nThese are the exact prompts I use to analyze stocks in unde",
           "timestamp": "2026-04-19T23:35:56.000Z",
-          "likes": 44375,
+          "likes": 44379,
           "comments": 7423,
           "views": 755470,
           "score": 755470,
@@ -718,7 +718,7 @@ window.DATA = {
           "type": "Video",
           "caption": "The US could control Venezuela’s 17 trillion dollars in oil and 2 trillion in minerals. I’m buying Chevron for steady cash, Valero for near-",
           "timestamp": "2026-01-04T22:33:39.000Z",
-          "likes": 11616,
+          "likes": 11615,
           "comments": 1414,
           "views": 208322,
           "score": 208322,
@@ -730,10 +730,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Micron was the obvious US memory trade, but SK Hynix might be the real HBM leader.\n\nThey control around 58% of the HBM market, are deeply ti",
           "timestamp": "2026-07-09T12:43:01.000Z",
-          "likes": 2658,
+          "likes": 2666,
           "comments": 40,
-          "views": 178759,
-          "score": 178759,
+          "views": 179250,
+          "score": 179250,
           "owner": "charan.invests"
         },
         {
@@ -742,7 +742,7 @@ window.DATA = {
           "type": "Video",
           "caption": "This AI infrastructure stock is sitting in two of the hottest themes right now: photonics and memory.\n\nPenguin Solutions is building AI infr",
           "timestamp": "2026-05-09T22:22:46.000Z",
-          "likes": 5786,
+          "likes": 5787,
           "comments": 1318,
           "views": 176306,
           "score": 176306,
@@ -754,10 +754,22 @@ window.DATA = {
           "type": "Video",
           "caption": "The SpaceX IPO might end up being one of the biggest retail traps in years. Everyone is going to see Elon, see SpaceX, and assume it is an e",
           "timestamp": "2026-04-07T02:00:31.000Z",
-          "likes": 7651,
+          "likes": 7653,
           "comments": 1759,
           "views": 151772,
           "score": 151772,
+          "owner": "charan.invests"
+        },
+        {
+          "id": "3948349152899805911",
+          "url": "https://www.instagram.com/p/DbLWqKjzrLX/",
+          "type": "Video",
+          "caption": "I just bought $30,000 of the only humanoid robotics company coming to the U.S. market. Backed by Nvidia, Amazon, and Foxconn. Ticker + full ",
+          "timestamp": "2026-07-24T13:33:42.000Z",
+          "likes": 1585,
+          "comments": 52,
+          "views": 144525,
+          "score": 144525,
           "owner": "charan.invests"
         },
         {
@@ -766,10 +778,10 @@ window.DATA = {
           "type": "Video",
           "caption": "I’ve accumulated over $20,000 worth of $META.\n\nMuse Spark 1.1 is already posting strong benchmark results, revenue is still growing 33%, and",
           "timestamp": "2026-07-13T14:41:52.000Z",
-          "likes": 1822,
+          "likes": 1825,
           "comments": 53,
-          "views": 141207,
-          "score": 141207,
+          "views": 142083,
+          "score": 142083,
           "owner": "charan.invests"
         },
         {
@@ -778,7 +790,7 @@ window.DATA = {
           "type": "Video",
           "caption": "EWY is moving for a reason and I don’t think it’s over. It’s basically a Samsung and SK Hynix bet and the setup still looks strong.\n\n#stockm",
           "timestamp": "2026-02-16T23:56:52.000Z",
-          "likes": 4739,
+          "likes": 4738,
           "comments": 796,
           "views": 138549,
           "score": 138549,
@@ -790,7 +802,7 @@ window.DATA = {
           "type": "Video",
           "caption": "This stock has already made me nearly $50,000 and I’m still buying.\n\nMost investors are focused on AI chips.\n\nI’m focused on the photonics a",
           "timestamp": "2026-06-07T20:26:17.000Z",
-          "likes": 5793,
+          "likes": 5798,
           "comments": 621,
           "views": 137803,
           "score": 137803,
@@ -814,7 +826,7 @@ window.DATA = {
           "type": "Video",
           "caption": "FOLLOW AND THE LINK TO THE DISCORD WILL BE SENT IN 5 MIN!!\n\nDell is up nearly 200%.\n\nIntel is up over 500%.\n\nNow I’m watching Trump’s next t",
           "timestamp": "2026-06-20T20:41:21.000Z",
-          "likes": 5365,
+          "likes": 5367,
           "comments": 246,
           "views": 123443,
           "score": 123443,
@@ -826,7 +838,7 @@ window.DATA = {
           "type": "Video",
           "caption": "The AI chip IPO everyone is trying to get into is reportedly 20x oversubscribed, and I’m planning on requesting $50,000.\n\nCerebras builds ma",
           "timestamp": "2026-05-10T16:50:01.000Z",
-          "likes": 3792,
+          "likes": 3793,
           "comments": 784,
           "views": 109645,
           "score": 109645,
@@ -850,7 +862,7 @@ window.DATA = {
           "type": "Video",
           "caption": "$AXTI makes the key material that powers lasers inside Nvidia GPUs, Google TPU pods, and major AI data centers. With a market cap of around ",
           "timestamp": "2026-01-10T19:48:34.000Z",
-          "likes": 4494,
+          "likes": 4493,
           "comments": 525,
           "views": 94927,
           "score": 94927,
@@ -874,7 +886,7 @@ window.DATA = {
           "type": "Video",
           "caption": "Leopold’s latest portfolio filing just dropped.\n\nHe called Lumentum before 1,000%+, Intel before 400%+, and many more AI winners.\n\nThe 3 nam",
           "timestamp": "2026-05-23T17:27:44.000Z",
-          "likes": 4127,
+          "likes": 4129,
           "comments": 787,
           "views": 85263,
           "score": 85263,
@@ -910,7 +922,7 @@ window.DATA = {
           "type": "Video",
           "caption": "Everyone wants to buy the dip until AI stocks actually start crashing.\n\nThese are the 3 names I’m watching lower:\n\n$NBIS for AI compute\n$FPS",
           "timestamp": "2026-07-06T00:18:55.000Z",
-          "likes": 2529,
+          "likes": 2534,
           "comments": 57,
           "views": 60040,
           "score": 60040,
@@ -927,24 +939,12 @@ window.DATA = {
           "views": 33746,
           "score": 33746,
           "owner": "charan.invests"
-        },
-        {
-          "id": "3948349152899805911",
-          "url": "https://www.instagram.com/p/DbLWqKjzrLX/",
-          "type": "Video",
-          "caption": "I just bought $30,000 of the only humanoid robotics company coming to the U.S. market. Backed by Nvidia, Amazon, and Foxconn. Ticker + full ",
-          "timestamp": "2026-07-24T13:33:42.000Z",
-          "likes": 1505,
-          "comments": 50,
-          "views": null,
-          "score": 1505,
-          "owner": "charan.invests"
         }
       ]
     },
     {
       "handle": "bdinvestingg",
-      "followers": 244567,
+      "followers": 244639,
       "posts": [
         {
           "id": "3296137083340526931",
@@ -952,7 +952,7 @@ window.DATA = {
           "type": "Video",
           "caption": "Here’s how to invest your first $1000 in 2024. 2 ETFs , 2 dividend stocks & 2 growth stocks. 6 positions in total. (not financial advice) \n\n",
           "timestamp": "2024-02-05T16:24:07.000Z",
-          "likes": 7499,
+          "likes": 7500,
           "comments": 230,
           "views": 248382,
           "score": 248382,
@@ -964,10 +964,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Here are some stocks I want to buy and levels. My wish list #investing \nMicron \nNebius \nMarvel \nVertiv",
           "timestamp": "2026-07-18T17:24:21.000Z",
-          "likes": 1222,
+          "likes": 1260,
           "comments": 54,
-          "views": 216797,
-          "score": 216797,
+          "views": 225280,
+          "score": 225280,
           "owner": "bdinvestingg"
         },
         {
@@ -976,10 +976,22 @@ window.DATA = {
           "type": "Video",
           "caption": "She’s always got bad timing 🩸",
           "timestamp": "2026-07-16T19:14:34.000Z",
-          "likes": 2792,
-          "comments": 69,
-          "views": 162166,
-          "score": 162166,
+          "likes": 2799,
+          "comments": 70,
+          "views": 162625,
+          "score": 162625,
+          "owner": "bdinvestingg"
+        },
+        {
+          "id": "3946428887121923126",
+          "url": "https://www.instagram.com/p/DbEiCnsPgw2/",
+          "type": "Video",
+          "caption": "3 canadian dividend ETFs paying me $1000 a month in passive income #dividends #passiveincome\n\nDisclaimer: Covered call ETFs are higher-risk ",
+          "timestamp": "2026-07-21T21:57:34.000Z",
+          "likes": 723,
+          "comments": 380,
+          "views": 69184,
+          "score": 69184,
           "owner": "bdinvestingg"
         },
         {
@@ -990,20 +1002,8 @@ window.DATA = {
           "timestamp": "2026-07-17T13:56:55.000Z",
           "likes": 811,
           "comments": 81,
-          "views": 68734,
-          "score": 68734,
-          "owner": "bdinvestingg"
-        },
-        {
-          "id": "3946428887121923126",
-          "url": "https://www.instagram.com/p/DbEiCnsPgw2/",
-          "type": "Video",
-          "caption": "3 canadian dividend ETFs paying me $1000 a month in passive income #dividends #passiveincome\n\nDisclaimer: Covered call ETFs are higher-risk ",
-          "timestamp": "2026-07-21T21:57:34.000Z",
-          "likes": 684,
-          "comments": 371,
-          "views": 67253,
-          "score": 67253,
+          "views": 69022,
+          "score": 69022,
           "owner": "bdinvestingg"
         },
         {
@@ -1012,10 +1012,10 @@ window.DATA = {
           "type": "Video",
           "caption": "AI stocks aren’t done, but they could stay choppy and consolidate for a while after such a strong run.\n\nMeanwhile, several groups have under",
           "timestamp": "2026-07-10T21:23:24.000Z",
-          "likes": 650,
+          "likes": 651,
           "comments": 119,
-          "views": 67209,
-          "score": 67209,
+          "views": 67261,
+          "score": 67261,
           "owner": "bdinvestingg"
         },
         {
@@ -1024,10 +1024,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Google just reported strong earnings so why is the stock down ? I explain",
           "timestamp": "2026-07-22T23:23:42.000Z",
-          "likes": 751,
+          "likes": 757,
           "comments": 23,
-          "views": 58282,
-          "score": 58282,
+          "views": 58775,
+          "score": 58775,
           "owner": "bdinvestingg"
         },
         {
@@ -1036,10 +1036,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Space x stock is crashing , should you buy now? #spacex #elonmusk",
           "timestamp": "2026-07-15T23:04:20.000Z",
-          "likes": 470,
+          "likes": 473,
           "comments": 28,
-          "views": 54632,
-          "score": 54632,
+          "views": 54970,
+          "score": 54970,
           "owner": "bdinvestingg"
         },
         {
@@ -1048,10 +1048,10 @@ window.DATA = {
           "type": "Video",
           "caption": "ETFs to become a millionaire \n\n$DISK — AI data storage infrastructure: hard drives, memory, and data storage companies.\n\n$DRAM — AI memory s",
           "timestamp": "2026-07-24T22:16:42.000Z",
-          "likes": 441,
-          "comments": 53,
-          "views": 49647,
-          "score": 49647,
+          "likes": 496,
+          "comments": 59,
+          "views": 53899,
+          "score": 53899,
           "owner": "bdinvestingg"
         },
         {
@@ -1060,10 +1060,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Trump is telling us what to buy again. This time it’s Micron #investing",
           "timestamp": "2026-07-09T14:10:02.000Z",
-          "likes": 443,
+          "likes": 444,
           "comments": 73,
-          "views": 47692,
-          "score": 47692,
+          "views": 47723,
+          "score": 47723,
           "owner": "bdinvestingg"
         },
         {
@@ -1076,18 +1076,6 @@ window.DATA = {
           "comments": 22,
           "views": 46804,
           "score": 46804,
-          "owner": "bdinvestingg"
-        },
-        {
-          "id": "3945727426147429988",
-          "url": "https://www.instagram.com/p/DbCCjBQCK5k/",
-          "type": "Video",
-          "caption": "5 boring AI stocks you never heard of",
-          "timestamp": "2026-07-20T22:44:38.000Z",
-          "likes": 411,
-          "comments": 59,
-          "views": 38256,
-          "score": 38256,
           "owner": "bdinvestingg"
         },
         {
@@ -1120,10 +1108,10 @@ window.DATA = {
           "type": "Sidecar",
           "caption": "From rags to riches — here’s my story, no BS. Just a kid born and raised in Toronto. Investing, the stock market, and content creation chang",
           "timestamp": "2025-11-08T23:58:09.000Z",
-          "likes": 2694,
-          "comments": 188,
+          "likes": 2695,
+          "comments": 189,
           "views": null,
-          "score": 2694,
+          "score": 2695,
           "owner": "bdinvestingg"
         },
         {
@@ -1151,22 +1139,46 @@ window.DATA = {
           "owner": "bdinvestingg"
         },
         {
+          "id": "3949984800744370030",
+          "url": "https://www.instagram.com/p/DbRKj-Uj29u/",
+          "type": "Sidecar",
+          "caption": "5 high growth ETFs investing in the future #investing \n\n$DISK — AI data storage infrastructure: hard drives, memory, and data storage compan",
+          "timestamp": "2026-07-26T19:41:43.000Z",
+          "likes": 678,
+          "comments": 18,
+          "views": null,
+          "score": 678,
+          "owner": "bdinvestingg"
+        },
+        {
+          "id": "3945727426147429988",
+          "url": "https://www.instagram.com/p/DbCCjBQCK5k/",
+          "type": "Video",
+          "caption": "5 boring AI stocks you never heard of",
+          "timestamp": "2026-07-20T22:44:38.000Z",
+          "likes": 418,
+          "comments": 59,
+          "views": null,
+          "score": 418,
+          "owner": "bdinvestingg"
+        },
+        {
           "id": "3947722338028586660",
           "url": "https://www.instagram.com/p/DbJIIzuEYak/",
           "type": "Sidecar",
           "caption": "ETF highlight DISK : Data memory storage ETF\n\nDISK ETF, Invests in companies making AI memory and storage chips like HBM, DRAM and NAND, plu",
           "timestamp": "2026-07-23T16:46:37.000Z",
-          "likes": 270,
+          "likes": 306,
           "comments": 1,
           "views": null,
-          "score": 270,
+          "score": 306,
           "owner": "bdinvestingg"
         }
       ]
     },
     {
       "handle": "joe.investss",
-      "followers": 115721,
+      "followers": 116000,
       "posts": [
         {
           "id": "3938999110335689638",
@@ -1174,10 +1186,10 @@ window.DATA = {
           "type": "Video",
           "caption": "AI Infrastructure breakdown 🏭\n\nClick the link in my bio or comment “stocks” and i’ll send you my entire portfolio for completely free 🤝\n\nF",
           "timestamp": "2026-07-11T15:56:50.000Z",
-          "likes": 3674,
-          "comments": 1214,
-          "views": 212535,
-          "score": 212535,
+          "likes": 3725,
+          "comments": 1234,
+          "views": 215148,
+          "score": 215148,
           "owner": "joe.investss"
         },
         {
@@ -1186,7 +1198,7 @@ window.DATA = {
           "type": "Video",
           "caption": "How to open a Roth IRA step by step. Click the link in my bio to open your Roth today & get a free bonus match! \n\nFollow to learn more about",
           "timestamp": "2026-05-28T21:25:34.000Z",
-          "likes": 21314,
+          "likes": 21530,
           "comments": 308,
           "views": 211648,
           "score": 211648,
@@ -1198,10 +1210,10 @@ window.DATA = {
           "type": "Video",
           "caption": "5 stocks IM buying 📈 \n\nClick the link in my bio or comment “stocks” and i’ll and you my entire portfolio for completely free 🤝\n\n*Not finan",
           "timestamp": "2026-07-17T16:19:36.000Z",
-          "likes": 3830,
-          "comments": 440,
-          "views": 204330,
-          "score": 204330,
+          "likes": 3861,
+          "comments": 447,
+          "views": 206510,
+          "score": 206510,
           "owner": "joe.investss"
         },
         {
@@ -1210,10 +1222,22 @@ window.DATA = {
           "type": "Video",
           "caption": "3 Etf’s that have outperformed the s&p500 for 5 years straight 📈\n\nClick the link in my bio or comment “Etf” and i’ll send you my entire por",
           "timestamp": "2026-07-12T21:26:37.000Z",
-          "likes": 3803,
-          "comments": 764,
-          "views": 196418,
-          "score": 196418,
+          "likes": 3871,
+          "comments": 774,
+          "views": 200140,
+          "score": 200140,
+          "owner": "joe.investss"
+        },
+        {
+          "id": "3948122715292090445",
+          "url": "https://www.instagram.com/p/DbKjLEGosBN/",
+          "type": "Video",
+          "caption": "Ranking Growth Etf’s \n\nAs always, past performance doesn’t guarantee future performance. Not financial advice, do your own research \n\nClick ",
+          "timestamp": "2026-07-24T06:04:13.000Z",
+          "likes": 1463,
+          "comments": 144,
+          "views": 121319,
+          "score": 121319,
           "owner": "joe.investss"
         },
         {
@@ -1222,10 +1246,10 @@ window.DATA = {
           "type": "Video",
           "caption": "SK Hynix is being added to the Nasdaq! \n\nClick the link in my bio or comment “stocks” to see my portfolio + what i buy and sell next 👇\n\nFol",
           "timestamp": "2026-07-10T02:00:43.000Z",
-          "likes": 714,
+          "likes": 718,
           "comments": 155,
-          "views": 47849,
-          "score": 47849,
+          "views": 47965,
+          "score": 47965,
           "owner": "joe.investss"
         },
         {
@@ -1234,10 +1258,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Here are some items that are worth every penny coming from a frugal 21 year old 🪙\n\nClick the link in my bio for all my free resources \n\nFol",
           "timestamp": "2026-07-18T17:50:30.000Z",
-          "likes": 402,
+          "likes": 412,
           "comments": 21,
-          "views": 35504,
-          "score": 35504,
+          "views": 36498,
+          "score": 36498,
           "owner": "joe.investss"
         },
         {
@@ -1248,8 +1272,8 @@ window.DATA = {
           "timestamp": "2026-07-10T22:36:56.000Z",
           "likes": 555,
           "comments": 107,
-          "views": 34406,
-          "score": 34406,
+          "views": 34486,
+          "score": 34486,
           "owner": "joe.investss"
         },
         {
@@ -1258,22 +1282,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Dips aren’t a reason to panic or sell! If the thesis for the company hasn’t changed, that’s when I add more. \n\nClick the link in my bio or c",
           "timestamp": "2026-07-19T21:02:55.000Z",
-          "likes": 742,
-          "comments": 307,
-          "views": 32607,
-          "score": 32607,
-          "owner": "joe.investss"
-        },
-        {
-          "id": "3934880571058421476",
-          "url": "https://www.instagram.com/p/DabgQgPhf7k/",
-          "type": "Video",
-          "caption": "5 stocks i’m buying 🚀 \n\nI ran a poll and 80% of you guys asked for stock picks so here it is 👆Honorable mentions: meta & amazon \n\nClick th",
-          "timestamp": "2026-07-05T23:35:43.000Z",
-          "likes": 2011,
-          "comments": 229,
-          "views": 31548,
-          "score": 31548,
+          "likes": 748,
+          "comments": 316,
+          "views": 33150,
+          "score": 33150,
           "owner": "joe.investss"
         },
         {
@@ -1282,10 +1294,22 @@ window.DATA = {
           "type": "Video",
           "caption": "The average savings account pays 0.05%… \n\n@getaxal lets you earn yield on dollars, Bitcoin, and gold — up to 10× a normal bank, with no mini",
           "timestamp": "2026-07-25T16:12:29.000Z",
-          "likes": 440,
-          "comments": 50,
-          "views": 25796,
-          "score": 25796,
+          "likes": 594,
+          "comments": 65,
+          "views": 31639,
+          "score": 31639,
+          "owner": "joe.investss"
+        },
+        {
+          "id": "3934880571058421476",
+          "url": "https://www.instagram.com/p/DabgQgPhf7k/",
+          "type": "Video",
+          "caption": "5 stocks i’m buying 🚀 \n\nI ran a poll and 80% of you guys asked for stock picks so here it is 👆Honorable mentions: meta & amazon \n\nClick th",
+          "timestamp": "2026-07-05T23:35:43.000Z",
+          "likes": 2027,
+          "comments": 230,
+          "views": 31548,
+          "score": 31548,
           "owner": "joe.investss"
         },
         {
@@ -1294,22 +1318,10 @@ window.DATA = {
           "type": "Video",
           "caption": "“Buy the dip” they say 🥲\n\nClick the link in my bio or comment “stocks” and i’ll send you my entire portfolio for free 🤝\n\nFollow to learn m",
           "timestamp": "2026-07-20T18:24:28.000Z",
-          "likes": 539,
-          "comments": 114,
-          "views": 23592,
-          "score": 23592,
-          "owner": "joe.investss"
-        },
-        {
-          "id": "3934665571767492236",
-          "url": "https://www.instagram.com/p/DaavX2jKR6M/",
-          "type": "Video",
-          "caption": "Breaking down my income for June \n\nthis is for income transparency and nothing else. only trying to show you guys what’s possible \n\nComment ",
-          "timestamp": "2026-07-05T16:26:55.000Z",
-          "likes": 1472,
-          "comments": 273,
-          "views": 19695,
-          "score": 19695,
+          "likes": 547,
+          "comments": 124,
+          "views": 24178,
+          "score": 24178,
           "owner": "joe.investss"
         },
         {
@@ -1318,22 +1330,10 @@ window.DATA = {
           "type": "Video",
           "caption": "3 things i wish someone had told me sooner 📋\n\nClick the link in my bio for all my free resources 🤝\n\nFollow to learn more @joe.investss \n\n#",
           "timestamp": "2026-07-16T18:24:54.000Z",
-          "likes": 323,
+          "likes": 328,
           "comments": 11,
-          "views": 17664,
-          "score": 17664,
-          "owner": "joe.investss"
-        },
-        {
-          "id": "3947635867855801714",
-          "url": "https://www.instagram.com/p/DbI0egGIs1y/",
-          "type": "Video",
-          "caption": "China controls roughly 79% of the world’s tungsten 👇\n\nGoldHaven Resources is an early-stage explorer with a high-grade tungsten project in ",
-          "timestamp": "2026-07-23T14:00:37.000Z",
-          "likes": 198,
-          "comments": 6,
-          "views": 13807,
-          "score": 13807,
+          "views": 17927,
+          "score": 17927,
           "owner": "joe.investss"
         },
         {
@@ -1342,10 +1342,22 @@ window.DATA = {
           "type": "Video",
           "caption": "Top 3 beginner credit cards 💳 \n\nHaving a good credit score will help you save thousands. It decides the rates you get on cars, homes, and l",
           "timestamp": "2026-07-24T22:11:22.000Z",
-          "likes": 222,
-          "comments": 7,
-          "views": 13332,
-          "score": 13332,
+          "likes": 244,
+          "comments": 11,
+          "views": 14599,
+          "score": 14599,
+          "owner": "joe.investss"
+        },
+        {
+          "id": "3947635867855801714",
+          "url": "https://www.instagram.com/p/DbI0egGIs1y/",
+          "type": "Video",
+          "caption": "China controls roughly 79% of the world’s tungsten 👇\n\nGoldHaven Resources is an early-stage explorer with a high-grade tungsten project in ",
+          "timestamp": "2026-07-23T14:00:37.000Z",
+          "likes": 204,
+          "comments": 6,
+          "views": 14426,
+          "score": 14426,
           "owner": "joe.investss"
         },
         {
@@ -1354,10 +1366,22 @@ window.DATA = {
           "type": "Video",
           "caption": "5 apps you need to start building wealth 💵\n\n- @rocketmoney Tracks your subscriptions, cancels the ones you forgot about, and helps you budg",
           "timestamp": "2026-06-14T00:49:47.000Z",
-          "likes": 934,
+          "likes": 935,
           "comments": 172,
           "views": 12956,
           "score": 12956,
+          "owner": "joe.investss"
+        },
+        {
+          "id": "3950230544479997582",
+          "url": "https://www.instagram.com/p/DbSCcBAoM6O/",
+          "type": "Video",
+          "caption": "3 of the best credit card combos 💳 \n\nwhat cards are you guys using? \n\nFollow to learn more about personal finance 💵\n\n#creditcard #credit #",
+          "timestamp": "2026-07-27T03:52:40.000Z",
+          "likes": 195,
+          "comments": 2,
+          "views": 12316,
+          "score": 12316,
           "owner": "joe.investss"
         },
         {
@@ -1366,22 +1390,10 @@ window.DATA = {
           "type": "Video",
           "caption": "Spend my paycheck with me 💵\n\nCheck out my previous video on how i made the money \n\nClick the link in my bio or comment “budget” and i’ll se",
           "timestamp": "2026-07-06T23:11:14.000Z",
-          "likes": 515,
+          "likes": 518,
           "comments": 289,
           "views": 7175,
           "score": 7175,
-          "owner": "joe.investss"
-        },
-        {
-          "id": "3948122715292090445",
-          "url": "https://www.instagram.com/p/DbKjLEGosBN/",
-          "type": "Video",
-          "caption": "Ranking Growth Etf’s \n\nAs always, past performance doesn’t guarantee future performance. Not financial advice, do your own research \n\nClick ",
-          "timestamp": "2026-07-24T06:04:13.000Z",
-          "likes": 1256,
-          "comments": 110,
-          "views": null,
-          "score": 1256,
           "owner": "joe.investss"
         },
         {
@@ -1390,10 +1402,10 @@ window.DATA = {
           "type": "Sidecar",
           "caption": "i probably should have done this sooner but better late than never am i right 😅\n\nmight have to move back to NY once i graduate. i need to e",
           "timestamp": "2026-07-14T21:11:32.000Z",
-          "likes": 611,
+          "likes": 620,
           "comments": 78,
           "views": null,
-          "score": 611,
+          "score": 620,
           "owner": "joe.investss"
         },
         {

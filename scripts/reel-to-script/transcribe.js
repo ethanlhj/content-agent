@@ -21,14 +21,19 @@ const tmpWav = path.join(HERE, "temp_audio.wav");
 const outBase = path.join(HERE, "last_transcript");
 
 async function main() {
-  console.log("Downloading video from @" + reel.handle + "...");
-  const res = await fetch(reel.videoUrl);
-  if (!res.ok) {
-    console.error("Video download failed (" + res.status + "). CDN links expire - re-run fetch.js and try again.");
-    process.exit(1);
+  if (reel.localVideo && fs.existsSync(reel.localVideo)) {
+    if (path.resolve(reel.localVideo) !== path.resolve(tmpVideo)) fs.copyFileSync(reel.localVideo, tmpVideo);
+    console.log("Using video already downloaded by fetch.js (" + (fs.statSync(tmpVideo).size / 1e6).toFixed(1) + " MB)");
+  } else {
+    console.log("Downloading video from @" + reel.handle + "...");
+    const res = await fetch(reel.videoUrl, { headers: { "User-Agent": "Mozilla/5.0" } });
+    if (!res.ok) {
+      console.error("Video download failed (" + res.status + "). CDN links expire - re-run fetch.js and try again.");
+      process.exit(1);
+    }
+    fs.writeFileSync(tmpVideo, Buffer.from(await res.arrayBuffer()));
+    console.log("Video saved (" + (fs.statSync(tmpVideo).size / 1e6).toFixed(1) + " MB)");
   }
-  fs.writeFileSync(tmpVideo, Buffer.from(await res.arrayBuffer()));
-  console.log("Video saved (" + (fs.statSync(tmpVideo).size / 1e6).toFixed(1) + " MB)");
 
   console.log("Extracting audio with ffmpeg...");
   execFileSync("ffmpeg", ["-y", "-i", tmpVideo, "-ar", "16000", "-ac", "1", "-vn", tmpWav], { stdio: "pipe" });

@@ -23,7 +23,42 @@ if (!reelUrl || !reelUrl.includes("instagram.com")) {
   process.exit(1);
 }
 
+// --- free path first: yt-dlp downloads public reels without spending Apify credit ---
+const { execFileSync } = require("child_process");
+function tryYtDlp() {
+  const localVideo = path.join(__dirname, "temp_reel.mp4");
+  try {
+    const info = JSON.parse(execFileSync("yt-dlp", [
+      "--no-warnings", "--no-playlist", "-f", "b[ext=mp4]/b", "-o", localVideo,
+      "--force-overwrites", "--print-json", reelUrl,
+    ], { encoding: "utf8", stdio: ["ignore", "pipe", "pipe"], timeout: 120000 }));
+    if (!fs.existsSync(localVideo)) return null;
+    return {
+      sourceUrl: reelUrl,
+      handle: info.channel || info.uploader_id || info.uploader || "unknown",
+      caption: info.description || "",
+      videoUrl: info.url || null,
+      localVideo,
+      via: "yt-dlp",
+      fetchedAt: new Date().toISOString(),
+    };
+  } catch (e) {
+    const why = (e.stderr || e.message || "").toString().trim().split("\n").pop();
+    console.log("yt-dlp unavailable or blocked (" + why.slice(0, 120) + "), falling back to Apify...");
+    return null;
+  }
+}
+
 async function main() {
+  const free = tryYtDlp();
+  if (free) {
+    fs.writeFileSync(path.join(__dirname, "last_fetch.json"), JSON.stringify(free, null, 2));
+    console.log("\n--- FETCHED (yt-dlp, free) ---");
+    console.log("Handle:  @" + free.handle);
+    console.log("Caption:", free.caption.slice(0, 150) + (free.caption.length > 150 ? "..." : ""));
+    return;
+  }
+
   console.log("Fetching reel via Apify (takes ~30-60 sec)...");
 
   const res = await fetch(

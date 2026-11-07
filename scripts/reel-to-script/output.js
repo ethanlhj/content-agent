@@ -17,6 +17,8 @@ const md = `# Script: ${s.hook.slice(0, 60)}...
 
 **Date:** ${date}
 **Source:** [@${s.handle}](${s.sourceUrl})
+**Format to reuse:** ${s.format || "n/a"}
+**Hook pattern:** ${s.hookPattern || "n/a"}
 **Why the original worked:** ${s.whyOriginalWorked}
 
 ---

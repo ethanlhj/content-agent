@@ -35,7 +35,11 @@ ${style}
 SOURCE TRANSCRIPT (@${t.handle}):
 ${t.transcript}
 
-Respond ONLY with JSON, no markdown fences: {"hook": "...", "beats": ["...", "..."], "cta": "...", "whyOriginalWorked": "one line", "fullScript": "the whole thing as one readable block"}`;
+Also break down the source reel's FORMAT so Ethan can reuse the structure on any topic:
+- "format": one line naming the repeatable structure and how it is filmed, topic-agnostic. Example: "Website reveal: name a free tool, show one live example on screen, explain why it matters, comment-bait CTA."
+- "hookPattern": the hook as a fill-in-the-blank template. Example: "Don't buy [popular stock]. Buy [ETF] instead."
+
+Respond ONLY with JSON, no markdown fences: {"format": "...", "hookPattern": "...", "hook": "...", "beats": ["...", "..."], "cta": "...", "whyOriginalWorked": "one line", "fullScript": "the whole thing as one readable block"}`;
 
 async function main() {
   console.log("Rewriting via Claude API...");
@@ -48,7 +52,7 @@ async function main() {
     },
     body: JSON.stringify({
       model: "claude-sonnet-4-6",
-      max_tokens: 1000,
+      max_tokens: 1500,
       messages: [{ role: "user", content: prompt }]
     })
   });

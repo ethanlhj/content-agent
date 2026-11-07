@@ -55,6 +55,21 @@ function buildDigest() {
     .sort((a, b) => b.factor - a.factor)
     .slice(0, 5);
 
+  // attach the format breakdown batch.js wrote for each breakout (matched by shortcode)
+  const code = (u) => ((u || "").match(/(?:reel|reels|p)\/([A-Za-z0-9_-]+)/) || [])[1] || "";
+  const logPath = path.join(__dirname, "..", "output", "scripts", "scripts_data.json");
+  const scripts = fs.existsSync(logPath) ? JSON.parse(fs.readFileSync(logPath, "utf8")) : [];
+  const byCode = Object.fromEntries(scripts.map((s) => [code(s.sourceUrl), s]));
+  const formatLines = (b) => {
+    const s = byCode[code(b.url)];
+    if (!s) return "";
+    return [
+      s.format ? `🧩 Format: ${esc(s.format)}` : `🧩 Why it hit: ${esc(s.whyOriginalWorked || "")}`,
+      s.hookPattern ? `🪝 Hook: <i>${esc(s.hookPattern)}</i>` : "",
+      `🎙 Your version: "${esc((s.hook || "").slice(0, 120))}"`,
+    ].filter(Boolean).join("\n") + "\n";
+  };
+
   const lines = [
     `📊 <b>@${me.handle} — content desk digest</b>`,
     `pulled ${new Date(D.pulledAt).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" })}`,
@@ -65,17 +80,29 @@ function buildDigest() {
     top ? `🏆 Top post: <b>${fmt(top.views)}</b> views\n"${(top.caption || "").split("#")[0].trim().slice(0, 60)}"\n${top.url}` : "",
     ``,
     breakouts.length
-      ? `💡 <b>Top ${breakouts.length} viral ideas to steal:</b>\n` + breakouts.map((b, i) =>
-          `${i + 1}. @${b.handle} — <b>${fmt(b.views)}</b> views (${b.factor.toFixed(1)}×)\n"${(b.caption || "").split("#")[0].trim().slice(0, 70)}"\n${b.url}`
+      ? `💡 <b>Top ${breakouts.length} viral formats to steal:</b>\n` + breakouts.map((b, i) =>
+          `${i + 1}. @${b.handle} — <b>${fmt(b.views)}</b> views (${b.factor.toFixed(1)}× followers)\n"${esc((b.caption || "").split("#")[0].trim().slice(0, 70))}"\n${formatLines(b)}${b.url}`
         ).join("\n\n")
       : `💡 No competitor breakout data yet — rerun pull-data.js first.`,
   ];
   return lines.filter((l) => l !== "").join("\n");
 }
 
+function esc(s) {
+  return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+// Usage: node send-digest.js              -> send today's digest
+//        node send-digest.js --dry-run    -> print it, send nothing
+//        node send-digest.js --alert "msg" -> send a short warning instead (run-all uses this)
 (async () => {
+  const args = process.argv.slice(2);
+  const alertIdx = args.indexOf("--alert");
+  const text = alertIdx >= 0
+    ? `⚠️ <b>Content desk</b>\n${esc(args[alertIdx + 1] || "Something failed.")}`
+    : buildDigest();
+  if (args.includes("--dry-run")) { console.log(text); return; }
   const chatId = await getChatId();
-  const text = buildDigest();
   const res = await fetch(`${API}/sendMessage`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },

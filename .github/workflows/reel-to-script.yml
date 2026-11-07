@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   run:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # pinned: cached whisper binary is built for this image
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
@@ -22,8 +22,8 @@ jobs:
         with:
           node-version: 22
 
-      - name: Install ffmpeg
-        run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+      - name: Install ffmpeg + yt-dlp
+        run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg && pipx install yt-dlp
 
       - name: Cache whisper.cpp build + model
         id: whisper-cache
@@ -32,16 +32,19 @@ jobs:
           path: |
             whisper.cpp/build/bin/whisper-cli
             whisper.cpp/models/ggml-base.en.bin
-          key: whisper-cpp-base-en-v1
+          key: whisper-cpp-static-ubuntu2404-v2
 
       - name: Build whisper.cpp + download model
         if: steps.whisper-cache.outputs.cache-hit != 'true'
         run: |
           git clone --depth 1 https://github.com/ggml-org/whisper.cpp.git
           cd whisper.cpp
-          cmake -B build -DCMAKE_BUILD_TYPE=Release
+          cmake -B build -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=OFF
           cmake --build build -j --target whisper-cli
           bash ./models/download-ggml-model.sh base.en
+
+      - name: Check whisper binary runs
+        run: whisper.cpp/build/bin/whisper-cli --help > /dev/null && echo "whisper-cli OK"
 
       - name: Write .env from secrets
         env:
@@ -72,4 +75,4 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add output/ dashboard/scripts_data.js scripts/reel-to-script/last_*.json scripts/reel-to-script/last_*.txt || true
           git diff --cached --quiet || git commit -m "script: on-demand reel $(date -u +%F)"
-          git push
+          git pull --rebase --autostash && git push

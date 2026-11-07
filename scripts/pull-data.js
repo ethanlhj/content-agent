@@ -11,7 +11,11 @@ const path = require("path");
 const ME = "ethan_invests";
 const COMPETITORS = ["mo.invests", "kevvonz", "charan.invests", "bdinvestingg", "joe.investss"];
 const MY_POST_LIMIT = 500;        // high limit = full post history for my account
-const COMPETITOR_POST_LIMIT = 20; // recent posts per competitor
+const COMPETITOR_POST_LIMIT = 10; // recent posts per competitor (was 20; halves the biggest Apify cost)
+// Apify free plan = $5/month. A daily run now costs ~$0.14; your own posts are only
+// re-pulled on Sundays (or with FULL_PULL=1) and reused from data.json in between.
+const MY_POSTS_REFRESH_DAY = 0;   // 0 = Sunday (UTC)
+const EST_RUN_COST_USD = 0.2;     // headroom check before starting any Apify run
 // -----------------------------------------------------------------------
 
 // read APIFY_TOKEN from .env (no dotenv dependency needed)
@@ -73,10 +77,32 @@ function toPost(p) {
     views,                                           // null for image posts
     score: views ?? p.likesCount ?? 0,               // rank videos by views, images by likes
     owner: p.ownerUsername,
+    videoUrl: p.videoUrl || null,                    // CDN link (expires in hours) — lets batch.js skip a paid re-fetch
   };
 }
 
+// stop early with a clear message instead of failing mid-run when the monthly cap is hit
+async function checkBudget() {
+  const res = await fetch(`${API}/users/me/limits?token=${TOKEN}`);
+  if (!res.ok) return; // can't check, carry on
+  const d = (await res.json()).data;
+  const used = d.current?.monthlyUsageUsd ?? 0;
+  const cap = d.limits?.maxMonthlyUsageUsd ?? Infinity;
+  const resets = (d.monthlyUsageCycle?.endAt || "").slice(0, 10);
+  console.log(`Apify budget: $${used.toFixed(2)} of $${cap} used this cycle (resets after ${resets})`);
+  if (used + EST_RUN_COST_USD > cap) {
+    throw new Error(`Apify monthly cap reached ($${used.toFixed(2)} of $${cap}). Pulls resume after ${resets}.`);
+  }
+}
+
 (async () => {
+  await checkBudget();
+
+  const prevPath = path.join(__dirname, "..", "dashboard", "data.json");
+  const prev = fs.existsSync(prevPath) ? JSON.parse(fs.readFileSync(prevPath, "utf8")) : null;
+  const refreshMine =
+    process.env.FULL_PULL === "1" || !prev?.me?.posts?.length || new Date().getUTCDay() === MY_POSTS_REFRESH_DAY;
+
   // 1) profile details (followers etc.) for me + competitors — one run
   const details = await runActor(
     {
@@ -88,10 +114,13 @@ function toPost(p) {
   );
 
   // 2) my full post history — high resultsLimit
-  const myPostsRaw = await runActor(
-    { directUrls: [igUrl(ME)], resultsType: "posts", resultsLimit: MY_POST_LIMIT },
-    `my posts (@${ME}, up to ${MY_POST_LIMIT})`
-  );
+  const myPostsRaw = refreshMine
+    ? await runActor(
+        { directUrls: [igUrl(ME)], resultsType: "posts", resultsLimit: MY_POST_LIMIT },
+        `my posts (@${ME}, up to ${MY_POST_LIMIT})`
+      )
+    : null;
+  if (!refreshMine) console.log(`\n↺ reusing my ${prev.me.posts.length} posts from last pull (full refresh on Sundays)`);
 
   // 3) competitors' recent posts
   const compPostsRaw = await runActor(
@@ -106,7 +135,7 @@ function toPost(p) {
   const profileOf = (h) =>
     details.find((d) => (d.username || "").toLowerCase() === h.toLowerCase()) || {};
 
-  const myPosts = myPostsRaw.map(toPost).sort((a, b) => b.score - a.score);
+  const myPosts = myPostsRaw ? myPostsRaw.map(toPost).sort((a, b) => b.score - a.score) : prev.me.posts;
   const compPosts = compPostsRaw.map(toPost);
 
   const data = {
@@ -154,5 +183,5 @@ fs.writeFileSync(jsPath, "window.DATA = " + JSON.stringify(data, null, 2) + ";")
   console.log(`\nSaved → dashboard/data.json`);
 })().catch((e) => {
   console.error("\nERROR:", e.message);
-  process.exit(1);
+  process.exitCode = 1; // not process.exit(): avoids a Node-on-Windows crash with open sockets
 });

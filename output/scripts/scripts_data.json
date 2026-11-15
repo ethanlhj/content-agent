@@ -237,5 +237,67 @@
     "cta": "Not financial advice, just what I'm watching. Comment 'chip' below and I'll send you my free portfolio breakdown.",
     "whyOriginalWorked": "The creator used a personal high-dollar stake as the hook to manufacture urgency and credibility, then backed it with a technical differentiator before closing on market timing.",
     "fullScript": "I just put in a $50,000 request for the Cerebras [VERIFY] IPO. The deal is reportedly 20x oversubscribed, banks are expected to raise the price range from $115 to $125, and some projections have it opening above $170. Cerebras [VERIFY] builds one massive wafer-scale chip instead of connecting thousands of smaller ones. That design keeps data on a single processor, which can speed up AI training and inference. With AI chip names leading the market right now, the timing is real. Not financial advice, just what I'm watching. Comment 'chip' below and I'll send you my free portfolio breakdown."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DfXYCS3onta/",
+    "handle": "joe.investss",
+    "generatedAt": "2026-11-15T19:28:08.899Z",
+    "format": "Reversal list: repeat a 'everyone wanted X at Y, now it's at Z' pattern across 8-10 stocks to build tension, then land one explanatory thesis beat, then comment-bait CTA.",
+    "hookPattern": "Everyone wanted [stock/asset] at [peak price]. Nobody wants it at [current lower price].",
+    "hook": "Everyone wanted Marvell at $316. Now it sits at $155 and nobody's talking about it.",
+    "beats": [
+      "Same story across the board. Rocket Lab down from $150 to $50. Oracle [VERIFY] from $308 to $125. Bloom Energy from $345 to $196. These stocks didn't change. Sentiment did.",
+      "AI bubble fears pulled money out of the whole sector. Prices dropped hard. Not financial advice, but this is exactly what I watch for."
+    ],
+    "cta": "Comment any ticker below and I'll tell you if it's on my watchlist. Follow for more breakdowns.",
+    "whyOriginalWorked": "The repetition builds psychological pressure by exploiting recency bias, making viewers feel like they missed something, then gives them one clean thesis to hold onto.",
+    "fullScript": "Everyone wanted Marvell at $316. Now it sits at $155 and nobody's talking about it. Same story across the board. Rocket Lab down from $150 to $50. Oracle [VERIFY] from $308 to $125. Bloom Energy from $345 to $196. These stocks didn't change. Sentiment did. AI bubble fears pulled money out of the whole sector fast. Prices dropped hard. Not financial advice, but this is exactly what I watch for. Comment any ticker below and I'll tell you if it's on my watchlist. Follow for more breakdowns."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DfYVzZ0SFI7/",
+    "handle": "kevvonz",
+    "generatedAt": "2026-11-15T19:28:49.651Z",
+    "format": "Crisis contextualization: open with market chaos acknowledgment, stack the macro causes in sequence, give a clear-headed take on the fear vs. reality, close with mindset CTA.",
+    "hookPattern": "The [index/sector] just dropped [X]% and here is what actually caused it.",
+    "hook": "The S&P 500 just dropped 4.36% in a single day — worse than any COVID selloff.",
+    "beats": [
+      "AI stocks like AMD [VERIFY] got hit hardest, some down over 20%, because traders are pricing in a full AI ban after Democrats took control of both the Senate and the House [VERIFY].",
+      "A complete US AI ban is not realistic. Slowdowns, guardrails, regulation — yes. But telling America to forfeit the AI arms race to China is not a policy that survives contact with reality.",
+      "Markets actually moved up after the election results initially because a divided government means gridlock, which markets love. This selloff is panic, not fundamentals. Not financial advice — just what I am watching."
+    ],
+    "cta": "Comment 'stock' below and I will send you my full portfolio for free. Follow for more breakdowns like this.",
+    "whyOriginalWorked": "It converted raw market fear into credibility by stacking concrete macro causes fast, then topped it with a contrarian 'this won't happen' take that made viewers feel smarter for watching.",
+    "fullScript": "The S&P 500 just dropped 4.36% in a single day — worse than any COVID selloff. AI stocks like AMD [VERIFY] got hit hardest, some down over 20%, because traders are pricing in a full AI ban after Democrats took control of both the Senate and the House [VERIFY]. A complete US AI ban is not realistic. Slowdowns, guardrails, regulation — yes. But telling America to forfeit the AI arms race to China is not a policy that survives contact with reality. Markets moved up after the election results initially because gridlock is actually what markets love. This selloff is panic, not fundamentals. Not financial advice — just what I am watching. Comment 'stock' below and I will send you my full portfolio for free. Follow for more breakdowns like this."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DZjFlr6sTk4/",
+    "handle": "mo.invests",
+    "generatedAt": "2026-11-15T19:29:02.140Z",
+    "format": "Sector ETF swap: open with a contrarian 'don't buy X, buy Y' command repeated across three examples, explain the diversification logic in plain terms, comment-bait CTA.",
+    "hookPattern": "Don't buy [popular stock A], [popular stock B], or [popular stock C]. Buy [ETF ticker] instead.",
+    "hook": "The source transcript contains only song lyrics with no investing facts, topics, tickers, or claims.",
+    "beats": [
+      "No financial content could be extracted from the source reel to build body beats around.",
+      "Fabricating facts, tickers, or numbers not present in the transcript would violate the prompt rules."
+    ],
+    "cta": "Please provide a source transcript with actual spoken financial content and I will write Ethan's full script.",
+    "whyOriginalWorked": "Cannot evaluate without a readable source reel.",
+    "fullScript": "No script generated. The source transcript contains only background song lyrics and zero financial content. To write an original Ethan script that follows the rules, shares the same core facts, and avoids fabrication, I need a transcript with actual spoken dialogue. Please paste the spoken words from the reel and I will deliver the full JSON output."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/Dfnmz2iPZmR/",
+    "handle": "mo.invests",
+    "generatedAt": "2026-11-15T19:29:23.138Z",
+    "format": "Breaking news reaction: open with the scandal or surprise event, name the specific risk concept it creates, give the founder-dependency context, share a personal price level you are watching, CTA.",
+    "hookPattern": "[Company]'s CEO is facing [controversy], and the stock is already pricing in the worst.",
+    "hook": "NVIDIA is down 8% after hours and the reason is Jensen Huang.",
+    "beats": [
+      "Rumors are circulating about Jensen's personal conduct, and the market is treating this like a potential CEO exit.",
+      "Jensen founded this company over 33 years ago. He is the face investors, banks, and data center partners trust when financing GPUs, land, and power infrastructure. That relationship does not transfer to a replacement.",
+      "This is textbook Keyman Risk. One person is so central to the business that losing them restructures the entire investment thesis."
+    ],
+    "cta": "Not financial advice, but I am watching [VERIFY: $120] as a level worth tracking. Follow for more breakdowns as this develops.",
+    "whyOriginalWorked": "It weaponized breaking news urgency, named a concrete risk concept, and gave a specific price target that made viewers feel like they got actionable information.",
+    "fullScript": "NVIDIA is down 8% after hours and the reason is Jensen Huang. Rumors around his personal conduct are circulating, and the market is pricing in a world without him as CEO. Jensen founded this company 33 years ago. He is the person banks and data center operators trust when financing GPUs, land, and power infrastructure. That relationship does not transfer automatically to a new CEO. This is textbook Keyman Risk. I am watching [VERIFY: $120] as a level worth tracking. Not financial advice. Follow for more updates as this develops."
   }
 ]

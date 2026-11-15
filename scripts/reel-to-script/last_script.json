@@ -1,13 +1,16 @@
 {
-  "sourceUrl": "https://www.instagram.com/reel/DajX3WRxRNl/",
-  "handle": "bdon_trades",
-  "generatedAt": "2026-07-16T19:46:47.016Z",
-  "hook": "This $4 AI infrastructure stock is on my watchlist right now.",
+  "sourceUrl": "https://www.instagram.com/p/Dfnmz2iPZmR/",
+  "handle": "mo.invests",
+  "generatedAt": "2026-11-15T19:29:23.138Z",
+  "format": "Breaking news reaction: open with the scandal or surprise event, name the specific risk concept it creates, give the founder-dependency context, share a personal price level you are watching, CTA.",
+  "hookPattern": "[Company]'s CEO is facing [controversy], and the stock is already pricing in the worst.",
+  "hook": "NVIDIA is down 8% after hours and the reason is Jensen Huang.",
   "beats": [
-    "The company is KEEL [VERIFY], formerly Bit Farms, which rebranded and pivoted to North American AI and HPC infrastructure. They have a 2.2 gigawatt power pipeline, $500 million in liquidity, and just added a president with serious data center experience.",
-    "The stock ran from $2 to $7 already, so I want to see it pull back and base around $3 before I build a position. The real risk is the company still loses money, so execution has to be perfect. Think early CoreWeave [VERIFY] or IRN [VERIFY] energy, same uncertainty, same potential upside."
+    "Rumors are circulating about Jensen's personal conduct, and the market is treating this like a potential CEO exit.",
+    "Jensen founded this company over 33 years ago. He is the face investors, banks, and data center partners trust when financing GPUs, land, and power infrastructure. That relationship does not transfer to a replacement.",
+    "This is textbook Keyman Risk. One person is so central to the business that losing them restructures the entire investment thesis."
   ],
-  "cta": "Not financial advice, do your own research. Follow for more breakdowns and comment KEEL [VERIFY] if you want me to track this one publicly.",
-  "whyOriginalWorked": "The source reel built credibility fast with three past calls and concrete numbers, then used a clear risk-reward frame to justify watching without recommending a chase.",
-  "fullScript": "This $4 AI infrastructure stock is on my watchlist right now. The company is KEEL [VERIFY], formerly Bit Farms, which pivoted to North American AI and HPC infrastructure. They have a 2.2 gigawatt power pipeline, $500 million in liquidity, and a new president with real data center experience. It already ran from $2 to $7, so I want a pullback to around $3 before I size in. The company still loses money, so execution has to be perfect. Not financial advice. Follow and comment KEEL [VERIFY] if you want me to track this publicly."
+  "cta": "Not financial advice, but I am watching [VERIFY: $120] as a level worth tracking. Follow for more breakdowns as this develops.",
+  "whyOriginalWorked": "It weaponized breaking news urgency, named a concrete risk concept, and gave a specific price target that made viewers feel like they got actionable information.",
+  "fullScript": "NVIDIA is down 8% after hours and the reason is Jensen Huang. Rumors around his personal conduct are circulating, and the market is pricing in a world without him as CEO. Jensen founded this company 33 years ago. He is the person banks and data center operators trust when financing GPUs, land, and power infrastructure. That relationship does not transfer automatically to a new CEO. This is textbook Keyman Risk. I am watching [VERIFY: $120] as a level worth tracking. Not financial advice. Follow for more updates as this develops."
 }

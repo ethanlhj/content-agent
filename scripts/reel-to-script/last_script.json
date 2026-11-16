@@ -1,16 +1,15 @@
 {
-  "sourceUrl": "https://www.instagram.com/p/Dfnmz2iPZmR/",
-  "handle": "mo.invests",
-  "generatedAt": "2026-11-15T19:29:23.138Z",
-  "format": "Breaking news reaction: open with the scandal or surprise event, name the specific risk concept it creates, give the founder-dependency context, share a personal price level you are watching, CTA.",
-  "hookPattern": "[Company]'s CEO is facing [controversy], and the stock is already pricing in the worst.",
-  "hook": "NVIDIA is down 8% after hours and the reason is Jensen Huang.",
+  "sourceUrl": "https://www.instagram.com/p/DfrwPW0xB7y/",
+  "handle": "bdinvestingg",
+  "generatedAt": "2026-11-16T23:00:23.753Z",
+  "format": "Sector rotation alert: name the shift happening in the market, give 2-3 supporting data points or tickers to watch, explain the opportunity or risk, comment-bait CTA.",
+  "hookPattern": "Nobody is talking about what [company/sector] is doing right now.",
+  "hook": "Nobody is talking about what [VERIFY] is doing right now.",
   "beats": [
-    "Rumors are circulating about Jensen's personal conduct, and the market is treating this like a potential CEO exit.",
-    "Jensen founded this company over 33 years ago. He is the face investors, banks, and data center partners trust when financing GPUs, land, and power infrastructure. That relationship does not transfer to a replacement.",
-    "This is textbook Keyman Risk. One person is so central to the business that losing them restructures the entire investment thesis."
+    "[VERIFY] — waiting for source transcript body content to populate beats accurately.",
+    "[VERIFY] — no facts were present in the submitted transcript beyond upbeat music notation."
   ],
-  "cta": "Not financial advice, but I am watching [VERIFY: $120] as a level worth tracking. Follow for more breakdowns as this develops.",
-  "whyOriginalWorked": "It weaponized breaking news urgency, named a concrete risk concept, and gave a specific price target that made viewers feel like they got actionable information.",
-  "fullScript": "NVIDIA is down 8% after hours and the reason is Jensen Huang. Rumors around his personal conduct are circulating, and the market is pricing in a world without him as CEO. Jensen founded this company 33 years ago. He is the person banks and data center operators trust when financing GPUs, land, and power infrastructure. That relationship does not transfer automatically to a new CEO. This is textbook Keyman Risk. I am watching [VERIFY: $120] as a level worth tracking. Not financial advice. Follow for more updates as this develops."
+  "cta": "Comment 'stock' below and follow for more breakdowns. Not financial advice.",
+  "whyOriginalWorked": "Transcript was not included beyond a music note, so format appeal cannot be assessed.",
+  "fullScript": "NOTICE: The source transcript contains no spoken content — only '(upbeat music)' was submitted. No facts, tickers, company names, or claims are available to work from. Please paste the full spoken transcript and I will generate Ethan's complete original script with verified facts, proper beats, and CTA in one clean block."
 }

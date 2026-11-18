@@ -361,5 +361,53 @@
     "cta": "Comment 'stock' below and follow for more breakdowns. Not financial advice.",
     "whyOriginalWorked": "Transcript was not included beyond a music note, so format appeal cannot be assessed.",
     "fullScript": "NOTICE: The source transcript contains no spoken content — only '(upbeat music)' was submitted. No facts, tickers, company names, or claims are available to work from. Please paste the full spoken transcript and I will generate Ethan's complete original script with verified facts, proper beats, and CTA in one clean block."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/Dfi6mfvRRZf/",
+    "handle": "bdinvestingg",
+    "generatedAt": "2026-11-18T21:49:14.075Z",
+    "format": "Sentiment contrast loop: repeat a 'everyone wanted X at [high price] but not at [low price]' pattern across 3-4 stocks, then flip the emotional logic with one fundamental question, close with a mindset principle. Filmed as straight talking-head, no B-roll needed.",
+    "hookPattern": "Everyone wanted [stock] at [high price]. Nobody wants it at [lower price]. But did [core business driver] actually change?",
+    "hook": "Everyone wanted Nvidia at 240. Now it's 175 and nobody's touching it.",
+    "beats": [
+      "Same thing with Micron, down from 120 to 66 [VERIFY]. Memory is sold out until 2028. Google dropped from 400 to 275 and YouTube still has billions of daily viewers. AMD fell from 649 to 400 with data center revenue up 75 percent.",
+      "The business did not break. Investors got scared. Those are two completely different things.",
+      "Every time a stock you follow drops hard, ask one question: did the fundamentals change, or is this just fear? That answer tells you everything. Not financial advice, do your own research."
+    ],
+    "cta": "Follow and comment 'portfolio' to see what I'm watching right now.",
+    "whyOriginalWorked": "The repetitive rhetorical structure creates a satisfying pattern-and-break rhythm that makes viewers feel smart for spotting the logical disconnect between price drop and business health.",
+    "fullScript": "Everyone wanted Nvidia at 240. Now it's 175 and nobody's touching it. Same thing with Micron, down from 120 to 66 [VERIFY]. Memory is sold out until 2028. Google dropped from 400 to 275 and YouTube still has billions of daily viewers. AMD fell from 649 to 400 with data center revenue up 75 percent. The business did not break. Investors got scared. Those are two completely different things. Every time a stock you follow drops hard, ask one question: did the fundamentals change, or is this just fear? That answer tells you everything. Not financial advice, do your own research. Follow and comment 'portfolio' to see what I'm watching right now."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DfnJHfNp8a_/",
+    "handle": "bdinvestingg",
+    "generatedAt": "2026-11-18T21:49:48.788Z",
+    "format": "Dip-buying list: open with a macro thesis, run through 4-6 tickers with a price-drop stat and one-line business case each, close with comment-bait CTA. Filmed as straight talking-head, no screen share required.",
+    "hookPattern": "[Sector] is down [X]% and I just put $[amount] into these [number] stocks.",
+    "hook": "AI stocks are getting crushed and I just bought the dip.",
+    "beats": [
+      "In two weeks I put over $50,000 into names I think win over the next two to five years. Not financial advice, do your own research.",
+      "Broadcom is down 30%, trading at 19 times forward earnings, building custom AI chips for Google. Google itself is down 19%, building Gemini and their own TPU chips, even exploring AI data centers in space. Micron is down 45% and makes the memory chips storing every AI conversation you have. ASML is down 25% and supplies the only commercial EUV machines that manufacture next-gen chips. Nebius is down over 50% and rents GPU compute power to companies that cannot build their own. GE Vernova [VERIFY ticker] is the power infrastructure play. AI data centers need electricity and their backlog just hit $197 billion.",
+      "These are the stocks I am watching and adding to my positions right now."
+    ],
+    "cta": "Comment which of these is on your radar and follow for more breakdowns.",
+    "whyOriginalWorked": "The macro hook plus a numbered dip-buy list with hard percentage drops creates instant urgency and gives viewers a concrete takeaway they can act on immediately.",
+    "fullScript": "AI stocks are getting crushed and I just bought the dip. In two weeks I put over $50,000 into names I think win over the next two to five years. Not financial advice, do your own research. Broadcom is down 30% at 19 times forward earnings building custom chips for Google. Google is down 19%, building Gemini and their own TPU chips. Micron is down 45% storing every AI conversation. ASML is down 25% supplying the only commercial EUV chip machines. Nebius is down over 50% renting GPU compute to companies that cannot build their own. GE Vernova [VERIFY ticker] has a $197 billion backlog powering AI data centers. These are the stocks I am watching right now. Comment which one is on your radar and follow for more breakdowns."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DfnzvNIBnK1/",
+    "handle": "charan.invests",
+    "generatedAt": "2026-11-18T21:50:18.504Z",
+    "format": "Personal trade confession: share a real position with entry prices and current loss, explain the bull thesis in two beats (growth stat vs competitor, structural advantage), name the near-term catalyst, state your buying plan, comment-bait CTA.",
+    "hookPattern": "I bought [stock] at [price], watched it drop [%], and I'm still adding more.",
+    "hook": "I'm down 60% on a position and still buying before earnings.",
+    "beats": [
+      "Nebius [VERIFY: ticker NBIS] rents AI compute to companies like Microsoft and Meta that can't source enough Nvidia chips. Revenue grew 454% year over year last quarter, about four times faster than competitor CoreWeave [VERIFY].",
+      "The whole neo-cloud sector sold off after CoreWeave's bond yield spiked and Elon Musk posted that lenders were pulling funding. But Nebius has zero data centers in Texas and 70% of new customers pay part of their contract upfront, so the company does not need to borrow to grow.",
+      "They sold out all capacity last quarter, hold over 37 billion dollars in signed contracts, and new deals price 65% higher than old ones. Earnings hit Thursday and I'm watching run-rate revenue. A number around 4.6 billion puts them on track for their 7 to 9 billion ARR target."
+    ],
+    "cta": "Not financial advice, just what I'm watching. Comment 'stock' and I'll send you my full breakdown including the price levels I'm buying.",
+    "whyOriginalWorked": "Opening with a raw loss number creates instant credibility and curiosity, then the data-heavy bull case earns the viewer's trust before the earnings-day urgency drives the CTA.",
+    "fullScript": "I'm down 60% on a position and still buying before earnings. Nebius [VERIFY: ticker NBIS] rents AI compute to companies like Microsoft and Meta that can't source enough Nvidia chips. Revenue grew 454% year over year last quarter, four times faster than competitor CoreWeave [VERIFY]. The sector sold off after CoreWeave's bond yield spiked and Elon Musk posted lenders were pulling funding. But Nebius has zero Texas data centers and 70% of new customers pay upfront, so they carry no debt pressure. They sold out all capacity last quarter, hold over 37 billion in signed contracts, and new deals price 65% higher than old ones. I'm watching run-rate revenue Thursday morning. Not financial advice, just what I'm watching. Comment 'stock' and I'll send you my full breakdown."
   }
 ]

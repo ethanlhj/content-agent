@@ -1,15 +1,16 @@
 {
-  "sourceUrl": "https://www.instagram.com/p/DfrwPW0xB7y/",
-  "handle": "bdinvestingg",
-  "generatedAt": "2026-11-16T23:00:23.753Z",
-  "format": "Sector rotation alert: name the shift happening in the market, give 2-3 supporting data points or tickers to watch, explain the opportunity or risk, comment-bait CTA.",
-  "hookPattern": "Nobody is talking about what [company/sector] is doing right now.",
-  "hook": "Nobody is talking about what [VERIFY] is doing right now.",
+  "sourceUrl": "https://www.instagram.com/p/DfnzvNIBnK1/",
+  "handle": "charan.invests",
+  "generatedAt": "2026-11-18T21:50:18.504Z",
+  "format": "Personal trade confession: share a real position with entry prices and current loss, explain the bull thesis in two beats (growth stat vs competitor, structural advantage), name the near-term catalyst, state your buying plan, comment-bait CTA.",
+  "hookPattern": "I bought [stock] at [price], watched it drop [%], and I'm still adding more.",
+  "hook": "I'm down 60% on a position and still buying before earnings.",
   "beats": [
-    "[VERIFY] — waiting for source transcript body content to populate beats accurately.",
-    "[VERIFY] — no facts were present in the submitted transcript beyond upbeat music notation."
+    "Nebius [VERIFY: ticker NBIS] rents AI compute to companies like Microsoft and Meta that can't source enough Nvidia chips. Revenue grew 454% year over year last quarter, about four times faster than competitor CoreWeave [VERIFY].",
+    "The whole neo-cloud sector sold off after CoreWeave's bond yield spiked and Elon Musk posted that lenders were pulling funding. But Nebius has zero data centers in Texas and 70% of new customers pay part of their contract upfront, so the company does not need to borrow to grow.",
+    "They sold out all capacity last quarter, hold over 37 billion dollars in signed contracts, and new deals price 65% higher than old ones. Earnings hit Thursday and I'm watching run-rate revenue. A number around 4.6 billion puts them on track for their 7 to 9 billion ARR target."
   ],
-  "cta": "Comment 'stock' below and follow for more breakdowns. Not financial advice.",
-  "whyOriginalWorked": "Transcript was not included beyond a music note, so format appeal cannot be assessed.",
-  "fullScript": "NOTICE: The source transcript contains no spoken content — only '(upbeat music)' was submitted. No facts, tickers, company names, or claims are available to work from. Please paste the full spoken transcript and I will generate Ethan's complete original script with verified facts, proper beats, and CTA in one clean block."
+  "cta": "Not financial advice, just what I'm watching. Comment 'stock' and I'll send you my full breakdown including the price levels I'm buying.",
+  "whyOriginalWorked": "Opening with a raw loss number creates instant credibility and curiosity, then the data-heavy bull case earns the viewer's trust before the earnings-day urgency drives the CTA.",
+  "fullScript": "I'm down 60% on a position and still buying before earnings. Nebius [VERIFY: ticker NBIS] rents AI compute to companies like Microsoft and Meta that can't source enough Nvidia chips. Revenue grew 454% year over year last quarter, four times faster than competitor CoreWeave [VERIFY]. The sector sold off after CoreWeave's bond yield spiked and Elon Musk posted lenders were pulling funding. But Nebius has zero Texas data centers and 70% of new customers pay upfront, so they carry no debt pressure. They sold out all capacity last quarter, hold over 37 billion in signed contracts, and new deals price 65% higher than old ones. I'm watching run-rate revenue Thursday morning. Not financial advice, just what I'm watching. Comment 'stock' and I'll send you my full breakdown."
 }

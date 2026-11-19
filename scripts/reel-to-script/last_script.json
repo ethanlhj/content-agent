@@ -1,16 +1,16 @@
 {
-  "sourceUrl": "https://www.instagram.com/p/DfnzvNIBnK1/",
+  "sourceUrl": "https://www.instagram.com/p/De-zWoiNAk2/",
   "handle": "charan.invests",
-  "generatedAt": "2026-11-18T21:50:18.504Z",
-  "format": "Personal trade confession: share a real position with entry prices and current loss, explain the bull thesis in two beats (growth stat vs competitor, structural advantage), name the near-term catalyst, state your buying plan, comment-bait CTA.",
-  "hookPattern": "I bought [stock] at [price], watched it drop [%], and I'm still adding more.",
-  "hook": "I'm down 60% on a position and still buying before earnings.",
+  "generatedAt": "2026-11-19T21:54:42.391Z",
+  "format": "Macro shock explainer: open with a jaw-dropping market stat, explain the political trigger and investor positioning that caused the move, rate the dip, pivot to a safer opportunity, comment-bait CTA.",
+  "hookPattern": "How does [market or asset] crash [X]% in a single day because of [one event]?",
+  "hook": "Brazil's stock market dropped 20% in one morning and trading froze for the first time since COVID.",
   "beats": [
-    "Nebius [VERIFY: ticker NBIS] rents AI compute to companies like Microsoft and Meta that can't source enough Nvidia chips. Revenue grew 454% year over year last quarter, about four times faster than competitor CoreWeave [VERIFY].",
-    "The whole neo-cloud sector sold off after CoreWeave's bond yield spiked and Elon Musk posted that lenders were pulling funding. But Nebius has zero data centers in Texas and 70% of new customers pay part of their contract upfront, so the company does not need to borrow to grow.",
-    "They sold out all capacity last quarter, hold over 37 billion dollars in signed contracts, and new deals price 65% higher than old ones. Earnings hit Thursday and I'm watching run-rate revenue. A number around 4.6 billion puts them on track for their 7 to 9 billion ARR target."
+    "EWZ, the Brazil ETF, had run up 10% into the presidential election because investors bet Bolsonaro, the pro-business candidate, would win and cut spending.",
+    "Lula won instead. Higher spending, higher rates for longer. Sellers flooded the open with almost no buyers on the other side, wiping out over $200 billion in hours.",
+    "That dip looks tempting but the uncertainty in Brazil right now is too high for me. I'm watching AI stocks that sold off hard while their underlying business kept growing."
   ],
-  "cta": "Not financial advice, just what I'm watching. Comment 'stock' and I'll send you my full breakdown including the price levels I'm buying.",
-  "whyOriginalWorked": "Opening with a raw loss number creates instant credibility and curiosity, then the data-heavy bull case earns the viewer's trust before the earnings-day urgency drives the CTA.",
-  "fullScript": "I'm down 60% on a position and still buying before earnings. Nebius [VERIFY: ticker NBIS] rents AI compute to companies like Microsoft and Meta that can't source enough Nvidia chips. Revenue grew 454% year over year last quarter, four times faster than competitor CoreWeave [VERIFY]. The sector sold off after CoreWeave's bond yield spiked and Elon Musk posted lenders were pulling funding. But Nebius has zero Texas data centers and 70% of new customers pay upfront, so they carry no debt pressure. They sold out all capacity last quarter, hold over 37 billion in signed contracts, and new deals price 65% higher than old ones. I'm watching run-rate revenue Thursday morning. Not financial advice, just what I'm watching. Comment 'stock' and I'll send you my full breakdown."
+  "cta": "Not financial advice, just what I'm tracking. Comment 'stock' and I'll send you my free portfolio breakdown.",
+  "whyOriginalWorked": "The 'entire country crashes in one day' hook creates instant disbelief, then the election cause-and-effect payoff makes the audience feel like they learned something most people missed.",
+  "fullScript": "Brazil's stock market dropped 20% in one morning and trading froze for the first time since COVID. EWZ had already run up 10% going into the presidential election because investors bet Bolsonaro, the pro-business candidate, would win and cut government spending. Lula won instead. That means higher spending and higher rates for longer. Sellers hit the open all at once with almost no buyers, and over $200 billion disappeared in hours. That dip looks cheap but Brazil carries too much uncertainty right now. I'm watching AI stocks that sold off while their businesses kept growing. Not financial advice, just what I'm tracking. Comment 'stock' and I'll send you my free portfolio breakdown."
 }

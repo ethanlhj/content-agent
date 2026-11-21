@@ -1,16 +1,16 @@
 {
-  "sourceUrl": "https://www.instagram.com/p/Df4_yXgS4ws/",
+  "sourceUrl": "https://www.instagram.com/p/DfiusriNBBn/",
   "handle": "charan.invests",
-  "generatedAt": "2026-11-20T21:23:58.655Z",
-  "format": "Personal position reveal: state a real trade or request you are making, cite a crowd behavior or sentiment shift as the setup, explain the structural reason the opportunity exists, add a catalyst, comment-bait CTA.",
-  "hookPattern": "I'm putting $[amount] into [upcoming event or asset] because [contrarian crowd observation].",
-  "hook": "I'm requesting $10,000 of the Anthropic [VERIFY] IPO because fund managers just sold most of their AI exposure.",
+  "generatedAt": "2026-11-21T20:12:40.448Z",
+  "format": "Loss recovery playbook: open with a raw dollar loss to build credibility, walk through a tiered buying sequence from safest to riskiest assets, anchor entries to a fear indicator, comment-bait CTA.",
+  "hookPattern": "I lost $[dollar amount] in [timeframe]. Here is how I am rebuilding.",
+  "hook": "I lost $28,000 in a single month and I have a plan to get it back.",
   "beats": [
-    "Managers at TomorrowX [VERIFY] are sitting on cash after weeks of selling AI stocks. Some are net short. That cash has to rotate somewhere when sentiment turns.",
-    "Anthropic [VERIFY] is the only frontier AI lab going public right now. Funds that want AI exposure have one option, which makes this IPO likely oversubscribed. It also joins the NASDAQ 100 [VERIFY] next month, forcing index funds to buy.",
-    "Revenue run rate went from $9 billion to $65 billion in under a year [VERIFY], and NVIDIA earnings just brought momentum back into AI names."
+    "Step one is broad market exposure first. QQQ [VERIFY ticker] tracks the NASDAQ and when the market recovers it recovers with it. I watch for entries around the 634 level [VERIFY] since that was last year's high, but I buy small amounts on the way down instead of waiting for a perfect bottom.",
+    "Step two is large caps like Meta and Amazon. They still generate real cash and hold strong assets, so they carry less risk than smaller names while still giving upside.",
+    "Step three is high beta stocks like Micron [VERIFY] only after the market shows bottoming signs. High beta names move the fastest when the market rips but also get destroyed fastest on the way down. I use the VIX as my signal. Above 28 to 30 means peak fear and that is when I start layering into QQQ and large caps first. Not financial advice, just what I am watching."
   ],
-  "cta": "Not financial advice, just what I'm watching. Comment 'IPO' below and I'll send you my full breakdown.",
-  "whyOriginalWorked": "It built instant credibility by citing a real dollar amount and insider conversations, then stacked three compounding reasons the trade works, making the thesis feel airtight before the CTA.",
-  "fullScript": "I'm requesting $10,000 of the Anthropic [VERIFY] IPO because fund managers just sold most of their AI exposure. Managers at TomorrowX [VERIFY] are sitting on cash after weeks of selling AI stocks and some are net short. That cash rotates somewhere when sentiment flips. Anthropic [VERIFY] is the only frontier AI lab going public right now, so funds wanting AI exposure have one option, making this likely oversubscribed. It joins the NASDAQ 100 [VERIFY] next month, forcing index funds to buy. Revenue run rate jumped from $9 billion to $65 billion in under a year [VERIFY]. Not financial advice, just what I'm watching. Comment 'IPO' and I'll send you my full breakdown."
+  "cta": "Comment the word Plan and I will send you the full breakdown. Follow for more.",
+  "whyOriginalWorked": "The raw opening loss number created instant credibility and emotional relatability, pulling in viewers who are also sitting on losses and desperate for a structured recovery path.",
+  "fullScript": "I lost $28,000 in a single month and I have a plan to get it back. Step one is QQQ [VERIFY] first. When the market bounces, QQQ bounces with it. I watch the 634 level [VERIFY] but buy small amounts over time. Step two is large caps like Meta and Amazon. Real cash, strong assets, solid upside. Step three is high beta names like Micron [VERIFY] only once the market shows a bottom. The VIX above 28 to 30 signals peak fear and that is my entry trigger for QQQ and large caps. Not financial advice, just what I am watching. Comment Plan and I will send you the full breakdown. Follow for more."
 }

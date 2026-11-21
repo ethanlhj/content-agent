@@ -1,8 +1,8 @@
 window.DATA = {
-  "pulledAt": "2026-11-20T21:22:55.980Z",
+  "pulledAt": "2026-11-21T20:11:55.332Z",
   "me": {
     "handle": "ethan_invests",
-    "followers": 1820,
+    "followers": 1819,
     "following": 10,
     "totalPosts": 17,
     "totalViews": 4063466,
@@ -235,7 +235,7 @@ window.DATA = {
   "competitors": [
     {
       "handle": "mo.invests",
-      "followers": 62542,
+      "followers": 62520,
       "posts": [
         {
           "id": "3841427701068583781",
@@ -243,12 +243,12 @@ window.DATA = {
           "type": "Video",
           "caption": "the best life \n-\n-\n-\n-\n-\n#life #trading #financialfreedom #mindset #money",
           "timestamp": "2026-02-27T00:59:32.000Z",
-          "likes": 16198,
+          "likes": 16197,
           "comments": 112,
-          "views": 188252,
-          "score": 188252,
+          "views": 188262,
+          "score": 188262,
           "owner": "mo.invests",
-          "videoUrl": "https://scontent-dfw6-1.cdninstagram.com/o1/v/t16/f2/m69/AQNwYJivrPtnL60M_rncedoVX25Z7qXUnL9dfa9koQL6aElUM6UuDOD4WadXyIR8OOWUup9_O097aLdsor6HzeE2.mp4?strext=1&_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_ohc=-zAhZ7cSgToQ7kNvwECfDUA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDM3Njk2MTIzNjU1NzUsImFzc2V0X2FnZV9kYXlzIjoyNjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2d3318b09d8031bd&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTGR6TXlZSF9zeXlRa01GQUd2Nm9YYTk2bWhXYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M3NERCMzUwMTc3QzMyQzE2NkMwRjk0NTMwRTQxMTg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaOvJW-xtjNPxUCKAJDMywXQDMZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=uckzQnkNcv1erOdpjGfZnA&_nc_ss=73a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS1Q4FbxJpmKIKo5fqDbxKzeJojzuCdrDSqhQcHhR11Wg&oe=6B0676CF"
+          "videoUrl": "https://scontent-fra5-1.cdninstagram.com/o1/v/t16/f2/m69/AQNwYJivrPtnL60M_rncedoVX25Z7qXUnL9dfa9koQL6aElUM6UuDOD4WadXyIR8OOWUup9_O097aLdsor6HzeE2.mp4?strext=1&_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=nT7XLmQA3-gQ7kNvwFItx5o&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDM3Njk2MTIzNjU1NzUsImFzc2V0X2FnZV9kYXlzIjoyNjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2d3318b09d8031bd&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTGR6TXlZSF9zeXlRa01GQUd2Nm9YYTk2bWhXYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M3NERCMzUwMTc3QzMyQzE2NkMwRjk0NTMwRTQxMTg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaOvJW-xtjNPxUCKAJDMywXQDMZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=p-b6l6FC0f4t0dSstk0Kkg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRuLVNmpxG2anZbErSQImn-UiGik1042LsFkUmnjmaFMw&oe=6B07C84F"
         },
         {
           "id": "3919000680751249720",
@@ -258,10 +258,10 @@ window.DATA = {
           "timestamp": "2026-06-14T01:43:05.000Z",
           "likes": 7485,
           "comments": 23,
-          "views": 103415,
-          "score": 103415,
+          "views": 103431,
+          "score": 103431,
           "owner": "mo.invests",
-          "videoUrl": "https://scontent-mxp1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPhwBpWY-4SKgaxB7RkdObSSUJww8IOu-IMOxG8OtiBWEVDg0eWzscKfR_emFNuShZszBvzYynmUDQvEj6xsWnCLLDhrTScscPKbYk.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_ohc=vh-x9Pf7C_QQ7kNvwHikuv8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjU2MDgxNzQ1NTg4ODA4NTYsImFzc2V0X2FnZV9kYXlzIjoxNTksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNSwid2F0Y2hfdGltZV9zIjo0MDg0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7b21133eafb8f174&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GQTQ1RTMxRkI5NUIxMzMzOEYxNzZEMkI2OEQ2NURBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZENDdFQ0IyNjc2NDNDMTI2OEU3MzY3QjMwMTAxOTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACawke2--J_9WhUCKAJDMywXQC4zMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=FhbEeJmqy_Du5gsSA3S1Lg&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ-2Z2SE-Wxlp2gSaK2C0S7uCyN13PDNf1DcyLGCC5V1w&oe=6B0295D6"
+          "videoUrl": "https://instagram.fmel18-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPhwBpWY-4SKgaxB7RkdObSSUJww8IOu-IMOxG8OtiBWEVDg0eWzscKfR_emFNuShZszBvzYynmUDQvEj6xsWnCLLDhrTScscPKbYk.mp4?_nc_cat=105&_nc_oc=AdrpcrbMWD5-QErzUEnU5AUgXjcuE-9866-c6Yc4vlGDyPC5QFD0eQuQukqzNAg_Z1rSyRJUYB1eJqoYx7_2id_F&_nc_sid=5e9851&_nc_ht=instagram.fmel18-1.fna.fbcdn.net&_nc_ohc=O65i2wnFnOMQ7kNvwEtjTlN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjU2MDgxNzQ1NTg4ODA4NTYsImFzc2V0X2FnZV9kYXlzIjoxNjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7b21133eafb8f174&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GQTQ1RTMxRkI5NUIxMzMzOEYxNzZEMkI2OEQ2NURBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZENDdFQ0IyNjc2NDNDMTI2OEU3MzY3QjMwMTAxOTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACawke2--J_9WhUCKAJDMywXQC4zMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sf6hKDyasmeb3VvO_mtFoQ&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR8kCc1Z412vAH_LxWBwpaPYiBg1k-doLV5CSvTdMT70g&oe=6B03E756"
         },
         {
           "id": "3806510652115320181",
@@ -269,10 +269,10 @@ window.DATA = {
           "type": "Sidecar",
           "caption": "MOmentum building",
           "timestamp": "2026-01-09T20:44:12.000Z",
-          "likes": 10228,
+          "likes": 10227,
           "comments": 43,
           "views": null,
-          "score": 10228,
+          "score": 10227,
           "owner": "mo.invests",
           "videoUrl": null
         },
@@ -303,6 +303,19 @@ window.DATA = {
           "videoUrl": null
         },
         {
+          "id": "4021185636567968089",
+          "url": "https://www.instagram.com/p/DfOHwgDiWlZ/",
+          "type": "Sidecar",
+          "caption": "The best is yet to come.",
+          "timestamp": "2026-11-02T01:25:04.000Z",
+          "likes": 1135,
+          "comments": 40,
+          "views": null,
+          "score": 1135,
+          "owner": "mo.invests",
+          "videoUrl": null
+        },
+        {
           "id": "3892873255598007755",
           "url": "https://www.instagram.com/p/DYGQ5nDiaXL/",
           "type": "Sidecar",
@@ -312,19 +325,6 @@ window.DATA = {
           "comments": 194,
           "views": null,
           "score": 1126,
-          "owner": "mo.invests",
-          "videoUrl": null
-        },
-        {
-          "id": "4021185636567968089",
-          "url": "https://www.instagram.com/p/DfOHwgDiWlZ/",
-          "type": "Sidecar",
-          "caption": "The best is yet to come.",
-          "timestamp": "2026-11-02T01:25:04.000Z",
-          "likes": 1115,
-          "comments": 40,
-          "views": null,
-          "score": 1115,
           "owner": "mo.invests",
           "videoUrl": null
         },
@@ -371,7 +371,7 @@ window.DATA = {
     },
     {
       "handle": "kevvonz",
-      "followers": 184985,
+      "followers": 185020,
       "posts": [
         {
           "id": "4024062158446285371",
@@ -379,12 +379,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Part 2 posted as the next video!\n\nWow what a day for the stock market. Here are my thoughts on how to navigate and understand it 📉\n\n#stockm",
           "timestamp": "2026-11-06T00:40:56.000Z",
-          "likes": 12071,
+          "likes": 12077,
           "comments": 184,
-          "views": 413295,
-          "score": 413295,
+          "views": 413575,
+          "score": 413575,
           "owner": "kevvonz",
-          "videoUrl": "https://instagram.fbne5-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQOkqhb-kFmX1wIC6SiKbTZNqSCBR1nAnDDOex-Vjn8MZJH1iCLEy49db161TcJYDv-o4F9gT8owAcRtBM8l8s20lX__1-fPUh_GAJ0.mp4?_nc_cat=111&_nc_oc=AdoUYuNE3l-JfeQbPp5GlfzblQuzEm1gUyk3SyykDiDxYMgI833pCOPAo9wJSJLLJvzgaYLwumGreQ3rqcH9WTel&_nc_sid=5e9851&_nc_ht=instagram.fbne5-1.fna.fbcdn.net&_nc_ohc=2YDIyioxhW0Q7kNvwFQ96w2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE5NzY1Mzk2MjY5OTE5MiwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3178a5b028b246b7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81RUE3MjE2NTI4NTQ0RkJEOEEwNzE1OEI1QTMyMDI4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M3NEFDRTEzMzk3RTRCNEVBMkIxQTE4RTdERDY1NTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbwxpWw0dCgBBUCKAJDMywXQGCwAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=U99Ixjb3ugxcyePXSEW-GA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTt9jaLNDJfZWT2RqvVShWbw-oybMOUA0q11QSER5RKTw&oe=6B02B3F0"
+          "videoUrl": "https://scontent-nrt6-1.cdninstagram.com/o1/v/t2/f2/m86/AQOkqhb-kFmX1wIC6SiKbTZNqSCBR1nAnDDOex-Vjn8MZJH1iCLEy49db161TcJYDv-o4F9gT8owAcRtBM8l8s20lX__1-fPUh_GAJ0.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_ohc=2YDIyioxhW0Q7kNvwGsUQ0g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE5NzY1Mzk2MjY5OTE5MiwiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3178a5b028b246b7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81RUE3MjE2NTI4NTQ0RkJEOEEwNzE1OEI1QTMyMDI4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M3NEFDRTEzMzk3RTRCNEVBMkIxQTE4RTdERDY1NTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbwxpWw0dCgBBUCKAJDMywXQGCwAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=NRYRVtKmYoA_XAJTF5TKWw&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTqCfrsODT7GH1u-Vyath6j_6g7OHyYu2SVU1n0KiK89A&oe=6B03CD30"
         },
         {
           "id": "4019562058223041756",
@@ -392,12 +392,12 @@ window.DATA = {
           "type": "Video",
           "caption": "AI fears are causing the stock market to fall… again for the 100th time\n\n#stockmarket #stocks #stockcrash #stockstobuy",
           "timestamp": "2026-10-30T19:40:47.000Z",
-          "likes": 1210,
+          "likes": 1211,
           "comments": 43,
-          "views": 104098,
-          "score": 104098,
+          "views": 104156,
+          "score": 104156,
           "owner": "kevvonz",
-          "videoUrl": "https://instagram.fngo1-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQPYtTjTdiYFJ1bjtQWAHypSDaTlqygVcP61XaZQrDDgKQgxShMy4oq1X4VHLNr_jpbQbTC8xE-4Aco-81q9nt6vDOoZtlOCh8vdfPc.mp4?_nc_cat=104&_nc_oc=AdrVpK0sFp4fiTXjnRrYEPGt87ctT6zcTCfhJtux_IdhMLj27mcfXoYKC5lbIDGe8rSdKNS4EjxSzpFJtI3Mz9kw&_nc_sid=9ca052&_nc_ht=instagram.fngo1-1.fna.fbcdn.net&_nc_ohc=1tcLCaOA8AgQ7kNvwGNfsCA&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmlnd3d3LUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTYzODIwODA2NjAxMDUxLCJhc3NldF9hZ2VfZGF5cyI6MjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5MiwiYml0cmF0ZSI6ODc2ODU1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5rQa6XGrYdg5D3ZDKnVNDw&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRTrQ57KUjgMxO3vKCmR_v2q9ihBGofmD16jTFg153DOA&oe=6B068AE1"
+          "videoUrl": "https://scontent-fco2-1.cdninstagram.com/o1/v/t2/f2/m367/AQPYtTjTdiYFJ1bjtQWAHypSDaTlqygVcP61XaZQrDDgKQgxShMy4oq1X4VHLNr_jpbQbTC8xE-4Aco-81q9nt6vDOoZtlOCh8vdfPc.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_ohc=P6cSCR8lxFwQ7kNvwHIO1lJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmlnd3d3LUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTYzODIwODA2NjAxMDUxLCJhc3NldF9hZ2VfZGF5cyI6MjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5MiwiYml0cmF0ZSI6ODc2ODU1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3G00ojhPvcJoCnL0brciaQ&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQWkwTQuLJS17YS7-oufPHDFlccptEaW4soqxVTaq8CzQ&oe=6B07DC61"
         },
         {
           "id": "4026873540136215184",
@@ -405,12 +405,12 @@ window.DATA = {
           "type": "Video",
           "caption": "JENSEN NOOOOOO YOU WERE MY KING\n\n#nvidia #jensenhuang #cheating #ai",
           "timestamp": "2026-11-09T21:46:41.000Z",
-          "likes": 1071,
+          "likes": 1072,
           "comments": 43,
-          "views": 77583,
-          "score": 77583,
+          "views": 77845,
+          "score": 77845,
           "owner": "kevvonz",
-          "videoUrl": "https://instagram.fbau3-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQOK5_uYj-ITpdJnPxeiKu36ltvNjLGph22y-oDj7TYBrNjr6PWhcVYjjVHVAZwhKwME1z3QUcTNa2PGGY2UMdhqvraaPjN0KYc2MuM.mp4?_nc_cat=110&_nc_oc=AdrMLJlwWmU-_IX2NPgBg_AIkTBu1Pqf8DkTsgLJch9FNf2la8gDNr9F-hRO59hMdFA&_nc_sid=5e9851&_nc_ht=instagram.fbau3-1.fna.fbcdn.net&_nc_ohc=3gAZadn7E5oQ7kNvwEwgrOE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYyOTI2NTQ1ODMzMzY3MCwiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8fe7b160ba2d4de&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNDBENzhBNUEyMkY0MURFODY5ODNGQzVCRjdEOEY2RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzczNjQ3RENGQkU4MzQ4RkVCMEQ3QTI0NTExMzM0ODREX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbMn5zO3fPkBRUCKAJDMywXQE_3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=WNCVmE0Q4ApJmKx1fnebtQ&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR9XhNah2lvS7XvTHYwIqwds47yk86TqoF9si4LfiGB3Q&oe=6B029DBB"
+          "videoUrl": "https://instagram.fmad23-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQOK5_uYj-ITpdJnPxeiKu36ltvNjLGph22y-oDj7TYBrNjr6PWhcVYjjVHVAZwhKwME1z3QUcTNa2PGGY2UMdhqvraaPjN0KYc2MuM.mp4?_nc_cat=110&_nc_oc=AdqgIfnLmDB2AXUSsn-j326jyIGUyffrcsdBmfV-pmhDnjxOKi4ctF37Oa-Lkjh5uT4&_nc_sid=5e9851&_nc_ht=instagram.fmad23-1.fna.fbcdn.net&_nc_ohc=3gAZadn7E5oQ7kNvwG9MbP6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYyOTI2NTQ1ODMzMzY3MCwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8fe7b160ba2d4de&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNDBENzhBNUEyMkY0MURFODY5ODNGQzVCRjdEOEY2RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzczNjQ3RENGQkU4MzQ4RkVCMEQ3QTI0NTExMzM0ODREX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbMn5zO3fPkBRUCKAJDMywXQE_3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=24LGGs5vwc05ptJnNSgYyQ&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR0beE6a2HlQSxelB2mf_onpLLYC0v0dSry7u_yWQshoQ&oe=6B03EF3B"
         },
         {
           "id": "4028447854749547610",
@@ -419,11 +419,11 @@ window.DATA = {
           "caption": "Jensen huang controversy extends… he is not having a great week at all",
           "timestamp": "2026-11-12T01:57:17.000Z",
           "likes": 927,
-          "comments": 189,
-          "views": 72726,
-          "score": 72726,
+          "comments": 191,
+          "views": 73137,
+          "score": 73137,
           "owner": "kevvonz",
-          "videoUrl": "https://instagram.fmad16-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQMKWBkQKGQBBZ1-7hjaRdums0Ijr6q1HYTbNv335nHhoH6cFJN6llydC1PvkUod6NVD7rBpYcAT08QjvHMivY-6b_JwC08FbtkVg80.mp4?_nc_cat=103&_nc_oc=AdqXrnD6ThNdBDIuNRCPm-S0oPsSbMFd6fPTEvWg4zFmNXFhAfhy2miupWZS8_jPC-E&_nc_sid=5e9851&_nc_ht=instagram.fmad16-1.fna.fbcdn.net&_nc_ohc=ylmOtfro83UQ7kNvwFNfYxb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA0MjM5NzE0ODg3MjM2NywiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6a26253fe163f2e1&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRDY5NDQ1MUVENjc0ODE2QjY5MzdGQTZFOTJEMUU2Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0NEMzQ2MTRFODk1NTQxRTM5MjY0NzEzREE3MzFCNTMwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbe-q_8v4PaAxUCKAJDMywXQD67peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=krfFywIhzynFpx2_zHzPbQ&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSLoYHqzIKTxDMx1gNy8yU37j2GK_eppLjG0DnbCF0PiQ&oe=6B0281E8"
+          "videoUrl": "https://instagram.fmad7-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQMKWBkQKGQBBZ1-7hjaRdums0Ijr6q1HYTbNv335nHhoH6cFJN6llydC1PvkUod6NVD7rBpYcAT08QjvHMivY-6b_JwC08FbtkVg80.mp4?_nc_cat=103&_nc_oc=AdqBBBzIb6fHYrRs69oBBwLM9E_N0yLlwh-w5LtVT9_7XoDXv2zMYE0JELpJfuBf6mA&_nc_sid=5e9851&_nc_ht=instagram.fmad7-1.fna.fbcdn.net&_nc_ohc=ylmOtfro83UQ7kNvwEm2n9o&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA0MjM5NzE0ODg3MjM2NywiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6a26253fe163f2e1&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRDY5NDQ1MUVENjc0ODE2QjY5MzdGQTZFOTJEMUU2Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0NEMzQ2MTRFODk1NTQxRTM5MjY0NzEzREE3MzFCNTMwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbe-q_8v4PaAxUCKAJDMywXQD67peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=QKrbAfPDvMH9BzFoxkiXEQ&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTHpHEfc9ewx1dlfA82blCzZrd00IZhdVqOlt_Z4qI0og&oe=6B03D368"
         },
         {
           "id": "4024062770818819337",
@@ -431,12 +431,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Watch part 1 first!\n\nWow what a day for the stock market. Here are my thoughts on how to navigate and understand it 📉\n\n#stockmarket #stocks",
           "timestamp": "2026-11-06T00:42:08.000Z",
-          "likes": 1530,
+          "likes": 1532,
           "comments": 66,
-          "views": 62737,
-          "score": 62737,
+          "views": 62868,
+          "score": 62868,
           "owner": "kevvonz",
-          "videoUrl": "https://scontent-gig4-2.cdninstagram.com/o1/v/t2/f2/m86/AQOkd8pbznCnvNJCkiKYSuDV-OTWCKbb78HWAnt5VFi0gfhV85hEv41gwswJnhZp3loMmPS14DqojGXWanWlh8IZTwFSU3qz90UOuiU.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-gig4-2.cdninstagram.com&_nc_ohc=48_SK1ENQKIQ7kNvwEDC_U7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ5MDEyNTk2MzA0MDQ1MiwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=137e8b924290c6ea&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQzJFQkYwOTZBNTE0MjNFQTEwNEFGNkREMzk4NDM5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ2OTVBMUE2RjVGOTQ1MzBCNzc4ODEyNThDMzJBNjVEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaI25TL39ClBRUCKAJDMywXQF6ZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=u7sJwjbnhJnk0Ig6aqd6UA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQy5xFL92W5lAsYNskkHUDiY6khC9zTjZnWkReQOnG3XA&oe=6B02A7A2"
+          "videoUrl": "https://scontent-cdg4-1.cdninstagram.com/o1/v/t2/f2/m86/AQOkd8pbznCnvNJCkiKYSuDV-OTWCKbb78HWAnt5VFi0gfhV85hEv41gwswJnhZp3loMmPS14DqojGXWanWlh8IZTwFSU3qz90UOuiU.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_ohc=48_SK1ENQKIQ7kNvwFahL-3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ5MDEyNTk2MzA0MDQ1MiwiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=137e8b924290c6ea&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQzJFQkYwOTZBNTE0MjNFQTEwNEFGNkREMzk4NDM5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ2OTVBMUE2RjVGOTQ1MzBCNzc4ODEyNThDMzJBNjVEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaI25TL39ClBRUCKAJDMywXQF6ZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=VXGMZHWL2OAIpFjp1eB1aA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS1OApK3m1H8ls4th0EyPHXvmTJaIcFetwPg1rm_on71A&oe=6B03C0E2"
         },
         {
           "id": "4027621750140294253",
@@ -444,12 +444,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Hims stock update after disappointing earnings",
           "timestamp": "2026-11-10T22:33:29.000Z",
-          "likes": 736,
-          "comments": 160,
-          "views": 59451,
-          "score": 59451,
+          "likes": 740,
+          "comments": 161,
+          "views": 59985,
+          "score": 59985,
           "owner": "kevvonz",
-          "videoUrl": "https://scontent-nrt1-2.cdninstagram.com/o1/v/t2/f2/m86/AQM-kpRtgrLNBrsSfpbdF-D6i3XJQEV7er60-lMRcBrCSpkNrMcm-Y5vr1N2OJc8Y53AInJJIFDWniCFvYiQjV0k_frMKElQxjtMKGA.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_ohc=hesTqFtE3s8Q7kNvwGyYTMm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTkyNDA5MTI1MjMwNjEzNiwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=490876e1af896169&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMTI2Rjc3MTFCQzM0NzY4QkIyOTBCM0RDQzQ3OUVENF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzk3RDNEOTNBNzQxMzRCRkZBNEM0QjkyOEU4MjI3RDQ5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaww9_57PzqBhUCKAJDMywXQGByHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=HU37rQGx-B5lE1WdrcDc2w&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQaM_PEpI1Fk9zzfz2BX3xlpiK78QpyNNSMoLhG9S10XA&oe=6B028DF1"
+          "videoUrl": "https://scontent-atl3-1.cdninstagram.com/o1/v/t2/f2/m86/AQM-kpRtgrLNBrsSfpbdF-D6i3XJQEV7er60-lMRcBrCSpkNrMcm-Y5vr1N2OJc8Y53AInJJIFDWniCFvYiQjV0k_frMKElQxjtMKGA.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=hesTqFtE3s8Q7kNvwGYk_GM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTkyNDA5MTI1MjMwNjEzNiwiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=490876e1af896169&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMTI2Rjc3MTFCQzM0NzY4QkIyOTBCM0RDQzQ3OUVENF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzk3RDNEOTNBNzQxMzRCRkZBNEM0QjkyOEU4MjI3RDQ5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaww9_57PzqBhUCKAJDMywXQGByHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=ZRvv1WgF4qfD547xx_XvPw&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_ss=7c60f&oh=00_AQSNh8IfvW1Ft5ZX5wGXAKqrGDp3dhitPAd8GzLM2Fk60g&oe=6B03DF71"
         },
         {
           "id": "4011756079330675190",
@@ -459,10 +459,23 @@ window.DATA = {
           "timestamp": "2026-10-20T01:18:25.000Z",
           "likes": 486,
           "comments": 22,
-          "views": 43314,
-          "score": 43314,
+          "views": 43342,
+          "score": 43342,
           "owner": "kevvonz",
-          "videoUrl": "https://instagram.fbvb5-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPzKjJFJXuyg_oZrfwC7t5l4lQ9l12ePWj6GkgPc7SQPar11dUtAe8uaNb8Jw-_upk-6den2b3Bul-1U916CKIp7y3O1SQIdwxT7AE.mp4?_nc_cat=108&_nc_oc=Adp26KxcFGn09Ram9WGjg2VM_nTYGytlj7JhuhkZoqT7r4dFNd9LKMcZJZdZnfSmjLw&_nc_sid=5e9851&_nc_ht=instagram.fbvb5-1.fna.fbcdn.net&_nc_ohc=LZw2R330D_AQ7kNvwH6Pnh0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTUxNDQwOTMxMzY5NjA3LCJhc3NldF9hZ2VfZGF5cyI6MzEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e3a8271b7a42532d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83N0IxRjdDMzU5OUE0NjIyQkI3NjJDMEU5RTFFMDM0N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VEMkY5MDE0NzBBMTQyOTZCQjA4NjUxQTgwNUZFMDIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaOyumrk9WwAxUCKAJDMywXQFAIgxJul40YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=psyqf3AUJdR07xmy0TXD3Q&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTTa8K0gwdesoiw1dWPIrwZPWYXv_9scYcBxtFQuziSPg&oe=6B029B69"
+          "videoUrl": "https://instagram.fvlc7-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPzKjJFJXuyg_oZrfwC7t5l4lQ9l12ePWj6GkgPc7SQPar11dUtAe8uaNb8Jw-_upk-6den2b3Bul-1U916CKIp7y3O1SQIdwxT7AE.mp4?_nc_cat=108&_nc_oc=AdouG7fFTx89gt8XQEubzJenPDMbLHYQ4IQGx1o6-29kBnGZGNEq73KnX1P2K_5DrkBjB0P1d84HyG-rDYBkxxco&_nc_sid=5e9851&_nc_ht=instagram.fvlc7-1.fna.fbcdn.net&_nc_ohc=LZw2R330D_AQ7kNvwGDI3i0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTUxNDQwOTMxMzY5NjA3LCJhc3NldF9hZ2VfZGF5cyI6MzIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e3a8271b7a42532d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83N0IxRjdDMzU5OUE0NjIyQkI3NjJDMEU5RTFFMDM0N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VEMkY5MDE0NzBBMTQyOTZCQjA4NjUxQTgwNUZFMDIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaOyumrk9WwAxUCKAJDMywXQFAIgxJul40YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=fKMbtWPNezURxOhKYIvbLw&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTO4DDFmv_ZxHug8drh5FWQyOW16ZNPXX_qwc9uqmyzFw&oe=6B03ECE9"
+        },
+        {
+          "id": "4033291619549285522",
+          "url": "https://www.instagram.com/p/Df5IVvSy4yS/",
+          "type": "Video",
+          "caption": "Anthropic IPOs at a staggering 1.6T valuation today. Admist the chaotic stock environment (with many AI names plummeting) are you looking to",
+          "timestamp": "2026-11-18T18:18:39.000Z",
+          "likes": 266,
+          "comments": 28,
+          "views": 33495,
+          "score": 33495,
+          "owner": "kevvonz",
+          "videoUrl": "https://instagram.fcgh33-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNTE8jqjoPnA6LhPvZ_Dbz8EmwR0w81BWgmhGDHRVHaZYBydmHxg102kbkse8TaF8H3r9Ea3siz_IJIsDYiD-bMkk99Is01D51Fyj8.mp4?_nc_cat=101&_nc_oc=Adot96OLWuS3IWTFkkc4dup3IqN_wPGKbcoeghbFTGZJC3c_jVGBVclAL2LjvDIO7ao&_nc_sid=5e9851&_nc_ht=instagram.fcgh33-1.fna.fbcdn.net&_nc_ohc=3b73ZjjYPXgQ7kNvwEQ7Z49&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE1Mzc0ODMxNzMwNDQ1MiwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4267a21e3b0b4016&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NzBERjFBQjc0Njk0QTI4ODA0MTVDMjQyNkE5NEE5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZCQUU2RTMzMDY2OTQ1RTVBRUJEQTU2MTNGQTA1RDlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaI2ufp_tSMBBUCKAJDMywXQE-MzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1GRyzVaOsnMuw60dQ6qk3A&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQFU2NEpLmzaCX9ab3rMOGSYSyxgf70rLX_c8USriXl5g&oe=6B03D5EE"
         },
         {
           "id": "4021716678164252087",
@@ -472,29 +485,16 @@ window.DATA = {
           "timestamp": "2026-11-02T19:09:04.000Z",
           "likes": 227,
           "comments": 25,
-          "views": 33247,
-          "score": 33247,
+          "views": 33283,
+          "score": 33283,
           "owner": "kevvonz",
-          "videoUrl": "https://instagram.fbel6-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQMVO1zLoi3NJmUoqA6Qr9hrLuD1Dvc1g1jJ-tX4VgP5FTPIzyssobikCd0nCdBpu1C2o_89I9lSU3F8RJhnMqHQN_dx_hBFPwZK-Ug.mp4?_nc_cat=100&_nc_oc=AdpXmsXlP24aWPYu1b-6MwVbUapHwqO0cSVnw4WPyG9VGKWqVxDxLzSgkaFmzVGnd5g&_nc_sid=5e9851&_nc_ht=instagram.fbel6-1.fna.fbcdn.net&_nc_ohc=eJUYS3CLSDEQ7kNvwH-UUgg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjM1NDcwOTg3NTM2MDkyMCwiYXNzZXRfYWdlX2RheXMiOjE4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e0bd5cc2942696c6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82QTcyODYyRjJGNTI0MzVCODE4N0FENEVGNDQ4RTgxQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M4MTg3N0JGOTRDNjRGRTc4RTM0NzI4MjgyMzRGMzVGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACawktzak-auCBUCKAJDMywXQERFHrhR64UYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=idztNyaM61l1n22tUplZjQ&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ4gxC2qlC_NaBRRzowax8wwCm7PcLddl0eOQriK343_Q&oe=6B0280D1"
-        },
-        {
-          "id": "4033291619549285522",
-          "url": "https://www.instagram.com/p/Df5IVvSy4yS/",
-          "type": "Video",
-          "caption": "Anthropic IPOs at a staggering 1.6T valuation today. Admist the chaotic stock environment (with many AI names plummeting) are you looking to",
-          "timestamp": "2026-11-18T18:18:39.000Z",
-          "likes": 262,
-          "comments": 26,
-          "views": 32645,
-          "score": 32645,
-          "owner": "kevvonz",
-          "videoUrl": "https://instagram.fpsr1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNTE8jqjoPnA6LhPvZ_Dbz8EmwR0w81BWgmhGDHRVHaZYBydmHxg102kbkse8TaF8H3r9Ea3siz_IJIsDYiD-bMkk99Is01D51Fyj8.mp4?_nc_cat=101&_nc_oc=AdouHz-_hqfAYpD0Pi3PvYqp7Iwqc6OYCy_kyxVmujlyKvQIm9MIAR9LDhDMnV3uu2I&_nc_sid=5e9851&_nc_ht=instagram.fpsr1-1.fna.fbcdn.net&_nc_ohc=-BLvSViZcOgQ7kNvwFd5x6d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE1Mzc0ODMxNzMwNDQ1MiwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4267a21e3b0b4016&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NzBERjFBQjc0Njk0QTI4ODA0MTVDMjQyNkE5NEE5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZCQUU2RTMzMDY2OTQ1RTVBRUJEQTU2MTNGQTA1RDlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaI2ufp_tSMBBUCKAJDMywXQE-MzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=SgYa4Liib95lSD9t38egeA&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQFu4IiC5dRolvJwhhmA0eNCwgQ0Yf2x52FFGIqf_m9fQ&oe=6B02846E"
+          "videoUrl": "https://scontent-lga3-2.cdninstagram.com/o1/v/t2/f2/m86/AQMVO1zLoi3NJmUoqA6Qr9hrLuD1Dvc1g1jJ-tX4VgP5FTPIzyssobikCd0nCdBpu1C2o_89I9lSU3F8RJhnMqHQN_dx_hBFPwZK-Ug.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=eJUYS3CLSDEQ7kNvwGjQf5d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjM1NDcwOTg3NTM2MDkyMCwiYXNzZXRfYWdlX2RheXMiOjE5LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e0bd5cc2942696c6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82QTcyODYyRjJGNTI0MzVCODE4N0FENEVGNDQ4RTgxQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M4MTg3N0JGOTRDNjRGRTc4RTM0NzI4MjgyMzRGMzVGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACawktzak-auCBUCKAJDMywXQERFHrhR64UYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=cD6TNRJiMqilvAyvneAcaA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSp1chPvvulKfTsAKSZeMs50-XdxxzSe54eIJ4o2fQC6g&oe=6B03D251"
         }
       ]
     },
     {
       "handle": "charan.invests",
-      "followers": 238739,
+      "followers": 238676,
       "posts": [
         {
           "id": "4023885451429127541",
@@ -502,12 +502,12 @@ window.DATA = {
           "type": "Video",
           "caption": "I’m joking lol everything is down🤣🤣\n\nQqq -15% from highs, but Nancy lowkey top ticked $INTC\n\nWill make a more educational video on what I’",
           "timestamp": "2026-11-05T18:50:31.000Z",
-          "likes": 1674,
+          "likes": 1675,
           "comments": 104,
-          "views": 188514,
-          "score": 188514,
+          "views": 188696,
+          "score": 188696,
           "owner": "charan.invests",
-          "videoUrl": "https://scontent-iad6-1.cdninstagram.com/o1/v/t16/f2/m84/AQNRtC5-qfMB6PpQU3CDCS9emso5oi3nHDdPMOQEvzi4zwqAVCNiqlFBlyxqNFVYK7Gif5ZMDr367Tl_X3oMvtOvc3WRnAH-tFGGzAY.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=Ps1-xQ-SsS4Q7kNvwFF1vZ5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ2OTg4NzkzODM3MjYxNywiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=93b39ac0fce816e0&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9DNEU0QzkxN0E0NTc0N0RCQTRBNENDQTQxRTNCMkNDRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y2Mjg1NDY1RTIzMDRCMUZBMzVCMDc5RDk0MDMxNkQxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaSkOnG3racBRUCKAJDMywXQBohysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=lQKpqXKwoY_TRijJ0ftoqQ&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRxccJalYq_wL2T2DN-1rX6HE04IKK6H4EdfqCiorz7_w&oe=6B027D68"
+          "videoUrl": "https://instagram.fkix1-1.fna.fbcdn.net/o1/v/t16/f2/m84/AQNRtC5-qfMB6PpQU3CDCS9emso5oi3nHDdPMOQEvzi4zwqAVCNiqlFBlyxqNFVYK7Gif5ZMDr367Tl_X3oMvtOvc3WRnAH-tFGGzAY.mp4?_nc_cat=108&_nc_oc=Adr6P4-1BcNlOgJ_pTJPa4zfvCcIp7sMQfmeY6NFX-c8gsDhAnKtr0xRGF31-Xiy1CPyPS_un2QFxLb0jwO4Fns7&_nc_sid=5e9851&_nc_ht=instagram.fkix1-1.fna.fbcdn.net&_nc_ohc=93EaeKG_9WcQ7kNvwF2LYcw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ2OTg4NzkzODM3MjYxNywiYXNzZXRfYWdlX2RheXMiOjE2LCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=93b39ac0fce816e0&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9DNEU0QzkxN0E0NTc0N0RCQTRBNENDQTQxRTNCMkNDRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y2Mjg1NDY1RTIzMDRCMUZBMzVCMDc5RDk0MDMxNkQxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaSkOnG3racBRUCKAJDMywXQBohysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=Nj__vALqcJG7bYcFHSvq1g&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSwagE0JgL_VvwzMz0DuSHRePFbgjLPAhYj3P_rM3S01A&oe=6B03CEE8"
         },
         {
           "id": "4028415935986954933",
@@ -515,12 +515,25 @@ window.DATA = {
           "type": "Video",
           "caption": "Sorry guys, I recorded this last week, so prices have moved since, but the thesis hasn’t 🙏\n\nNebius is still way down from its highs and I’m",
           "timestamp": "2026-11-12T00:54:52.000Z",
-          "likes": 1380,
-          "comments": 383,
-          "views": 120522,
-          "score": 120522,
+          "likes": 1402,
+          "comments": 385,
+          "views": 122570,
+          "score": 122570,
           "owner": "charan.invests",
-          "videoUrl": "https://scontent-waw2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPwrb2jKN519jvErN9VDkIkiYUTe2hFXHdbtKdbkIKEU82-PYfl4Z3WV850WajzFOGMCryYY8wDXOEJ56mC78PYRvSSCCf_1UvL2Lk.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_ohc=Tv0CnbNmEcIQ7kNvwGhdkPu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ3OTY3MzgzNDEwMTExOSwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7e0a33fa8ce7448e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80QkU2NkM4RUIyNTA0RUZEOUE1NEEzNjY1MDU4RUE5N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzgyRTY1NTZFM0UyMTQ5NDI4NzQ5Rjk0Qjg0MTY5Mjg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb-5Z6UrfCgBRUCKAJDMywXQFdXbItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nPnT19kdpLKrzEmcUPj11Q&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTZAz5aLT9pTABJj4NU8lIKEcHMeuogppoZnqs0YSC88w&oe=6B028880"
+          "videoUrl": "https://instagram.fpoz2-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPwrb2jKN519jvErN9VDkIkiYUTe2hFXHdbtKdbkIKEU82-PYfl4Z3WV850WajzFOGMCryYY8wDXOEJ56mC78PYRvSSCCf_1UvL2Lk.mp4?_nc_cat=103&_nc_oc=AdqLBGnuIWHsZN_j8pCLsaHsHCC8i-efLtoCzK8OtYAkTEMBbyTh6kctGX69W06BzLw&_nc_sid=5e9851&_nc_ht=instagram.fpoz2-1.fna.fbcdn.net&_nc_ohc=Tv0CnbNmEcIQ7kNvwEioOht&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ3OTY3MzgzNDEwMTExOSwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7e0a33fa8ce7448e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80QkU2NkM4RUIyNTA0RUZEOUE1NEEzNjY1MDU4RUE5N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzgyRTY1NTZFM0UyMTQ5NDI4NzQ5Rjk0Qjg0MTY5Mjg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb-5Z6UrfCgBRUCKAJDMywXQFdXbItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=bWfRHiqKIhYxiakiYmyvfQ&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRasVefaBgt5hmGrQGj_Ax0S2TA9nTaQcE3OdUGlx5dew&oe=6B03DA00"
+        },
+        {
+          "id": "4033254004452199468",
+          "url": "https://www.instagram.com/p/Df4_yXgS4ws/",
+          "type": "Video",
+          "caption": "I’m requesting $10,000 of the Anthropic IPO.\n\nFunds have been dumping AI stocks for weeks and are sitting on cash. Anthropic is the only pur",
+          "timestamp": "2026-11-18T17:03:18.000Z",
+          "likes": 1150,
+          "comments": 391,
+          "views": 119618,
+          "score": 119618,
+          "owner": "charan.invests",
+          "videoUrl": "https://scontent-fco2-1.cdninstagram.com/o1/v/t16/f2/m84/AQOtJnjsFg5r5Evlgxv_kIMYc78KtR88k3WRKOyQXLmphEBZN4_OQNArsFSpsh44q1Ej-SZtHW-EBlfoYNRIqJlvy6giFO8IzT6pC08.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_ohc=4YY7IHV8uF4Q7kNvwGl-ibB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE3ODM2MTk4MTc5ODk2OCwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fed8424033d0a6bf&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yQTgxRDg1MkFERDM0NjE5QTg2QTg5MDM0RTM3OTlEMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY4QzNBMzc5ODEwMDRGNTE5MzkxQTFFMzk5NTc1OEIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbwqLz12O2XBBUCKAJDMywXQEymZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=KNKdzvA5GfP-adWxyU2IcQ&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRQc0wH4_awiaxT9iVIkLP-q_yMq5TV2xnvnfmy3gVbIQ&oe=6B03D899"
         },
         {
           "id": "4028456227145256273",
@@ -530,23 +543,10 @@ window.DATA = {
           "timestamp": "2026-11-12T02:11:51.000Z",
           "likes": 1206,
           "comments": 28,
-          "views": 117841,
-          "score": 117841,
+          "views": 118101,
+          "score": 118101,
           "owner": "charan.invests",
-          "videoUrl": "https://instagram.fsyd7-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQMXQUZi1urFmkIG0SIBFpXzy4YNEP0s4A5Kjw3oVMQh4gMOA51TQc1t4cvLj4covWe9LcXAGmRtve1m58CxpwA8XCrhvCh3Tp-cLRA.mp4?_nc_cat=100&_nc_oc=Ado33IM4q0XFbnlFSrHR4Q0yRTbNY0445Xdk-EWNyFMbEgcNPYFmUJuLzRx4qoTLsSk&_nc_sid=9ca052&_nc_ht=instagram.fsyd7-1.fna.fbcdn.net&_nc_ohc=h3H5-zS0wiUQ7kNvwFOXrqm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmlnd3d3LUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTA5NjM1OTExNzgzNTA2LCJhc3NldF9hZ2VfZGF5cyI6OCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjU4LCJiaXRyYXRlIjoxNTA1Nzk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SF5dN33nbqXrqCC9mGBKuA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQL6ihsIrYtVPycAL5TzI5lTvLSzyVNseaxO-VPXuAz3g&oe=6B0684C1"
-        },
-        {
-          "id": "4033254004452199468",
-          "url": "https://www.instagram.com/p/Df4_yXgS4ws/",
-          "type": "Video",
-          "caption": "I’m requesting $10,000 of the Anthropic IPO.\n\nFunds have been dumping AI stocks for weeks and are sitting on cash. Anthropic is the only pur",
-          "timestamp": "2026-11-18T17:03:18.000Z",
-          "likes": 1103,
-          "comments": 384,
-          "views": 115661,
-          "score": 115661,
-          "owner": "charan.invests",
-          "videoUrl": "https://scontent-mxp1-1.cdninstagram.com/o1/v/t16/f2/m84/AQOtJnjsFg5r5Evlgxv_kIMYc78KtR88k3WRKOyQXLmphEBZN4_OQNArsFSpsh44q1Ej-SZtHW-EBlfoYNRIqJlvy6giFO8IzT6pC08.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_ohc=4YY7IHV8uF4Q7kNvwHXPV1E&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE3ODM2MTk4MTc5ODk2OCwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fed8424033d0a6bf&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yQTgxRDg1MkFERDM0NjE5QTg2QTg5MDM0RTM3OTlEMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY4QzNBMzc5ODEwMDRGNTE5MzkxQTFFMzk5NTc1OEIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbwqLz12O2XBBUCKAJDMywXQEymZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=gvnpvjpUZ_gg5kf6C6Gnrg&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQdAziAFanx0sAJqf25_b0HvrK9VF1Dl6V8HwqueH0Hag&oe=6B028719"
+          "videoUrl": "https://scontent-mxp2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMXQUZi1urFmkIG0SIBFpXzy4YNEP0s4A5Kjw3oVMQh4gMOA51TQc1t4cvLj4covWe9LcXAGmRtve1m58CxpwA8XCrhvCh3Tp-cLRA.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_ohc=h3H5-zS0wiUQ7kNvwFo9l-c&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmlnd3d3LUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTA5NjM1OTExNzgzNTA2LCJhc3NldF9hZ2VfZGF5cyI6OSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjU4LCJiaXRyYXRlIjoxNTA1Nzk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=3mJjntRLhP6EMdW1HSee_Q&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS3jUxJwSXOoOv1GzwkXB7soFT8Yv2BtR4ZSu4hSN7iVg&oe=6B07D641"
         },
         {
           "id": "4026986397363867751",
@@ -554,12 +554,12 @@ window.DATA = {
           "type": "Video",
           "caption": "I’m down $30K this month, but that doesn’t mean I’m going to blindly buy every stock that’s crashing.\n\nI’m starting with $QQQ, slowly adding",
           "timestamp": "2026-11-10T01:31:43.000Z",
-          "likes": 1094,
-          "comments": 484,
-          "views": 106830,
-          "score": 106830,
+          "likes": 1150,
+          "comments": 496,
+          "views": 110310,
+          "score": 110310,
           "owner": "charan.invests",
-          "videoUrl": "https://instagram.fgrq1-1.fna.fbcdn.net/o1/v/t16/f2/m84/AQObUyXGf98Ug16rHePnmJHDK6qb4ahVV7GU1sxbPSF2-OvKFEw1LQL_gO5_uT7yfUFuvDq-Gxpt80hnnETg7xK7U0tWus-guhzXIxM.mp4?_nc_cat=103&_nc_oc=AdrESLszCq00074mlBqAlVY9bhqfixYbS4EUrttUqg_ipuXaal6Z_1JhxIHVCjYVHaU&_nc_sid=5e9851&_nc_ht=instagram.fgrq1-1.fna.fbcdn.net&_nc_ohc=w_OsYbdw3ygQ7kNvwFcY6TG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjYzMDE0MTg3NDA5MjMzNCwiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6ODgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e98e7fcc73b25c31&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC84MjgyMkY0NTJGMjg0MEFGODcwRDgxQTVGMjk1REIwNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0NCODkyQTRCRDhGRjQ2REM5N0I3NjI2MTM5OEI5RUREX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbc5OmBtIasCRUCKAJDMywXQFYiHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=VFyyrm4ROT-D7gnoDqRyIA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UnkmU9uMakSSRcAF1rz9WpBpTlFpOjIY_JNOczMJfBuwrOqFPYJaNSrDs1hKL_4y9hyOdbgYQDxIWXGi5qiSXHOxWlElosq0lUUOZEUAFWe56s5lG2Td3K0Zi_U&oh=00_AQSFH4_M1XCSTI9F8WrYyzPIvZwpcNvYIBQV6xLYqQQW6A&oe=6B0283D5"
+          "videoUrl": "https://scontent-det1-1.cdninstagram.com/o1/v/t16/f2/m84/AQObUyXGf98Ug16rHePnmJHDK6qb4ahVV7GU1sxbPSF2-OvKFEw1LQL_gO5_uT7yfUFuvDq-Gxpt80hnnETg7xK7U0tWus-guhzXIxM.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_ohc=z5COdEhFOVUQ7kNvwHBF3wU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjYzMDE0MTg3NDA5MjMzNCwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6ODgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e98e7fcc73b25c31&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC84MjgyMkY0NTJGMjg0MEFGODcwRDgxQTVGMjk1REIwNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0NCODkyQTRCRDhGRjQ2REM5N0I3NjI2MTM5OEI5RUREX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbc5OmBtIasCRUCKAJDMywXQFYiHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=vWt_Budg_2l71ZULKKc-Qw&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UhATUUP7ej2aoLEyiR74Vgb_lfSAf-Dof8a7ozFHGCJZ-s1rlhAnErzix0uuPo1KSnY9EODPi6Hd22qlVEaNHpaVgI8OUJlVDDrK6ZB-clEtgv1Sp8z11rZ_Exo&oh=00_AQTkFW48IQBIKiNuh3wl2XGOTEKPOtBxSYv6n2cnp6pUqA&oe=6B03D555"
         },
         {
           "id": "4026850958574818110",
@@ -567,12 +567,12 @@ window.DATA = {
           "type": "Video",
           "caption": "AI stocks have been getting crushed, but I think the market is overlooking something.\n\nIf new data centers become harder to build, existing ",
           "timestamp": "2026-11-09T21:04:02.000Z",
-          "likes": 1187,
-          "comments": 393,
-          "views": 102188,
-          "score": 102188,
+          "likes": 1252,
+          "comments": 416,
+          "views": 106514,
+          "score": 106514,
           "owner": "charan.invests",
-          "videoUrl": "https://instagram.fein1-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQNfVw2hGTunY0MsOlne299tyTExIcJIX47DKAZqR44a3oLHD0jvcLea9yG07aK0w8H5rhoRtnX7cc2tOvU4LvcZRZzKoInQnJyxEYA.mp4?_nc_cat=100&_nc_oc=AdpSzjiUmv0MXTj6lxbw3-a0zEUY2SZ2ZMNdsYp42aBXWCf_mU2Idr7xQVE3n3BFeZY&_nc_sid=5e9851&_nc_ht=instagram.fein1-2.fna.fbcdn.net&_nc_ohc=OQRYexdMPT4Q7kNvwFLJGRg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjE2Mjc0MzQxNDMzODg4NywiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6ODAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3495ae15d0b8de18&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9GODBEQ0MxNjgxOTQ0M0NDOEQwOTA2QkI0NTM4Qjk5Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzMxOTE3NjZGMjJFMzQwNTBCMTgyOUJDQTE2MDMxRkY0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaO1Z2PnsDXBxUCKAJDMywXQFQmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=piI6RvZcZPrT8hfa8_28SQ&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRCEHqz4ljDxzhQCLiYSIJpLBLPHYrm-XJX620BDKcTzg&oe=6B02AD7C"
+          "videoUrl": "https://scontent-itm1-1.cdninstagram.com/o1/v/t16/f2/m84/AQNfVw2hGTunY0MsOlne299tyTExIcJIX47DKAZqR44a3oLHD0jvcLea9yG07aK0w8H5rhoRtnX7cc2tOvU4LvcZRZzKoInQnJyxEYA.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_ohc=OQRYexdMPT4Q7kNvwHeVuIr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjE2Mjc0MzQxNDMzODg4NywiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6ODAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3495ae15d0b8de18&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9GODBEQ0MxNjgxOTQ0M0NDOEQwOTA2QkI0NTM4Qjk5Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzMxOTE3NjZGMjJFMzQwNTBCMTgyOUJDQTE2MDMxRkY0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaO1Z2PnsDXBxUCKAJDMywXQFQmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=klZoo7P--rdwOvw53m9Fyg&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTtocWzFOmUOqIvHhwDBqQQ6EykzqnDj6NgLQRYeCI7ow&oe=6B03C6BC"
         },
         {
           "id": "4031205914157248628",
@@ -580,12 +580,12 @@ window.DATA = {
           "type": "Video",
           "caption": "a lot happening at once… curious to see how markets react monday 👀 watching cybersecurity stocks but not chasing anything yet\n\n#stocks #sto",
           "timestamp": "2026-11-15T21:20:56.000Z",
-          "likes": 922,
+          "likes": 929,
           "comments": 33,
-          "views": 96090,
-          "score": 96090,
+          "views": 96958,
+          "score": 96958,
           "owner": "charan.invests",
-          "videoUrl": "https://scontent-ssn1-1.cdninstagram.com/o1/v/t16/f2/m84/AQNXDTuPmtmxNQiOZeVkKnFljMuNfvLNheAv94WDxGGrFhHOnPvDH9AG8XdybCqZumIHDx3E2XJxZDwYAJAojiSGa84HhPI7apI9zfo.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=ibnQTMbtJtMQ7kNvwF1hSGD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ1ODgyNTAxOTc2NTQ4MywiYXNzZXRfYWdlX2RheXMiOjUsInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjo1MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=83b38106f3a84612&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC85QTJCQTA2N0Q3RjM0NDA5QUIzNjFCRTI2MTA2NUI2RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBGMDY4QkZGNkEwQTQ0MDlCMDYwN0E5M0I1NThGNTQ1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbWy72x5bKXBRUCKAJDMywXQEpd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=z9QsYR14nUyyCJXzV7NoZA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR05T1Sa3k3dRrjBCR9naaVts_OYbxHAj-vvEZWBh7-sQ&oe=6B02918B"
+          "videoUrl": "https://scontent-ams4-1.cdninstagram.com/o1/v/t16/f2/m84/AQNXDTuPmtmxNQiOZeVkKnFljMuNfvLNheAv94WDxGGrFhHOnPvDH9AG8XdybCqZumIHDx3E2XJxZDwYAJAojiSGa84HhPI7apI9zfo.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=0CVHYcXWjZ8Q7kNvwFr-b8d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ1ODgyNTAxOTc2NTQ4MywiYXNzZXRfYWdlX2RheXMiOjUsInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjo1MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=83b38106f3a84612&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC85QTJCQTA2N0Q3RjM0NDA5QUIzNjFCRTI2MTA2NUI2RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBGMDY4QkZGNkEwQTQ0MDlCMDYwN0E5M0I1NThGNTQ1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbWy72x5bKXBRUCKAJDMywXQEpd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=ZgVYr5JutBAy0XwMY0RCPw&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT7KSTmdj5orCa5HI9ffAKCeuJxpkgypnmgVBkkGPt27Q&oe=6B03E30B"
         },
         {
           "id": "4033228337417271495",
@@ -593,12 +593,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Did Colette Kress just save the neoclouds? 👀\n\nAfter Jensen stepped down, a lot of people expected Nvidia’s interim CEO to pull back from Co",
           "timestamp": "2026-11-18T16:12:46.000Z",
-          "likes": 495,
+          "likes": 515,
           "comments": 20,
-          "views": 54927,
-          "score": 54927,
+          "views": 58405,
+          "score": 58405,
           "owner": "charan.invests",
-          "videoUrl": "https://scontent-nrt6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNK1kcc6RntaMHFspNYacvZK6d9jfFUolITknmao2qikG_UrShQ87if9-8CA4qyRTkS94U6_4Jj2PsXSmQGQgwzjZEBiGuIWxfleqk.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_ohc=Lp92wuWo4B0Q7kNvwEbcXdg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc4ODgyODAwMjQxMjU1MSwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=94a51cef8df94b77&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMjU4RjE1NDRBMUI0RUE4OUI1NzlCODU2NTYwRTQ2MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzA4ODNGQzZCNTg4NDQ3NDBBOUU2RTkzNDQwRjBGMTczX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaOoK-av7utBhUCKAJDMywXQEzqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Nt0ENo9RUg8UoPJ34I02jw&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTrm2446NMDwreTbQN4SXS_hsuNqZoTnoDJMFi0Zemv8Q&oe=6B028A7B"
+          "videoUrl": "https://instagram.fcia6-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNK1kcc6RntaMHFspNYacvZK6d9jfFUolITknmao2qikG_UrShQ87if9-8CA4qyRTkS94U6_4Jj2PsXSmQGQgwzjZEBiGuIWxfleqk.mp4?_nc_cat=110&_nc_oc=AdosXhhCRBuQxxmh3hPts_JDqbteflHDxkf-vKWdYe7-IZQedEJXcWOFI2rLWuNZKic&_nc_sid=5e9851&_nc_ht=instagram.fcia6-1.fna.fbcdn.net&_nc_ohc=Lp92wuWo4B0Q7kNvwH7xjVj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc4ODgyODAwMjQxMjU1MSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=94a51cef8df94b77&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMjU4RjE1NDRBMUI0RUE4OUI1NzlCODU2NTYwRTQ2MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzA4ODNGQzZCNTg4NDQ3NDBBOUU2RTkzNDQwRjBGMTczX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaOoK-av7utBhUCKAJDMywXQEzqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=JX-PspvrldiH56vdX5B_PA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSe6GuSpDieM7U9r3o7Wc409RGjxgdgj42SaX4abNyCyQ&oe=6B03DBFB"
         },
         {
           "id": "4021807067815375767",
@@ -608,16 +608,16 @@ window.DATA = {
           "timestamp": "2026-11-02T22:01:20.000Z",
           "likes": 485,
           "comments": 9,
-          "views": 53117,
-          "score": 53117,
+          "views": 53147,
+          "score": 53147,
           "owner": "charan.invests",
-          "videoUrl": "https://scontent-gru1-1.cdninstagram.com/o1/v/t16/f2/m84/AQMEq-OKkqxrZ1zTqbpMJP7ueF-ALZjmr43h_u-rceLSh29wFRLN7Uggv_hifMnWpqlFLETFN7mQYLZqOt7xJacEUiRlmrqKgoF6SYo.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_ohc=jqwReQpBcCUQ7kNvwH7jPf3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjU4MTQ3MjE3ODk0NTIyNSwiYXNzZXRfYWdlX2RheXMiOjE3LCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f7cd74f6654b73ef&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82QjUwRjU0ODgyODk0MTRDODE0MjVFQUU0QkNDRTBFMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzAyRTM0MzQ0OEQ1QzQ1RkNCMjZBOERCRkEwNzRBMTE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaS88nDuvWVCRUCKAJDMywXQFCTMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=7rahCO1UlsR1AUbzeowYdg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQZUXp6f9vG6SGEeFbyeKtceLL7URo43XYp0VU1Q2aJqA&oe=6B02A78C"
+          "videoUrl": "https://instagram.fsyd7-1.fna.fbcdn.net/o1/v/t16/f2/m84/AQMEq-OKkqxrZ1zTqbpMJP7ueF-ALZjmr43h_u-rceLSh29wFRLN7Uggv_hifMnWpqlFLETFN7mQYLZqOt7xJacEUiRlmrqKgoF6SYo.mp4?_nc_cat=100&_nc_oc=AdrHk-HTvXnSxoV7rNJFu925ZF3J8rH828JvNr_i-WHjwekNvhD4bLjVQzS7HHu78avzgvLocSo4lXmHSc1av0Io&_nc_sid=5e9851&_nc_ht=instagram.fsyd7-1.fna.fbcdn.net&_nc_ohc=jqwReQpBcCUQ7kNvwGITcE8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjU4MTQ3MjE3ODk0NTIyNSwiYXNzZXRfYWdlX2RheXMiOjE4LCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f7cd74f6654b73ef&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82QjUwRjU0ODgyODk0MTRDODE0MjVFQUU0QkNDRTBFMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzAyRTM0MzQ0OEQ1QzQ1RkNCMjZBOERCRkEwNzRBMTE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaS88nDuvWVCRUCKAJDMywXQFCTMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=1ee5pahK7pQRXA6yVIZZyw&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQio8MZUxrOMZEkjkNaUDLsJV5ehd17Y_80ET-LYdHesw&oe=6B03C0CC"
         }
       ]
     },
     {
       "handle": "bdinvestingg",
-      "followers": 248113,
+      "followers": 248244,
       "posts": [
         {
           "id": "4034198513175717753",
@@ -625,12 +625,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Did Anthropic IPO just crash the markets ?? When will the market bottom?\n\nAnthropic was a liquidity vaccume , fund managers were selling Ai ",
           "timestamp": "2026-11-20T00:20:36.000Z",
-          "likes": 7909,
-          "comments": 109,
-          "views": 341796,
-          "score": 341796,
+          "likes": 8864,
+          "comments": 119,
+          "views": 372727,
+          "score": 372727,
           "owner": "bdinvestingg",
-          "videoUrl": "https://scontent-ssn1-1.cdninstagram.com/o1/v/t2/f2/m86/AQML2tBjAdvBsgmFWXNoB0S9QyzrCcopB0yc18S7hliGC6H8Uxz5AryVnTvSJPmHuquzK35u9XYEGq14Xwj3AY949DpuQtIN2Cm9268.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=Hp1Sk7juv4MQ7kNvwFneEZC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQxOTgxMTUwOTkwNjgxNywiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=832af66c6ebdc0c5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FNzJCQTU3NUQxOUY0NUEwQTI1QUYzMDk2MzRBNDdFNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhFMDZENUM1RDlCMjQzRDdBNDUwRDE1QkE2RjEzMUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaCtpGL9NOFBRUCKAJDMywXQF31T987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=rNucXVX9cLDrs9hRiSvZmw&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTSAg92CfBgeCjCbmjWsGjrSqBqk8fh4gzZtNwHS9l-Uw&oe=6B02940A"
+          "videoUrl": "https://instagram.fein1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQML2tBjAdvBsgmFWXNoB0S9QyzrCcopB0yc18S7hliGC6H8Uxz5AryVnTvSJPmHuquzK35u9XYEGq14Xwj3AY949DpuQtIN2Cm9268.mp4?_nc_cat=105&_nc_oc=AdqnhbJfNID9oFJv2EWNvhAFdThgVifbicTpJiTMNV3JYKHTmiweQ9Ob1K_335u9e0M&_nc_sid=5e9851&_nc_ht=instagram.fein1-1.fna.fbcdn.net&_nc_ohc=Hp1Sk7juv4MQ7kNvwFkt0oO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQxOTgxMTUwOTkwNjgxNywiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=832af66c6ebdc0c5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FNzJCQTU3NUQxOUY0NUEwQTI1QUYzMDk2MzRBNDdFNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhFMDZENUM1RDlCMjQzRDdBNDUwRDE1QkE2RjEzMUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaCtpGL9NOFBRUCKAJDMywXQF31T987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xJHx8ThksfqFWu-5jaUllA&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTfhKI3j_AhjYMSk8ot6GSk9r4hFA0ZPtMBU8VOwQgMPQ&oe=6B03E58A"
         },
         {
           "id": "4029526453145313010",
@@ -638,25 +638,25 @@ window.DATA = {
           "type": "Video",
           "caption": "Damn these politicians are great day traders , wish they could teach us how they do it 🤔",
           "timestamp": "2026-11-13T13:37:47.000Z",
-          "likes": 2552,
+          "likes": 2591,
           "comments": 42,
-          "views": 200393,
-          "score": 200393,
+          "views": 202516,
+          "score": 202516,
           "owner": "bdinvestingg",
-          "videoUrl": "https://scontent-waw2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOrhlAM3JMebup6XCW0GhiZixNeq9rxLoCAZhSG7prvk0FMj9o2GCRdzdXA2lgXVIiCQEryGKGnlTsDfsuL5z4y9NrsrsmGNzZd1lA.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_ohc=NrBe1QGKdRsQ7kNvwFxIlal&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTkzMjEyMjk1NDQ0MjgxOSwiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=628eecbac8be70f9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMjhDQUM0MTc0OUM0QzdBQkQ1Qjg0NDVEMTg2QzEwOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VFNUREMTVFNzU2NDQ3Nzg5QzFCQjlCOUY0NzkwRDc0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaGoeXlrdDuBhUCKAJDMywXQCEQ5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=AJJJi6QJoThi_SK2typZaw&_nc_ss=7ca02&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRLosp9aHESNYQjH0mXupubvzN6aUE3J0laJJINX3NbGg&oe=6B0287DD"
+          "videoUrl": "https://scontent-mxp1-1.cdninstagram.com/o1/v/t2/f2/m86/AQOrhlAM3JMebup6XCW0GhiZixNeq9rxLoCAZhSG7prvk0FMj9o2GCRdzdXA2lgXVIiCQEryGKGnlTsDfsuL5z4y9NrsrsmGNzZd1lA.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_ohc=NrBe1QGKdRsQ7kNvwH48U0u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTkzMjEyMjk1NDQ0MjgxOSwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=628eecbac8be70f9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMjhDQUM0MTc0OUM0QzdBQkQ1Qjg0NDVEMTg2QzEwOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VFNUREMTVFNzU2NDQ3Nzg5QzFCQjlCOUY0NzkwRDc0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaGoeXlrdDuBhUCKAJDMywXQCEQ5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=RDV820oi7kyBS-U8LU_tWA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSbfyWW056ZIOwmqZcBsoURJvI3rm3RDieG5p0ucxuFLA&oe=6B03D95D"
         },
         {
-          "id": "4028228488676230847",
-          "url": "https://www.instagram.com/p/DfnJHfNp8a_/",
+          "id": "4034850307614652931",
+          "url": "https://www.instagram.com/p/Df-qvorPzoD/",
           "type": "Video",
-          "caption": "Generational buying opportunity in AI stocks for the long term",
-          "timestamp": "2026-11-11T18:40:28.000Z",
-          "likes": 1751,
-          "comments": 33,
-          "views": 132998,
-          "score": 132998,
+          "caption": "Full blown market crash today. I pinched my nose and bought the dip. My focus was on large cap stocks & index funds. Markets don’t bottom on",
+          "timestamp": "2026-11-20T21:56:13.000Z",
+          "likes": 2088,
+          "comments": 74,
+          "views": 158607,
+          "score": 158607,
           "owner": "bdinvestingg",
-          "videoUrl": "https://instagram.fnat16-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPezRXEuFqdD7EVJ9twUDOBQvsDjK-XoTTeAsNKGCe4UUlot4WJhZhygzH112aDOG1si9cCQ2j5S4GCMrIpIj2pcie5ZJCqeCpbkeQ.mp4?_nc_cat=109&_nc_oc=Adrz4ipuLnVW3K1OhZAGp2U4jM0zv3Duo7Q434HR4ROTOAILpUDh6WBXHaXfkF805ng&_nc_sid=5e9851&_nc_ht=instagram.fnat16-1.fna.fbcdn.net&_nc_ohc=Hnwqq6xt_zsQ7kNvwF2Ebc-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NDYyMzg4NTQ1NDU1NTcwOCwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=baefc523573958ea&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GOTI1RUQzQzI0REE0QzU1QjMxM0I1MDkyMTA0MTdDQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzRDOTAyQUZCQUMzMzQ5RjdCOEYxMjM0MUM0NjI2MUY3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb46IGgx9m2EBUCKAJDMywXQFyqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=oupY4XvdDDDY5mMC_ka8IA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQu-JG9Wx9dj3McvW7xCcq_797b69BE-EkjEcZRpZrhVw&oe=6B028C0E"
+          "videoUrl": "https://instagram.fmad8-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQM3R95bpz3dsCstqiBbrg-2DJChRBYK6OOwAtmHyU6siaVzJCMGlQQbRXsdsD6BdHBd8T1MjTWw0IjjdhXdeiEUC299NoZ_aouiNs4.mp4?_nc_cat=107&_nc_oc=AdqGmMiUo0niqzIXeZWf_Q7koqUMAeBsAExcyk2_4zxi1rk85JFqy0OiJ-QYhH5BtvE&_nc_sid=9ca052&_nc_ht=instagram.fmad8-1.fna.fbcdn.net&_nc_ohc=485SBwTzL5AQ7kNvwGnocRV&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmlnd3d3LUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0NTU0MTY3NjA4MjA0Njk4LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjk5LCJiaXRyYXRlIjo5NzM5MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=6k2I6yqpffdVfs1kYJ4Skg&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQzanvdjdmv-eeVyIEw2yvXHU3sVEKMj7PpXMh9AB1voA&oe=6B07C920"
         },
         {
           "id": "4029698078165892351",
@@ -664,12 +664,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Nvidia employees petition to want Jensen Huang back. 88% of employees voted to keep Jensen as CEO. Hit the follow button to keep up with Nvi",
           "timestamp": "2026-11-13T19:19:31.000Z",
-          "likes": 3400,
+          "likes": 3401,
           "comments": 93,
-          "views": 117373,
-          "score": 117373,
+          "views": 117549,
+          "score": 117549,
           "owner": "bdinvestingg",
-          "videoUrl": "https://scontent-lhr11-1.cdninstagram.com/o1/v/t2/f2/m86/AQOSp05oJPtm0hPNjuKSd3jN4RitEVyp2V_1lEPFRjYTi59G00h41tDpbw0Etwytnl4JxDSC5DPCOTmIM9VrDvIhsNrSRcIZ2dO-cWE.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_ohc=0ODwGaXV-tcQ7kNvwHymScK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTcwMTAyNjM1ODMxMjk5NiwiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b4306c1129f69323&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQUJCM0VGREZEMDA0RDc2OTYzMUEyRDk4NjU3RkIyMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0UzREJFRkRDQzZCMjQyRTFCNEZCMjhGNEQxMDQ0Q0EzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbIgLr94cSFBhUCKAJDMywXQFD90vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=V9bx5lsm0QbJCVCmZbqCeQ&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Ut_dpjOb3HF2FKDDjFxn-6UEdcF8uahE0d90iPeuFIOy1r1ZA1ogvre9VnPLf07lu97rNexk-e_oFfHthzoOqDBKJVivOCCNaVd8e2BWN_m4lnmf0V59FimGnZQ&oh=00_AQRbp3F7uLp7HaSsxw-idDPVeTW9ukvKLrFB4g3ZMz99wA&oe=6B02A8E2"
+          "videoUrl": "https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOSp05oJPtm0hPNjuKSd3jN4RitEVyp2V_1lEPFRjYTi59G00h41tDpbw0Etwytnl4JxDSC5DPCOTmIM9VrDvIhsNrSRcIZ2dO-cWE.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=o91bDhMb2RAQ7kNvwGVSF5N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTcwMTAyNjM1ODMxMjk5NiwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b4306c1129f69323&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQUJCM0VGREZEMDA0RDc2OTYzMUEyRDk4NjU3RkIyMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0UzREJFRkRDQzZCMjQyRTFCNEZCMjhGNEQxMDQ0Q0EzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbIgLr94cSFBhUCKAJDMywXQFD90vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=zUqLGuoF9wZKSB4UDr2Drg&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UgEGHf14zksuo0uqbACczkjEXxb_VZaeC6MDi3tdqZKv8SuU7p_CvcLQwkY4eSJ93m8OMEhwz1HKcxShQ9K0BbgxHhg_y_Ix3nx9ovp97QbkOP1qObWyQvv-jFM&oh=00_AQRAXkdF1fUIUUiCuv8AXda6xxIDCrphvfFeDFrVDY4fTQ&oe=6B03C222"
         },
         {
           "id": "4028356111890758539",
@@ -679,10 +679,10 @@ window.DATA = {
           "timestamp": "2026-11-11T22:52:31.000Z",
           "likes": 1195,
           "comments": 89,
-          "views": 98348,
-          "score": 98348,
+          "views": 98507,
+          "score": 98507,
           "owner": "bdinvestingg",
-          "videoUrl": "https://instagram.flas1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQO24SABwS_DgIHgZHOEZKtUJunyMkhZu3FcyK847aFpcbmd7DHznlf1Z3E6dM3panuqEWudoax7z8DLQmc12wA0ybquYKSRvhj09qY.mp4?_nc_cat=107&_nc_oc=AdoVpKPKypL0mihUa3yUthFFULiDdL8_WgB9WA6RXKpWaZUcUREC9XhIeCigtJOj_6c&_nc_sid=5e9851&_nc_ht=instagram.flas1-1.fna.fbcdn.net&_nc_ohc=NPlA14-OihsQ7kNvwGe63y4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg2ODQ1MjkzMTI2NTgyNywiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6878bf40d9795b3d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQUNGMUUyNDMxMDQ0RjQ2QUY1QjM1QjdGQjEzMDU3NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzc5MjgwN0M3NDBDOTQzQ0E5NTIxNUJDRDUzODkzQUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbGlPuTo9bRBhUCKAJDMywXQEeRBiTdLxsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_9LIq3FJ4QZvGhGLa2Ntgw&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRLHYOauExcOeYja71BRTX1P2vD978kPEniTe-xptfdbg&oe=6B0297E8"
+          "videoUrl": "https://scontent-mxp1-1.cdninstagram.com/o1/v/t2/f2/m86/AQO24SABwS_DgIHgZHOEZKtUJunyMkhZu3FcyK847aFpcbmd7DHznlf1Z3E6dM3panuqEWudoax7z8DLQmc12wA0ybquYKSRvhj09qY.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_ohc=NPlA14-OihsQ7kNvwGmDmVB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg2ODQ1MjkzMTI2NTgyNywiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6878bf40d9795b3d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQUNGMUUyNDMxMDQ0RjQ2QUY1QjM1QjdGQjEzMDU3NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzc5MjgwN0M3NDBDOTQzQ0E5NTIxNUJDRDUzODkzQUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbGlPuTo9bRBhUCKAJDMywXQEeRBiTdLxsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_qHtlWPcqDP1q-LBCoyaYQ&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRadwkCHxPwC7dqVqpB81OsuSSnK9pr0pvvcH3fNc7zlQ&oe=6B03E968"
         },
         {
           "id": "4031011644489628306",
@@ -690,12 +690,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Really makes you question who runs the media 🤔",
           "timestamp": "2026-11-15T14:50:46.000Z",
-          "likes": 2225,
+          "likes": 2236,
           "comments": 83,
-          "views": 92750,
-          "score": 92750,
+          "views": 93439,
+          "score": 93439,
           "owner": "bdinvestingg",
-          "videoUrl": "https://instagram.fcpq2-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPtD03u2rWisCDOwIsC3y8ouGWwhh69EJU3ygpcpWHidKVVj1mp655Gzq4rbyGJ7T5sl82Zb93jHfM-lY3FM1zuDOcBJTgvs8VmLFU.mp4?_nc_cat=103&_nc_oc=Adp8PRhJL5-1yBdTNKX2UhPMKNqUyvx9Ni1J_rRf90nZX-odBUW2gAUolMzZIwkrPLQJu8rjhJ_tiUTxDNYwrLQu&_nc_sid=5e9851&_nc_ht=instagram.fcpq2-1.fna.fbcdn.net&_nc_ohc=Od_-0XWdK50Q7kNvwF11mle&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjMyMTEzMzU4NTEzMTY2NywiYXNzZXRfYWdlX2RheXMiOjUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7aa1fa4663d1360&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xOENBNDk1MkNCRkE0OEU1QTBFMDFFMEEyNUZENjI2Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZBM0FBMjFFREEyMzRCMjdCQkREQkFDMTYyQ0ZBM0VEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACamoovt4MOfCBUCKAJDMywXQCEQ5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=FyvnHhrtqshaYGqwrC3ZgQ&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQE441K-wyrpxq_XBanf89Xg6q4g7Vgpu8WhhlYo-EpIw&oe=6B02B05C"
+          "videoUrl": "https://scontent-nrt1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPtD03u2rWisCDOwIsC3y8ouGWwhh69EJU3ygpcpWHidKVVj1mp655Gzq4rbyGJ7T5sl82Zb93jHfM-lY3FM1zuDOcBJTgvs8VmLFU.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=4WGXCyhlYsUQ7kNvwFjhMBH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjMyMTEzMzU4NTEzMTY2NywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7aa1fa4663d1360&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xOENBNDk1MkNCRkE0OEU1QTBFMDFFMEEyNUZENjI2Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZBM0FBMjFFREEyMzRCMjdCQkREQkFDMTYyQ0ZBM0VEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACamoovt4MOfCBUCKAJDMywXQCEQ5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=DOZfHHpjRjiKth2f6WEM8A&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR0O8VWRcSqPU12XF35nxqMjkkwFhVH9HDbKEEPk0qiig&oe=6B03C99C"
         },
         {
           "id": "4031165648317849873",
@@ -703,12 +703,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Jensen Huang discusses potential comeback as Nvidia CEO - Financial Times",
           "timestamp": "2026-11-15T20:00:42.000Z",
-          "likes": 1602,
+          "likes": 1605,
           "comments": 74,
-          "views": 86812,
-          "score": 86812,
+          "views": 87238,
+          "score": 87238,
           "owner": "bdinvestingg",
-          "videoUrl": "https://instagram.fmad19-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQOvNVHUC27ZfPnQDe7i81B2jxtriNDYGU_OR2mVYIKl-E_Wj2qxK0i7Ncq15fFeybtHHTXvfPnWPiYkHHeSxXvmZg2DA431sJcXYqE.mp4?_nc_cat=101&_nc_oc=AdoOX0Kb1iHMd1I_qRwI5Xz1E_EofpVz8wkLsPmEe0Bo9141SyrrZTqYiCMXHsWmVMo&_nc_sid=5e9851&_nc_ht=instagram.fmad19-1.fna.fbcdn.net&_nc_ohc=2EaT3qGjUBcQ7kNvwFb0AZz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ3NzY3NDA5NDQzMzY3NiwiYXNzZXRfYWdlX2RheXMiOjUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fc7fe6c56e33a632&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81OUZDQzhEQTlGOUU0NkZGQTFDODJFMENEMTE5NTBCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VGQjNEMDAxNEMwNTRFODE4OTRGN0M5Qjg3RTNERDQxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaY1vD3-fufBRUCKAJDMywXQEa3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=H7hbP8J2-ZLR0c1SvFxw8w&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTiq751K3efWNQoo0mc7Y7_7yKCUbWY34LiikXPVn62IQ&oe=6B029B86"
+          "videoUrl": "https://instagram.fmad20-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQOvNVHUC27ZfPnQDe7i81B2jxtriNDYGU_OR2mVYIKl-E_Wj2qxK0i7Ncq15fFeybtHHTXvfPnWPiYkHHeSxXvmZg2DA431sJcXYqE.mp4?_nc_cat=101&_nc_oc=AdpqgwnZOv5XBUVA6Nn4TAkE3TAuuZxeo2NyGyrXyq09AczQWG3cgGjo2a2aEY41Hes&_nc_sid=5e9851&_nc_ht=instagram.fmad20-1.fna.fbcdn.net&_nc_ohc=2EaT3qGjUBcQ7kNvwEQhbyp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ3NzY3NDA5NDQzMzY3NiwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fc7fe6c56e33a632&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81OUZDQzhEQTlGOUU0NkZGQTFDODJFMENEMTE5NTBCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VGQjNEMDAxNEMwNTRFODE4OTRGN0M5Qjg3RTNERDQxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaY1vD3-fufBRUCKAJDMywXQEa3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=NO6pB6jTry40adZxqka72g&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ5uZCPEu8sfiGOKm27DOcej8g7fJsA6g2QbqYy0YuWXA&oe=6B03ED06"
         },
         {
           "id": "4033532493125976415",
@@ -716,18 +716,31 @@ window.DATA = {
           "type": "Video",
           "caption": "DON’T BUY THE NVIDIA DIP JUST YET. 🚨\n\nWhile $NVDA figures out its next CEO, I’m watching 3 stocks that could benefit from the uncertainty.\n",
           "timestamp": "2026-11-19T02:17:15.000Z",
-          "likes": 433,
-          "comments": 13,
-          "views": 50572,
-          "score": 50572,
+          "likes": 450,
+          "comments": 14,
+          "views": 52518,
+          "score": 52518,
           "owner": "bdinvestingg",
-          "videoUrl": "https://scontent-lga3-1.cdninstagram.com/o1/v/t2/f2/m86/AQME1MUVAfeEal3wT4xiXVgjIBr3may1o9Ad-eIWnWqZ6T3CdA1YDdHjis2ciht9fm87a1SxAL4zYt0BrvxLnwqULCtlIes_EUeWzCQ.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=r6WIj2meLoYQ7kNvwH7y5qV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ0MjQzMjI5NDcyMzYyMywiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=63dd9b030ee0d69d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80MjU5MTI5OEYzNkY0Q0JGQjE0MkMzOUE1MTcxNzMyNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhEQUMwNUVDOTYwQzRBNzA5MjQyNDI3RjcwRDc3RTEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbOgNGIzviPBRUCKAJDMywXQFTTMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=-i6ZfjgcQ6ISsHmZoF-f_A&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQQfm8myI1n42-7XjhL0SP997shoX-TXuNm3-3Jihj8_w&oe=6B02A172"
+          "videoUrl": "https://scontent-dus1-1.cdninstagram.com/o1/v/t2/f2/m86/AQME1MUVAfeEal3wT4xiXVgjIBr3may1o9Ad-eIWnWqZ6T3CdA1YDdHjis2ciht9fm87a1SxAL4zYt0BrvxLnwqULCtlIes_EUeWzCQ.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_ohc=r6WIj2meLoYQ7kNvwEcE-Cq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ0MjQzMjI5NDcyMzYyMywiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=63dd9b030ee0d69d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80MjU5MTI5OEYzNkY0Q0JGQjE0MkMzOUE1MTcxNzMyNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhEQUMwNUVDOTYwQzRBNzA5MjQyNDI3RjcwRDc3RTEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbOgNGIzviPBRUCKAJDMywXQFTTMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=ZdcftpxgNF6wmUYNdYAJMQ&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQaSttXbQ5-h4fGDQl1y3VCoryIznhvmeYXmGTeu01Kjg&oe=6B03F2F2"
+        },
+        {
+          "id": "4035403471703531610",
+          "url": "https://www.instagram.com/p/DgAohO4RGBa/",
+          "type": "Video",
+          "caption": "2026 BLACKFRIDAY DEALS YOU CANT MISS… Aka the STOCKMARKET",
+          "timestamp": "2026-11-21T16:13:59.000Z",
+          "likes": 643,
+          "comments": 30,
+          "views": 42554,
+          "score": 42554,
+          "owner": "bdinvestingg",
+          "videoUrl": "https://scontent-icn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQM8xGZR8L3jGowN1gq6rcQCgJGZOtfV5pNeN13sBl-fRIxULcGJq6WSib6NU9r11WYfShpC_T1WHzp-3SCeocrpPGHJwxaPz5eM_l0.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ohc=TwExW5Z_yGcQ7kNvwFtQUR8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc1NzA0ODM2MjczNjgxMiwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b92e1ae1a6e64bf5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zOEIzOTQ3NkFGNDY0QTU4OEZBQjM3QTgxODA1QzcwQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZDOTY4MTFGQkY0RjQ0Q0Q4MDIxRTc4RTM1NkVFNTU0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbY8py41oGfBhUCKAJDMywXQCEU_fO2RaIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=15Edmbz993odN-XVwTYtvA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ1H-QXouaMlt7QpneA53g8lb-i29juBee8y754TCYCZA&oe=6B03F046"
         }
       ]
     },
     {
       "handle": "joe.investss",
-      "followers": 142366,
+      "followers": 142334,
       "posts": [
         {
           "id": "4023790502894795610",
@@ -735,12 +748,12 @@ window.DATA = {
           "type": "Video",
           "caption": "These are all great buying opportunities 📈 (in my humble opinion) some dropped even more after making the video.\n\nComment “stocks” or click",
           "timestamp": "2026-11-05T15:44:32.000Z",
-          "likes": 26598,
-          "comments": 3535,
-          "views": 1498576,
-          "score": 1498576,
+          "likes": 26649,
+          "comments": 3542,
+          "views": 1500980,
+          "score": 1500980,
           "owner": "joe.investss",
-          "videoUrl": "https://scontent-mrs2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOXEuqiSfnO4HQmn7m_DTPa0WuYupRbf45HuIutV5lbx2b-GsKXc4anPOSRtw9NMd44GB7Yed7U6JVj983x5gNdLCu_TtncB2G5TME.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-mrs2-1.cdninstagram.com&_nc_ohc=MjFUV2EbDWIQ7kNvwGGj9Zs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE2MzA1MzQ1NjI5MzY5NCwiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3d4c1fe169293c86&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNEY0NDM1MzA3REE0RTE0OTg2MzMzQzVCMzg3NEE0Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQxQjNDMTk2QTY4QTRBQjM5QzRERTUxN0RGMUMwOTQ3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb8_O_Bz_KQBBUCKAJDMywXQERmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=0ZUb8_Z3O0Oo8WNjiPGVOQ&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQeFPV8p-fkjpnPsCFPU6Nstkct2eO39o5xWEllCrhTOA&oe=6B02B091"
+          "videoUrl": "https://scontent-atl3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOXEuqiSfnO4HQmn7m_DTPa0WuYupRbf45HuIutV5lbx2b-GsKXc4anPOSRtw9NMd44GB7Yed7U6JVj983x5gNdLCu_TtncB2G5TME.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_ohc=BWObYZtMwo4Q7kNvwGTbxIh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE2MzA1MzQ1NjI5MzY5NCwiYXNzZXRfYWdlX2RheXMiOjE2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3d4c1fe169293c86&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNEY0NDM1MzA3REE0RTE0OTg2MzMzQzVCMzg3NEE0Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQxQjNDMTk2QTY4QTRBQjM5QzRERTUxN0RGMUMwOTQ3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb8_O_Bz_KQBBUCKAJDMywXQERmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=HjWTtBQYkkNKfMfdvahUeA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRg8ITDs2WGECOgzuk0loiLtsBDk-1nxv49e04FM2erAg&oe=6B03C9D1"
         },
         {
           "id": "4032019844254850824",
@@ -748,25 +761,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Good, Better, Best credit cards across major banks 🏦\n\nListed: \n@americanexpress \n@chase \n@citi \n@capitalone \n@bankofamerica \n@wellsfargo \n\n",
           "timestamp": "2026-11-17T00:14:11.000Z",
-          "likes": 659,
+          "likes": 668,
           "comments": 37,
-          "views": 61695,
-          "score": 61695,
+          "views": 62534,
+          "score": 62534,
           "owner": "joe.investss",
-          "videoUrl": "https://scontent-atl3-1.cdninstagram.com/o1/v/t2/f2/m86/AQOKnO_hxCKVCLOek8YmjY5ub6l3yOOZFTC_oJZtAHQFdm26q1KtD4C8xTiwRDRr3xDbTgXsVWBo3JofOGe5l_694JEcCF0y9ff5RnU.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=INNaCa8PMtQQ7kNvwFn5iDu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ0OTI2Nzg5NDA1MzI5OSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=964f6f0700d72c44&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83RDc1MUQyMzY3QUM0NTg4Qjc2NzI3QzhFRjhDNzA3OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U0MEY0ODAzRUM1QjQxQTY5QkM0Rjg2QzA2Q0UyRDkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbmppOgv4aTBRUCKAJDMywXQDAqfvnbItEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=MUBI_67gktJO8anlEoHFWg&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT5yKtiT0vvV88j7YmVg3HfP5f_e2DN2SJaVA6aJcGRGg&oe=6B02A722"
-        },
-        {
-          "id": "4023172452955045153",
-          "url": "https://www.instagram.com/p/DfVLgfAhb0h/",
-          "type": "Video",
-          "caption": "4 things I never do with my money ❌ Ep 1. of First Gen Rich \n\nComment “Paid” or click the link in my bio for the High Yield savings account ",
-          "timestamp": "2026-11-04T19:15:25.000Z",
-          "likes": 770,
-          "comments": 149,
-          "views": 36311,
-          "score": 36311,
-          "owner": "joe.investss",
-          "videoUrl": "https://scontent-ams4-1.cdninstagram.com/o1/v/t2/f2/m86/AQNiDHCsW-AySkyoeHSdQETkTxUce1tyNCLlz9jrtxTkHykzKdkVWpg4ng4zPzkvhFFr5epvJDpHd1JJOrSvX2lucfLivCJjQ4zGMtI.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=PVmVTF-32LAQ7kNvwEq7PPk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQyMzQyNjgxNjYxNjU2OCwiYXNzZXRfYWdlX2RheXMiOjE2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=76eb8bd939953006&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80OEM5OTU1NDJCQzI0MTMwODU1ODQyNDk5MDZENTU4M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzU3OTkyMjQxQ0NCQjQwMjJBNzY2NDdENEYzMEE4QjIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbwoaWcrKaHBRUCKAJDMywXQFBd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=KF_FwwnM1feobS0eLj5J_Q&_nc_ss=73a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSX4_hE3RYjjvW4JU7BDrQDCRqiacEwzOKBBcOEPl9bhA&oe=6B0287F7"
+          "videoUrl": "https://scontent-icn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOKnO_hxCKVCLOek8YmjY5ub6l3yOOZFTC_oJZtAHQFdm26q1KtD4C8xTiwRDRr3xDbTgXsVWBo3JofOGe5l_694JEcCF0y9ff5RnU.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ohc=INNaCa8PMtQQ7kNvwGQsb4J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ0OTI2Nzg5NDA1MzI5OSwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=964f6f0700d72c44&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83RDc1MUQyMzY3QUM0NTg4Qjc2NzI3QzhFRjhDNzA3OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U0MEY0ODAzRUM1QjQxQTY5QkM0Rjg2QzA2Q0UyRDkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbmppOgv4aTBRUCKAJDMywXQDAqfvnbItEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=acqPwU2O1GOAS-MwcGnEXw&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSXzMELW-lF_6R5LKcf5yrQPJycApQmTpXpYP-Y2cXdLA&oe=6B03C062"
         },
         {
           "id": "4028828365474636098",
@@ -774,12 +774,12 @@ window.DATA = {
           "type": "Video",
           "caption": "3 stocks i’m buying for the Post-Midterm Rally 📈\n\nComment “stocks” or click the link in my bio to see my entire portfolio for completely fr",
           "timestamp": "2026-11-12T14:31:37.000Z",
-          "likes": 573,
+          "likes": 577,
           "comments": 212,
-          "views": 36054,
-          "score": 36054,
+          "views": 36358,
+          "score": 36358,
           "owner": "joe.investss",
-          "videoUrl": "https://scontent-ams4-1.cdninstagram.com/o1/v/t2/f2/m86/AQNsjqCxVf1hwfqpZkNVRxfwSBbfJGb-mJq_Vixa1HkGBOqg0I2dwOgY9M7Z24NuysNz7dtImF2smY6lOWkGCeJ5EvVztwDfgTzgHfs.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=9hV9uGcA92kQ7kNvwFQYAtN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjM5NDc4NDc1NDM5MjI5NSwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=98f09f5cfe5a2bd5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NUNBRTMwOEM0MEU0NjQ0ODk5MTgxQTc1RTBBNkE1QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FBNzYxQzg1RjE4QjQxRTBBM0ZEREQyOEJGMDkzQ0ZCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbO88rp6ILBCBUCKAJDMywXQE5u2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=62IQ6V4j3RNcVKyYkf0Jeg&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTvAmAZpULkr4Ok5YuoWfKwwOC4T2Kvfs0Ap0oN4yVsjg&oe=6B02AA7E"
+          "videoUrl": "https://instagram.fpoz5-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNsjqCxVf1hwfqpZkNVRxfwSBbfJGb-mJq_Vixa1HkGBOqg0I2dwOgY9M7Z24NuysNz7dtImF2smY6lOWkGCeJ5EvVztwDfgTzgHfs.mp4?_nc_cat=105&_nc_oc=AdpGZVAoCEheets1mVWCFxvK_iXbSDG5U_CNZH1kQyBE-9o0ns8NFhU5HRBlj7MH9MI&_nc_sid=5e9851&_nc_ht=instagram.fpoz5-1.fna.fbcdn.net&_nc_ohc=9hV9uGcA92kQ7kNvwEyLZ3t&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjM5NDc4NDc1NDM5MjI5NSwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=98f09f5cfe5a2bd5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NUNBRTMwOEM0MEU0NjQ0ODk5MTgxQTc1RTBBNkE1QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FBNzYxQzg1RjE4QjQxRTBBM0ZEREQyOEJGMDkzQ0ZCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbO88rp6ILBCBUCKAJDMywXQE5u2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=C5bEXCw6d8g70l3W41sraw&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSTy0ZOrMLM0v6ehfQyFr9DkPGDqP6l-ZVHvJXq2-I3SQ&oe=6B03C3BE"
         },
         {
           "id": "4026707590751798800",
@@ -787,12 +787,12 @@ window.DATA = {
           "type": "Video",
           "caption": "Applovin shot up 74% in 4 trading days 📈\n\nComment “stocks” or click the link in my bio to see my entire portfolio for completely free ‼️\n\nF",
           "timestamp": "2026-11-09T16:18:11.000Z",
-          "likes": 506,
-          "comments": 142,
-          "views": 35781,
-          "score": 35781,
+          "likes": 507,
+          "comments": 144,
+          "views": 35958,
+          "score": 35958,
           "owner": "joe.investss",
-          "videoUrl": "https://scontent-ams4-1.cdninstagram.com/o1/v/t2/f2/m86/AQP0rzTGmnUqTwSAQ6Fo-S8Z6gTTQxV614BN944_FD1qof_G589PUlgfLFuReX3_trx_EaaRFyTcKoTJMfjueaosshAjxdhq_emtFuI.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=zQ4NsUmqKh0Q7kNvwF30JV1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjkyMzA5Mjk5MTM5NTI2NCwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=cc1c28defdba61ae&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BRjBEODlGNzM2NTM0MTJEOUQ0OEIxMzA2NjYyNzRGNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg1MTU2MzI0QUIzNDQ4RDhBMDI2QjdDNTkyNDg5REE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaAl672s6KxChUCKAJDMywXQE8MzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Ff_0xjdV7vSRhaGzc0xnPw&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSAqs6tNVkNR8XTXP9scT6Ycbf6XHbHxUyDblIdnFlY0w&oe=6B028441"
+          "videoUrl": "https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQP0rzTGmnUqTwSAQ6Fo-S8Z6gTTQxV614BN944_FD1qof_G589PUlgfLFuReX3_trx_EaaRFyTcKoTJMfjueaosshAjxdhq_emtFuI.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=VriQo5oAhZEQ7kNvwHwlwlJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjkyMzA5Mjk5MTM5NTI2NCwiYXNzZXRfYWdlX2RheXMiOjEyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=cc1c28defdba61ae&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BRjBEODlGNzM2NTM0MTJEOUQ0OEIxMzA2NjYyNzRGNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg1MTU2MzI0QUIzNDQ4RDhBMDI2QjdDNTkyNDg5REE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaAl672s6KxChUCKAJDMywXQE8MzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=SwVWYn8QYpHnlrNleRA1zA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQAbkraYsIIolIB025Mzj5azc8e91KaFRaDJVUQZgbAjg&oe=6B03D5C1"
         },
         {
           "id": "4027521437366902002",
@@ -800,12 +800,12 @@ window.DATA = {
           "type": "Video",
           "caption": "If you’re not credit card maxing, you’re leaving money on the table 💵. Here’s the Best Welcome Offer right now ‼️ \n\nComment what cards you ",
           "timestamp": "2026-11-10T19:17:55.000Z",
-          "likes": 277,
+          "likes": 280,
           "comments": 19,
-          "views": 19800,
-          "score": 19800,
+          "views": 19933,
+          "score": 19933,
           "owner": "joe.investss",
-          "videoUrl": "https://scontent-icn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMo9Kt6p4beHGDmOtdroLNPhLV3wsAuoiIgp-fgIUK-o--WtNi8EVfTQ501bV_nXCr5wc_CnLzxrBuTve6jvPLW0UXaQu5QO3RMX54.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ohc=FYjqOVuOOZUQ7kNvwE4ajNh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ1MTQ1NDU0OTc4MjUwMCwiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=429c66916e096494&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82N0MwQTI1MTY5NEY0NTI5QkE2N0Q5Njg1NUUzODVGRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzEyREZFNzU3Q0I1QjQ1RDQ4RUNCM0JGRkNBOEVDNjg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbIv8eN44WUBRUCKAJDMywXQEnVP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=WzUMB_YVBBFH9yfxnGOgog&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSq_vH1WRswyYB7a0cFiXb-FkgpcvJpGeDwrAX_9ArPGg&oe=6B029CB8"
+          "videoUrl": "https://instagram.find1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQMo9Kt6p4beHGDmOtdroLNPhLV3wsAuoiIgp-fgIUK-o--WtNi8EVfTQ501bV_nXCr5wc_CnLzxrBuTve6jvPLW0UXaQu5QO3RMX54.mp4?_nc_cat=107&_nc_oc=AdrpIGlYcfbZBcfOMVCNu8ttpFVp4Uhq4HTOJ474qhU9n3sqcQu99O_rILMFPwi5rC0&_nc_sid=5e9851&_nc_ht=instagram.find1-1.fna.fbcdn.net&_nc_ohc=FYjqOVuOOZUQ7kNvwEkS3VQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ1MTQ1NDU0OTc4MjUwMCwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=429c66916e096494&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82N0MwQTI1MTY5NEY0NTI5QkE2N0Q5Njg1NUUzODVGRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzEyREZFNzU3Q0I1QjQ1RDQ4RUNCM0JGRkNBOEVDNjg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbIv8eN44WUBRUCKAJDMywXQEnVP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=4WgJOMUXp7WKrSxmFLzS8Q&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ0frryG6UWKMSU3goIycm9WoxnRqUUkHEq4fM6Diwaxg&oe=6B03EE38"
         },
         {
           "id": "4024512090443312925",
@@ -815,10 +815,10 @@ window.DATA = {
           "timestamp": "2026-11-06T15:37:08.000Z",
           "likes": 325,
           "comments": 25,
-          "views": 19579,
-          "score": 19579,
+          "views": 19619,
+          "score": 19619,
           "owner": "joe.investss",
-          "videoUrl": "https://instagram.fbne6-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPD7pF2WRdPfoDzkrxfMNy7CUGNEyB-ADcwyGw50PRcRjkUL5vC3CBUXg7NWqFwqlhxBH9ejtqS85T-4BkupZxz1YZLvPLXi_0oPzo.mp4?_nc_cat=105&_nc_oc=AdqsVzOkwqUwpPwCYwtNPqxhgFsepxO-RYMrgw7U5tDqeU4HIXCS0XCiyDfvdiZ0gvM&_nc_sid=5e9851&_nc_ht=instagram.fbne6-1.fna.fbcdn.net&_nc_ohc=OENoyYNM8JIQ7kNvwGP61_q&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTEzMzc1MzQwNTkyMzM1OSwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=36b807ec8729e780&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81NEQ0ODA0RkNGMTk0OTE3QUFBRTRDNUQxNDI0MTUxQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkxMzgzREQ3RUE1QTRDN0M5NzIwMjdERTIxRkU4N0U1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa-gK-QkcmDBBUCKAJDMywXQFGqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_D4qOAxIdIUMmMmX0A__KA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSRxAypox2LeN3feO9cvVcUuwWV0aGBfEy14_rhJhUbtA&oe=6B02A91A"
+          "videoUrl": "https://instagram.fplu19-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPD7pF2WRdPfoDzkrxfMNy7CUGNEyB-ADcwyGw50PRcRjkUL5vC3CBUXg7NWqFwqlhxBH9ejtqS85T-4BkupZxz1YZLvPLXi_0oPzo.mp4?_nc_cat=105&_nc_oc=AdouKVxMDCSlsIQ8Z0fG0naDHu8RkBVxHmh7CXMky-fa79w3nsyrVlEudl5O0gjnxyo&_nc_sid=5e9851&_nc_ht=instagram.fplu19-1.fna.fbcdn.net&_nc_ohc=OENoyYNM8JIQ7kNvwEQLDcB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTEzMzc1MzQwNTkyMzM1OSwiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=36b807ec8729e780&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81NEQ0ODA0RkNGMTk0OTE3QUFBRTRDNUQxNDI0MTUxQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkxMzgzREQ3RUE1QTRDN0M5NzIwMjdERTIxRkU4N0U1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa-gK-QkcmDBBUCKAJDMywXQFGqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=hipT8GAwfl-56cOv4HkW7Q&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTtLCl75-6RaQcSnMqHSC8NRNuakOufvvG4ejl7K3g0JQ&oe=6B03C25A"
         },
         {
           "id": "4029696716493172465",
@@ -826,12 +826,12 @@ window.DATA = {
           "type": "Video",
           "caption": "4 accounts you need in your 20s to be financially ahead ‼️ \n\nComment “saving” or click the link in my bio for the High Yield Savings Account",
           "timestamp": "2026-11-13T19:18:21.000Z",
-          "likes": 271,
+          "likes": 272,
           "comments": 44,
-          "views": 17330,
-          "score": 17330,
+          "views": 17525,
+          "score": 17525,
           "owner": "joe.investss",
-          "videoUrl": "https://instagram.fmad7-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPRMFVzJJBMXAzMseHoVdy3_bLkfzn3lAotQHWrth_0xQwpYZCZjLrjJpidNhBziR9pHofVpF8hKxhXSoLNuTh0_jnqPEwrIFHdGSQ.mp4?_nc_cat=107&_nc_oc=AdrXLwWjVZR7f-UDFzZuE51YbCPEWUeQ6Pz8JNxSLbRl6wYa8T3RK6SZbPM4N9rsOnM&_nc_sid=5e9851&_nc_ht=instagram.fmad7-1.fna.fbcdn.net&_nc_ohc=81Z9yNY8tHkQ7kNvwEjACRt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzE0MDM4MDE1Mjk2MDQzMCwiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a879b9ab0ee67d4e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNTg1RTBBNzZFRTM0MTVGOUQ3OThEQzg5NTgzMzVCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdBMDk1QkQ5QjQ5QjQwN0RCNzBFNjJERkY0QTExNUMyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbc1tC3l4qUCxUCKAJDMywXQEc3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=8evLtBS6bL8kVBmp3uqf9w&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSemKH-_7XEKnzLpusQQ00vsCqJpuOXRgR1dtcuMXm0Yw&oe=6B02AE4C"
+          "videoUrl": "https://scontent-vie1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPRMFVzJJBMXAzMseHoVdy3_bLkfzn3lAotQHWrth_0xQwpYZCZjLrjJpidNhBziR9pHofVpF8hKxhXSoLNuTh0_jnqPEwrIFHdGSQ.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_ohc=81Z9yNY8tHkQ7kNvwEMTjYn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzE0MDM4MDE1Mjk2MDQzMCwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a879b9ab0ee67d4e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNTg1RTBBNzZFRTM0MTVGOUQ3OThEQzg5NTgzMzVCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdBMDk1QkQ5QjQ5QjQwN0RCNzBFNjJERkY0QTExNUMyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbc1tC3l4qUCxUCKAJDMywXQEc3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=RFC2dkQM3FFEZTf72yBFHA&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSOC1JFaf-rBpmb3MfwORHMJsmmxG_v2KPEzKJyTqmfgw&oe=6B03C78C"
         },
         {
           "id": "4025999669302828437",
@@ -839,12 +839,25 @@ window.DATA = {
           "type": "Video",
           "caption": "Dreamina’s Black Friday deal is the cheapest AI subscription I’ve ever seen — 20% off the monthly package for new members, limited-time mini",
           "timestamp": "2026-11-08T16:52:08.000Z",
-          "likes": 156,
+          "likes": 157,
           "comments": 38,
-          "views": 16875,
-          "score": 16875,
+          "views": 16963,
+          "score": 16963,
           "owner": "joe.investss",
-          "videoUrl": "https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNuH-XW6z6o0kWkMZGh2XfjhBqkuqWJqKkHeej2JZ4svSsEtbpGDJzp39GLwIxoDUwYcVZTQjy17ju9IwFEAP9oojknuwehg2dx2ks.mp4?_nc_cat=107&_nc_oc=AdqrpijBqbvreecJCTEfNEebElMktbEsoBCjmlB_iOdurfow05IVG8b8eghwbgz-tNk&_nc_sid=5e9851&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=febAxuONsl4Q7kNvwHXG75T&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTEzMjY4NDAwMjQ2Nzg4MiwiYXNzZXRfYWdlX2RheXMiOjEyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDYsIndhdGNoX3RpbWVfcyI6ODIxNjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ff05c86aa9608b17&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80M0Q5NUJFRkIzM0M0N0REQkY0OUE5MkEzMTg5ODk3M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzREMTFFREEzNTZCRjRDRDA4RUU4RjE0OUEyMzZDM0E5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbUgOG58YqDBBUCKAJDMywXQEdd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=n54B1mFI1AdRZBSgw9XoZQ&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRheNvsOZCGzRVy2BLpRzH71R7pNPTd1fZEBFFJrSisYw&oe=6B02AB2C"
+          "videoUrl": "https://instagram.fmel12-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNuH-XW6z6o0kWkMZGh2XfjhBqkuqWJqKkHeej2JZ4svSsEtbpGDJzp39GLwIxoDUwYcVZTQjy17ju9IwFEAP9oojknuwehg2dx2ks.mp4?_nc_cat=107&_nc_oc=Adqk5kkOttRM5_Fud1Oded5pZotgLVkqfw2JMCv4faeEsjOcsi82sz61NWKLkRsnBbY&_nc_sid=5e9851&_nc_ht=instagram.fmel12-1.fna.fbcdn.net&_nc_ohc=febAxuONsl4Q7kNvwG6WNyg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTEzMjY4NDAwMjQ2Nzg4MiwiYXNzZXRfYWdlX2RheXMiOjEzLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ff05c86aa9608b17&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80M0Q5NUJFRkIzM0M0N0REQkY0OUE5MkEzMTg5ODk3M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzREMTFFREEzNTZCRjRDRDA4RUU4RjE0OUEyMzZDM0E5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbUgOG58YqDBBUCKAJDMywXQEdd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Y7iPf0B3yW6Q9iS_cyxTBA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQtL4rMZxf-XAKaPFaDxAE4vJJCf1oNZGo7_SDCiJ0A7w&oe=6B03C46C"
+        },
+        {
+          "id": "4034928386611678441",
+          "url": "https://www.instagram.com/p/Df-8f1aIQzp/",
+          "type": "Video",
+          "caption": "How much you need to make to afford a $500,000 house in 4 steps 🏠 (save for later) 👇\n\nStep 1: Price × 8% = $40,000. That’s your down payme",
+          "timestamp": "2026-11-21T00:36:42.000Z",
+          "likes": 161,
+          "comments": 13,
+          "views": 14980,
+          "score": 14980,
+          "owner": "joe.investss",
+          "videoUrl": "https://scontent-nrt1-1.cdninstagram.com/o1/v/t2/f2/m86/AQNHzNoG6iRIhGsXS62PPWjja8zgYgWQQSMvr8HzsSBEo9L7iUKpsHeh7aJxUn2AZW1rkr8gT4tkslhs5R0t9_IbEaBDZB73a-3Di-Y.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=dTAxwcg2CucQ7kNvwEI23Ur&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ1ODY0NTYwMzEyNDcxMywiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1e02e494ce14fc60&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMjQ1OTNEODcwODg0NjIxQUJERjgyMUZGNzAzQ0ZGRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FDNUI2QUNDMUE1MDRFQzBCNzEzRDFEM0VFMDExOUUxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbSl7jQrKiXBRUCKAJDMywXQD5dsi0OVgQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=FEGIqociF9-dYe1ZlCJiXA&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTifBC-4DJsoKHCs91cmWxfi0kJNPFZryxV-qFfqk7FUQ&oe=6B03EF5E"
         },
         {
           "id": "4033933276680006480",
@@ -852,12 +865,12 @@ window.DATA = {
           "type": "Video",
           "caption": "This video is disseminated on behalf of Moleculin Biotech (Nasdaq: MBRX).\n\nMoleculin Biotech is a clinical-stage pharmaceutical company base",
           "timestamp": "2026-11-19T15:36:54.000Z",
-          "likes": 73,
+          "likes": 82,
           "comments": 4,
-          "views": 8954,
-          "score": 8954,
+          "views": 9739,
+          "score": 9739,
           "owner": "joe.investss",
-          "videoUrl": "https://scontent-nrt6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNfpwCzc7sKWqwwV8P9x379VjlRB60zXmGQiB1T5XOW4LMxKPaIaiUak-BGqxYLjvMq4CdYOsvSQpWnn2HnKdrqB33BqC63xamLnBk.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_ohc=iSqwZ9YTlQAQ7kNvwHWYR7A&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzIuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ4MzAwMTE0NzEzMDY2NiwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1f718e45e2eebbee&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNEY0RjFEMDJFOTk0QjlEQUNCNUE4QTA3NTZFMjc0QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0QyNjIxOTU2ODNDNzRBMzc4NDE5RjMwQjQ2MDFDMkY5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbUjJzJg7KiBRUCKAJDMiwXQFPKn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=AXmj4d0xP5aOv1dZilFl8A&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ4rbvZPsXA_PAY7VrA9pjLRMkm71QwuNduD_liteSgCQ&oe=6B02B1F0"
+          "videoUrl": "https://instagram.fbio3-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNfpwCzc7sKWqwwV8P9x379VjlRB60zXmGQiB1T5XOW4LMxKPaIaiUak-BGqxYLjvMq4CdYOsvSQpWnn2HnKdrqB33BqC63xamLnBk.mp4?_nc_cat=103&_nc_oc=AdpUzd667DgONa0sVVMSx1N6El9N5uiQQ-nfzxpJrJbuSBctYKxx3pwQU_Y1sAoDluM&_nc_sid=5e9851&_nc_ht=instagram.fbio3-2.fna.fbcdn.net&_nc_ohc=rhrQsGZ_tlAQ7kNvwGb4oEZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ4MzAwMTE0NzEzMDY2NiwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1f718e45e2eebbee&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNEY0RjFEMDJFOTk0QjlEQUNCNUE4QTA3NTZFMjc0QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0QyNjIxOTU2ODNDNzRBMzc4NDE5RjMwQjQ2MDFDMkY5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbUjJzJg7KiBRUCKAJDMywXQFPKn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Mbk4_yVK7bmuB89ARtOY0w&_nc_ss=70580&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQkOk-kOwRh_dKUXM-Rgvx_J3uPKLYXTo7DLpEmi8WLJw&oe=6B03CB30"
         }
       ]
     }

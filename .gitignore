@@ -5,3 +5,10 @@ tools/
 schtasks.txt
 fix-task.cmd
 scripts/reel-to-script/temp_*
+
+# reel editor: raw footage, intermediates and renders stay local
+editor/input/
+editor/work/
+editor/output/
+output/inbox/
+inbox-local.log

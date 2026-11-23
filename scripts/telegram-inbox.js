@@ -76,10 +76,15 @@ async function check() {
 }
 
 async function processAll() {
-  const { reels, lastId } = await pending();
+  const { mine, reels, lastId } = await pending();
   // ack first: if a reel crashes the run, it won't loop forever (just resend the link)
   await ack(lastId);
-  if (!reels.length) { console.log("nothing to do"); return; }
+  if (!reels.length) {
+    if (mine.length) await say("Send me an Instagram reel link and I'll transcribe it.");
+    console.log("nothing to do");
+    return;
+  }
+  const snapshot = LOCAL ? snapshotState() : null;
 
   for (const url of reels) {
     console.log("\n==== " + url + " ====");
@@ -92,8 +97,9 @@ async function processAll() {
 
       try {
         step("rewrite.js");
-        step("output.js");
         const s = JSON.parse(fs.readFileSync(path.join(R2S, "last_script.json"), "utf8"));
+        if (LOCAL) saveLocal(s, t);
+        else step("output.js");
         await say([
           `🧩 <b>Format:</b> ${esc(s.format || s.whyOriginalWorked || "")}`,
           s.hookPattern ? `🪝 <b>Hook pattern:</b> <i>${esc(s.hookPattern)}</i>` : "",
@@ -111,7 +117,33 @@ async function processAll() {
       await say(`❌ Couldn't transcribe that reel.\n${esc(e.message).slice(0, 300)}\n\nIf it's private or deleted, that's why. Otherwise resend it.`);
     }
   }
-  try { step("view.js"); } catch (e) { console.error("viewer rebuild failed: " + e.message); }
+  if (LOCAL) restoreState(snapshot); // tracked files back as they were, so `git pull` never jams
+  else { try { step("view.js"); } catch (e) { console.error("viewer rebuild failed: " + e.message); } }
+}
+
+// Laptop mode (INBOX_LOCAL=1, set by inbox-local.cmd): scripts go to output/inbox/ (gitignored)
+const LOCAL = process.env.INBOX_LOCAL === "1";
+const STATE_FILES = ["last_fetch.json", "last_transcript.json", "last_transcript.txt", "last_script.json"];
+function snapshotState() {
+  return Object.fromEntries(STATE_FILES.map((f) => {
+    const p = path.join(R2S, f);
+    return [f, fs.existsSync(p) ? fs.readFileSync(p) : null];
+  }));
+}
+function restoreState(snap) {
+  for (const [f, buf] of Object.entries(snap || {})) if (buf) fs.writeFileSync(path.join(R2S, f), buf);
+}
+function saveLocal(s, t) {
+  const dir = path.join(ROOT, "output", "inbox");
+  fs.mkdirSync(dir, { recursive: true });
+  const code = ((s.sourceUrl || "").match(/(?:reel|reels|p)\/([A-Za-z0-9_-]+)/) || [])[1] || Date.now();
+  const file = path.join(dir, `${new Date().toISOString().slice(0, 10)}_${t.handle}_${code}.md`);
+  fs.writeFileSync(file, [
+    `# @${t.handle}: ${s.sourceUrl}`, ``,
+    `**Format:** ${s.format || ""}`, `**Hook pattern:** ${s.hookPattern || ""}`, ``,
+    `## Transcript`, t.transcript || "", ``, `## Draft in your voice`, s.fullScript || "", ``,
+  ].join("\n"));
+  console.log("Saved " + file);
 }
 
 const mode = process.argv[2];

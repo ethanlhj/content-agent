@@ -489,5 +489,51 @@
     "cta": "Comment the word Plan and I will send you the full breakdown. Follow for more.",
     "whyOriginalWorked": "The raw opening loss number created instant credibility and emotional relatability, pulling in viewers who are also sitting on losses and desperate for a structured recovery path.",
     "fullScript": "I lost $28,000 in a single month and I have a plan to get it back. Step one is QQQ [VERIFY] first. When the market bounces, QQQ bounces with it. I watch the 634 level [VERIFY] but buy small amounts over time. Step two is large caps like Meta and Amazon. Real cash, strong assets, solid upside. Step three is high beta names like Micron [VERIFY] only once the market shows a bottom. The VIX above 28 to 30 signals peak fear and that is my entry trigger for QQQ and large caps. Not financial advice, just what I am watching. Comment Plan and I will send you the full breakdown. Follow for more."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DVPfiQwidNl/",
+    "handle": "mo.invests",
+    "generatedAt": "2026-11-25T22:39:51.292Z",
+    "format": "Stat-surprise reveal: open with a counterintuitive number, name the asset or sector, explain the mechanism in two beats, close with comment-bait CTA.",
+    "hookPattern": "Most people sleep on [asset/sector] — but here is what the numbers actually show.",
+    "hook": "Most people ignore bonds, but that is a mistake right now.",
+    "beats": [
+      "When the Fed cuts rates, bond prices rise — that is just how the math works, and rate cuts are on the table.",
+      "I am watching [VERIFY: TLT or long-duration bond ETFs] specifically because long-duration bonds move the most when rates drop, giving you the biggest price gain."
+    ],
+    "cta": "Not financial advice, but if you want to see exactly what I am watching, comment 'bonds' below and follow for more breakdowns.",
+    "whyOriginalWorked": "It reframed a boring asset class using a simple cause-and-effect mechanic most retail investors had never connected before.",
+    "fullScript": "Most people ignore bonds, but that is a mistake right now. When the Fed cuts rates, bond prices rise — that is just how the math works, and rate cuts are on the table. I am watching [VERIFY: TLT or long-duration bond ETFs] because long-duration bonds move the most when rates fall, so you get the biggest price gain per cut. Not financial advice, but if you want to see exactly what I am watching, comment 'bonds' below and follow for more breakdowns."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DgDVt0eItn3/",
+    "handle": "joe.investss",
+    "generatedAt": "2026-11-25T22:40:10.543Z",
+    "format": "Crowd-behavior contrast list: repeat a 'everyone wanted X at peak, nobody wanted it at the bottom' pattern across 8-10 stocks, filmed as a straight talking-head monologue, close with comment-bait CTA asking viewers what they are buying.",
+    "hookPattern": "Everyone wanted [asset] at [peak price], but nobody wanted it at [bottom price].",
+    "hook": "Everyone wanted Nvidia at $140, but nobody touched it at $47.",
+    "beats": [
+      "That pattern repeats across the whole market. Micron at $120 had buyers. At $60, crickets. Coherent at $440 had hype. At $18 [VERIFY], nobody cared.",
+      "This is what retail investing looks like. People buy the story, not the price. The opportunity is almost always when it feels the worst."
+    ],
+    "cta": "Not financial advice, but comment what you are watching right now and I will tell you if it is on my radar. Drop 'portfolio' below to see my full holdings for free.",
+    "whyOriginalWorked": "The repetition builds a rhythm that makes the behavioral bias feel undeniable before the viewer can argue with it.",
+    "fullScript": "Everyone wanted Nvidia at $140, but nobody touched it at $47. That pattern repeats across the whole market. Micron at $120 had buyers. At $60, crickets. Coherent at $440 had hype. At $185, nobody cared. This is what retail investing looks like. People buy the story, not the price. The opportunity is almost always when it feels the worst. Not financial advice, but comment what you are watching right now and I will tell you if it is on my radar. Drop 'portfolio' below to see my full holdings for free."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DgD-gf0PG07/",
+    "handle": "bdinvestingg",
+    "generatedAt": "2026-11-25T22:40:26.589Z",
+    "format": "Mindset provocation: open with a counterintuitive emotional stance, stack 3-4 short commands that reframe discomfort as advantage, close with a direct challenge or invitation to stay engaged.",
+    "hookPattern": "Shut up and let me enjoy [uncomfortable thing].",
+    "hook": "Stop running from the hard part.",
+    "beats": [
+      "Most people quit the moment investing gets uncomfortable. Portfolio down 20%? They sell. That discomfort is information, not a stop sign.",
+      "The investors who build real wealth sit in the ugly. They watch red days, hold the position, and do not flinch. That tolerance is a skill you train.",
+      "Not financial advice, but what I watch is which stocks I can hold through pain without panic. If you cannot, you do not actually believe in the thesis."
+    ],
+    "cta": "Comment 'portfolio' below and I will send you mine for free. Follow for more.",
+    "whyOriginalWorked": "It weaponizes vulnerability as strength, making the audience feel the content is a dare rather than a lesson.",
+    "fullScript": "Stop running from the hard part. Most people quit the moment investing gets uncomfortable. Portfolio down 20%? They sell. That discomfort is information, not a stop sign. The investors who build real wealth sit in the ugly. They watch red days, hold the position, and do not flinch. That tolerance is a skill you train. Not financial advice, but what I watch is which stocks I can hold through pain without panic. If you cannot hold it down, you do not actually believe in the thesis. Comment 'portfolio' below and I will send you mine for free. Follow for more."
   }
 ]

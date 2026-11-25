@@ -1,16 +1,16 @@
 {
-  "sourceUrl": "https://www.instagram.com/p/DfiusriNBBn/",
-  "handle": "charan.invests",
-  "generatedAt": "2026-11-21T20:12:40.448Z",
-  "format": "Loss recovery playbook: open with a raw dollar loss to build credibility, walk through a tiered buying sequence from safest to riskiest assets, anchor entries to a fear indicator, comment-bait CTA.",
-  "hookPattern": "I lost $[dollar amount] in [timeframe]. Here is how I am rebuilding.",
-  "hook": "I lost $28,000 in a single month and I have a plan to get it back.",
+  "sourceUrl": "https://www.instagram.com/p/DgD-gf0PG07/",
+  "handle": "bdinvestingg",
+  "generatedAt": "2026-11-25T22:40:26.589Z",
+  "format": "Mindset provocation: open with a counterintuitive emotional stance, stack 3-4 short commands that reframe discomfort as advantage, close with a direct challenge or invitation to stay engaged.",
+  "hookPattern": "Shut up and let me enjoy [uncomfortable thing].",
+  "hook": "Stop running from the hard part.",
   "beats": [
-    "Step one is broad market exposure first. QQQ [VERIFY ticker] tracks the NASDAQ and when the market recovers it recovers with it. I watch for entries around the 634 level [VERIFY] since that was last year's high, but I buy small amounts on the way down instead of waiting for a perfect bottom.",
-    "Step two is large caps like Meta and Amazon. They still generate real cash and hold strong assets, so they carry less risk than smaller names while still giving upside.",
-    "Step three is high beta stocks like Micron [VERIFY] only after the market shows bottoming signs. High beta names move the fastest when the market rips but also get destroyed fastest on the way down. I use the VIX as my signal. Above 28 to 30 means peak fear and that is when I start layering into QQQ and large caps first. Not financial advice, just what I am watching."
+    "Most people quit the moment investing gets uncomfortable. Portfolio down 20%? They sell. That discomfort is information, not a stop sign.",
+    "The investors who build real wealth sit in the ugly. They watch red days, hold the position, and do not flinch. That tolerance is a skill you train.",
+    "Not financial advice, but what I watch is which stocks I can hold through pain without panic. If you cannot, you do not actually believe in the thesis."
   ],
-  "cta": "Comment the word Plan and I will send you the full breakdown. Follow for more.",
-  "whyOriginalWorked": "The raw opening loss number created instant credibility and emotional relatability, pulling in viewers who are also sitting on losses and desperate for a structured recovery path.",
-  "fullScript": "I lost $28,000 in a single month and I have a plan to get it back. Step one is QQQ [VERIFY] first. When the market bounces, QQQ bounces with it. I watch the 634 level [VERIFY] but buy small amounts over time. Step two is large caps like Meta and Amazon. Real cash, strong assets, solid upside. Step three is high beta names like Micron [VERIFY] only once the market shows a bottom. The VIX above 28 to 30 signals peak fear and that is my entry trigger for QQQ and large caps. Not financial advice, just what I am watching. Comment Plan and I will send you the full breakdown. Follow for more."
+  "cta": "Comment 'portfolio' below and I will send you mine for free. Follow for more.",
+  "whyOriginalWorked": "It weaponizes vulnerability as strength, making the audience feel the content is a dare rather than a lesson.",
+  "fullScript": "Stop running from the hard part. Most people quit the moment investing gets uncomfortable. Portfolio down 20%? They sell. That discomfort is information, not a stop sign. The investors who build real wealth sit in the ugly. They watch red days, hold the position, and do not flinch. That tolerance is a skill you train. Not financial advice, but what I watch is which stocks I can hold through pain without panic. If you cannot hold it down, you do not actually believe in the thesis. Comment 'portfolio' below and I will send you mine for free. Follow for more."
 }

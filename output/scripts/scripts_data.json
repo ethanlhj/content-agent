@@ -535,5 +535,36 @@
     "cta": "Comment 'portfolio' below and I will send you mine for free. Follow for more.",
     "whyOriginalWorked": "It weaponizes vulnerability as strength, making the audience feel the content is a dare rather than a lesson.",
     "fullScript": "Stop running from the hard part. Most people quit the moment investing gets uncomfortable. Portfolio down 20%? They sell. That discomfort is information, not a stop sign. The investors who build real wealth sit in the ugly. They watch red days, hold the position, and do not flinch. That tolerance is a skill you train. Not financial advice, but what I watch is which stocks I can hold through pain without panic. If you cannot hold it down, you do not actually believe in the thesis. Comment 'portfolio' below and I will send you mine for free. Follow for more."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/Df0nK-QIt8I/",
+    "handle": "joe.investss",
+    "generatedAt": "2026-11-26T22:30:20.212Z",
+    "format": "Tiered ranking: assign items to Good/Better/Best tiers on screen with brief rationale for each tier, filmed as a talking-head with on-screen text labels, ends with comment-bait asking viewers to agree or challenge the ranking.",
+    "hookPattern": "Good, better, best — here is how I rank [topic].",
+    "hook": "Good, better, best — this is how I rank ways to start investing at 19.",
+    "beats": [
+      "Good: a high-yield savings account. Your money grows and you lose nothing, but inflation will outpace you long-term.",
+      "Better: broad index ETFs like QQQM [VERIFY] or VOO [VERIFY]. Low fees, instant diversification, and you are not betting on one company.",
+      "Best: combining ETFs with learning to read earnings and insider data so you understand what you own and why."
+    ],
+    "cta": "Drop your ranking in the comments and tell me where you disagree. Not financial advice. Follow for more breakdowns.",
+    "whyOriginalWorked": "The repetitive verbal hook creates a rhythmic pattern that stops the scroll and primes viewers to engage by forming their own opinion before the CTA asks for it.",
+    "fullScript": "Good, better, best — this is how I rank ways to start investing at 19. Good: a high-yield savings account. Your money grows and you lose nothing, but inflation will outpace you long-term. Better: broad index ETFs like QQQM or VOO. Low fees, instant diversification, and you are not betting on one company. Best: combining ETFs with learning to read earnings and insider data so you understand what you own and why. Drop your ranking in the comments and tell me where you disagree. Not financial advice. Follow for more breakdowns."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DfiVCZDPSKQ/",
+    "handle": "kevvonz",
+    "generatedAt": "2026-11-26T22:30:42.935Z",
+    "format": "Scandal-to-market-impact: open with a shocking personal headline, connect it to real stock movement and a broader consequence, close with a takeaway lesson and follow CTA.",
+    "hookPattern": "The [shocking personal story] just cost [person/company] [specific dollar amount].",
+    "hook": "Jensen Huang's alleged spy scandal just wiped $225 billion from Nvidia's market cap in a single day.",
+    "beats": [
+      "Nvidia dropped 5% while AMD ran 13% on the same day — that spread tells you exactly how the market is pricing this risk right now.",
+      "Beyond the stock, Jensen has no prenup, so a divorce could pull another $80 billion from his personal net worth. And the national security angle makes this bigger than any earnings miss."
+    ],
+    "cta": "This is what I'm watching closely — not financial advice, do your own research. Follow for more market breakdowns.",
+    "whyOriginalWorked": "It hooked with celebrity scandal energy, stacked concrete numbers fast, and made a dry market story feel personal and urgent.",
+    "fullScript": "Jensen Huang's alleged spy scandal just wiped $225 billion from Nvidia's market cap in a single day. Nvidia dropped 5% while AMD ran 13% on the same green day for AI stocks — that spread tells you exactly how the market is pricing this risk. Beyond the stock, Jensen has no prenup, so a divorce could pull another $80 billion from his personal net worth. The national security angle makes this bigger than any earnings miss. This is what I'm watching — not financial advice, do your own research. Follow for more market breakdowns."
   }
 ]

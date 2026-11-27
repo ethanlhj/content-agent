@@ -1,15 +1,15 @@
 {
-  "sourceUrl": "https://www.instagram.com/p/DfiVCZDPSKQ/",
+  "sourceUrl": "https://www.instagram.com/p/DgFovwJNLqy/",
   "handle": "kevvonz",
-  "generatedAt": "2026-11-26T22:30:42.935Z",
-  "format": "Scandal-to-market-impact: open with a shocking personal headline, connect it to real stock movement and a broader consequence, close with a takeaway lesson and follow CTA.",
-  "hookPattern": "The [shocking personal story] just cost [person/company] [specific dollar amount].",
-  "hook": "Jensen Huang's alleged spy scandal just wiped $225 billion from Nvidia's market cap in a single day.",
+  "generatedAt": "2026-11-27T22:11:30.905Z",
+  "format": "Hype reaction: open with high-energy news announcement, name the catalyst and the price move, tie it to broader sector sentiment, close with implied follow for more.",
+  "hookPattern": "[Person/company] just moved [ticker] [X]% and the whole [sector] trade is back.",
+  "hook": "Jensen Huang just moved NVIDIA [VERIFY] over 35% in a single session.",
   "beats": [
-    "Nvidia dropped 5% while AMD ran 13% on the same day — that spread tells you exactly how the market is pricing this risk right now.",
-    "Beyond the stock, Jensen has no prenup, so a divorce could pull another $80 billion from his personal net worth. And the national security angle makes this bigger than any earnings miss."
+    "That one move pulled the entire AI sector out of the red. Everything I was watching in this space is green right now.",
+    "This is what a catalyst looks like. One person, one announcement, flips market sentiment for a full sector in a day."
   ],
-  "cta": "This is what I'm watching closely — not financial advice, do your own research. Follow for more market breakdowns.",
-  "whyOriginalWorked": "It hooked with celebrity scandal energy, stacked concrete numbers fast, and made a dry market story feel personal and urgent.",
-  "fullScript": "Jensen Huang's alleged spy scandal just wiped $225 billion from Nvidia's market cap in a single day. Nvidia dropped 5% while AMD ran 13% on the same green day for AI stocks — that spread tells you exactly how the market is pricing this risk. Beyond the stock, Jensen has no prenup, so a divorce could pull another $80 billion from his personal net worth. The national security angle makes this bigger than any earnings miss. This is what I'm watching — not financial advice, do your own research. Follow for more market breakdowns."
+  "cta": "I'm watching a few names in the AI space closely right now. Not financial advice, do your own research. Comment 'AI' and I'll share what's on my radar.",
+  "whyOriginalWorked": "Raw, unfiltered emotional relief from a real investor gave the reel authenticity and made viewers feel the momentum shift in real time.",
+  "fullScript": "Jensen Huang just moved NVIDIA [VERIFY] over 35% in a single session. That one move pulled the entire AI sector out of the red. Everything I was watching in this space is green right now. This is what a catalyst looks like. One person, one announcement, flips market sentiment for a full sector in a day. I'm watching a few names in the AI space closely. Not financial advice, do your own research. Comment 'AI' and I'll share what's on my radar."
 }

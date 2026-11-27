@@ -566,5 +566,36 @@
     "cta": "This is what I'm watching closely — not financial advice, do your own research. Follow for more market breakdowns.",
     "whyOriginalWorked": "It hooked with celebrity scandal energy, stacked concrete numbers fast, and made a dry market story feel personal and urgent.",
     "fullScript": "Jensen Huang's alleged spy scandal just wiped $225 billion from Nvidia's market cap in a single day. Nvidia dropped 5% while AMD ran 13% on the same green day for AI stocks — that spread tells you exactly how the market is pricing this risk. Beyond the stock, Jensen has no prenup, so a divorce could pull another $80 billion from his personal net worth. The national security angle makes this bigger than any earnings miss. This is what I'm watching — not financial advice, do your own research. Follow for more market breakdowns."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DfxuGuxy_B0/",
+    "handle": "charan.invests",
+    "generatedAt": "2026-11-27T22:11:19.015Z",
+    "format": "Chaos pattern: list 3-4 recent alarming news events rapid-fire, connect them to a single macro theme, name the obvious trade, add a reason to hesitate, invite comments.",
+    "hookPattern": "Is it just me or does [unsettling pattern] feel like something bigger is happening?",
+    "hook": "Four major incidents in one week and I think they're all connected.",
+    "beats": [
+      "Hackers linked to North Korea took $6.3 billion [VERIFY] from Binance. Microsoft went down globally for a full day. The FAA grounded every US flight for four-plus hours. That is not a normal week.",
+      "One theme runs through all of it: digital infrastructure is breaking, and cyber threats are getting worse. Crypto dropped near July lows because of the hacking fear alone.",
+      "Cybersecurity stocks are the obvious watch here, but most are already priced at a premium. I am not buying anything yet. Not financial advice."
+    ],
+    "cta": "Tell me what you are watching in the comments and follow for more breakdowns.",
+    "whyOriginalWorked": "The rapid-fire event stacking creates urgency and pattern recognition before the viewer can scroll away.",
+    "fullScript": "Four major incidents in one week and I think they are all connected. Hackers linked to North Korea took $6.3 billion [VERIFY] from Binance. Microsoft went down globally for a full day. The FAA grounded every US flight for four-plus hours. That is not a normal week. One theme runs through all of it: digital infrastructure is breaking and cyber threats are getting worse. Crypto dropped near July lows on hacking fear alone. Cybersecurity stocks are the obvious watch, but most are already priced at a premium. I am not buying anything yet. Not financial advice. Tell me what you are watching in the comments and follow for more breakdowns."
+  },
+  {
+    "sourceUrl": "https://www.instagram.com/p/DgFovwJNLqy/",
+    "handle": "kevvonz",
+    "generatedAt": "2026-11-27T22:11:30.905Z",
+    "format": "Hype reaction: open with high-energy news announcement, name the catalyst and the price move, tie it to broader sector sentiment, close with implied follow for more.",
+    "hookPattern": "[Person/company] just moved [ticker] [X]% and the whole [sector] trade is back.",
+    "hook": "Jensen Huang just moved NVIDIA [VERIFY] over 35% in a single session.",
+    "beats": [
+      "That one move pulled the entire AI sector out of the red. Everything I was watching in this space is green right now.",
+      "This is what a catalyst looks like. One person, one announcement, flips market sentiment for a full sector in a day."
+    ],
+    "cta": "I'm watching a few names in the AI space closely right now. Not financial advice, do your own research. Comment 'AI' and I'll share what's on my radar.",
+    "whyOriginalWorked": "Raw, unfiltered emotional relief from a real investor gave the reel authenticity and made viewers feel the momentum shift in real time.",
+    "fullScript": "Jensen Huang just moved NVIDIA [VERIFY] over 35% in a single session. That one move pulled the entire AI sector out of the red. Everything I was watching in this space is green right now. This is what a catalyst looks like. One person, one announcement, flips market sentiment for a full sector in a day. I'm watching a few names in the AI space closely. Not financial advice, do your own research. Comment 'AI' and I'll share what's on my radar."
   }
 ]
